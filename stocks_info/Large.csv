@@ -1,0 +1,1341 @@
+,ticker,sector,company_name,market_cap,market_category,analyst_consensus,stock_outstanding
+0,PEP,consumergoods,PepsiCo,199222846877,Large,ModerateBuy,1381956484.995838
+1,TM,consumergoods,Toyota Motor,197548501939,Large,ModerateBuy,1397979632.9983723
+2,INTC,technology,Intel,192810900000,Large,Hold,4098000000.0000005
+3,CICHF,financial,China Construction Bank,190633370333,Large,,250833382017.10526
+4,ABT,healthcare,Abbott Labs,188596995834,Large,StrongBuy,1772361580.9980266
+5,ABBV,healthcare,AbbVie,183962382776,Large,StrongBuy,1765473922.9942417
+6,CSCO,technology,Cisco Systems,179584362042,Large,ModerateBuy,4225514400.9882355
+7,PROSY,technology,Prosus NV,179146995202,Large,,8161594314.441914
+8,PROSF,technology,Prosus,178789351473,Large,StrongBuy,1625653313.9934533
+9,TMO,healthcare,Thermo Fisher,177736516403,Large,StrongBuy,396335190.9978816
+10,CVX,utilities,Chevron,177370439183,Large,ModerateBuy,1925010192.999783
+11,ASML,industrialgoods,ASML Holding,177178319254,Large,StrongBuy,418386509.9981109
+12,ORCL,technology,Oracle,172855082433,Large,ModerateBuy,3010888040.9858913
+13,XOM,utilities,Exxon Mobil,172554234192,Large,Hold,4228234113.9916687
+14,COST,consumergoods,Costco,171086167469,Large,StrongBuy,441228026.99935526
+15,MCD,services,McDonald's,163432644107,Large,StrongBuy,745110987.9958056
+16,QCOM,technology,Qualcomm,162954480000,Large,ModerateBuy,1131000000.0
+17,PDD,consumergoods,Pinduoduo,162757410093,Large,StrongBuy,1197626270.0
+18,UL,consumergoods,Unilever,160633264000,Large,ModerateSell,2621300000.0
+19,TMUS,technology,T Mobile US,159790385542,Large,StrongBuy,1241186775.9981358
+20,CIHKY,financial,China Merchants Bank,159767721876,Large,,5028886429.839471
+21,ACN,technology,Accenture,158098520885,Large,ModerateBuy,634093453.9967111
+22,AVGO,technology,Broadcom,158091255194,Large,StrongBuy,404501330.99813217
+23,CIHHF,financial,China Merchants Bank Co,157876233462,Large,,25219845600.958466
+24,UNLVF,consumergoods,Unilever NV,155815314600,Large,ModerateBuy,2565283414.553836
+25,UN,consumergoods,Unilever,154551848000,Large,ModerateBuy,2528248781.2857842
+26,DHR,healthcare,Danaher,154308193381,Large,StrongBuy,710377466.9965934
+27,NVO,healthcare,Novo Nordisk,153151888493,Large,Hold,2315571340.9888115
+28,MDT,healthcare,Medtronic,152334965207,Large,StrongBuy,1344408835.9985878
+29,NEE,utilities,NextEra Energy,148830861200,Large,StrongBuy,1959074123.9963143
+30,UPS,industrialgoods,United Parcel,147379856101,Large,ModerateBuy,864397982.9970675
+31,HON,industrialgoods,Honeywell International,145726100298,Large,ModerateBuy,701685767.9988444
+32,BHP,basicmaterials,BHP Group,144960078625,Large,ModerateBuy,2528961594.9930215
+33,TXN,technology,Texas Instruments,144667679688,Large,ModerateBuy,917942130.0
+34,BHPLF,basicmaterials,BHP Group,143897914755,Large,ModerateBuy,5057923189.982426
+35,BMY,healthcare,Bristol Myers,142002785391,Large,ModerateBuy,2259751517.9980903
+36,RDS.A,utilities,Royal Dutch Shell A,141860881978,Large,ModerateBuy,3903711666.9785357
+37,SAP,technology,SAP AG,140958114093,Large,ModerateBuy,1193649877.9998305
+38,AAIGF,financial,AIA Group,140255600000,Large,,12091000000.0
+39,WXIBF,healthcare,Wuxi Biologics (Cayman),139814542453,Large,,4406383310.841475
+40,UNP,industrialgoods,Union Pacific,139652583582,Large,StrongBuy,673868864.9971048
+41,AAGIY,financial,AIA Group,138834907500,Large,,3028024154.852781
+42,LLY,healthcare,Eli Lilly & Co,138465186310,Large,ModerateBuy,956581597.9965458
+43,AZN,healthcare,AstraZeneca,138054745002,Large,StrongBuy,2624614923.9923954
+44,JD,consumergoods,JD,136745647710,Large,StrongBuy,1549877000.0
+45,RDS.B,utilities,Royal Dutch Shell B,136200500061,Large,,3903711666.981943
+46,BUD,consumergoods,Anheuser-Busch Inbev Sa,134038141349,Large,ModerateBuy,1971439054.9933815
+47,CHTR,services,Charter Communications,133471323897,Large,ModerateBuy,204899176.99877188
+48,LIN,basicmaterials,Linde,132967194097,Large,StrongBuy,524856690.99628955
+49,CHLKF,technology,China Mobile,130019316395,Large,,20475482896.850395
+50,ACGBF,financial,Agricultural Bank of China,130018697083,Large,,351401884008.1081
+51,AMGN,healthcare,Amgen,128257566909,Large,ModerateBuy,582168611.9967319
+52,ZM,technology,Zoom Video Communications,126203277245,Large,ModerateBuy,284420979.99864775
+53,SNY,healthcare,Sanofi-Aventis Sa,126139441676,Large,ModerateBuy,2512737881.9920316
+54,HDB,financial,Hdfc Bank,125170899019,Large,ModerateBuy,1835081351.9865124
+55,CHL,technology,China Mobile,124490936001,Large,,4095096578.980263
+56,SHOP,consumergoods,Shopify,124291741610,Large,ModerateBuy,121912018.99913685
+57,SNYNF,healthcare,Sanofi,123940796029,Large,StrongBuy,1235700857.7168496
+58,SFTBY,technology,Softbank,123209713774,Large,,3718977173.9812856
+59,BA,technology,Boeing,122847304970,Large,ModerateBuy,564529685.9978861
+60,SFTBF,technology,SoftBank Group,121759312676,Large,,1859488586.9883933
+61,KYCCF,technology,Keyence,121020999447,Large,ModerateBuy,242527053.0
+62,PM,consumergoods,Philip Morris,119742022395,Large,ModerateBuy,1557315936.9879048
+63,DCMYY,technology,NTT Docomo,119297849235,Large,Hold,3213842921.201509
+64,BBL,basicmaterials,BHP Billiton,119209753959,Large,,2528845013.9796352
+65,C,financial,Citigroup,118796619226,Large,StrongBuy,2081959677.9880826
+66,WFC,financial,Wells Fargo,118205056834,Large,ModerateBuy,4134489570.96887
+67,RY,financial,Royal Bank Of Canada,117928824000,Large,ModerateBuy,1422200000.0
+68,NTDMF,technology,NTT DoCoMo,117844966092,Large,,3228629208.0
+69,TOT,utilities,Total SA,117635484875,Large,ModerateBuy,2628725918.9944134
+70,RTNTF,basicmaterials,Rio Tinto,116812902006,Large,ModerateBuy,1524176696.3204594
+71,LOW,consumergoods,Lowe's,116469760000,Large,StrongBuy,752000000.0
+72,SBUX,services,Starbucks,115257340000,Large,ModerateBuy,1173700000.0
+73,SNEJF,consumergoods,Sony,115236589678,Large,,1233532323.6780133
+74,SNE,consumergoods,Sony,115008373984,Large,StrongBuy,1233598347.9995708
+75,MS,financial,Morgan Stanley,114847904783,Large,ModerateBuy,1809198247.9993699
+76,RTX,industrialgoods,Raytheon Technologies,112096459403,Large,StrongBuy,1518716425.999187
+77,IBM,technology,International Business Machines,110669293807,Large,ModerateBuy,891057115.9983897
+78,SIEGY,industrialgoods,Siemens AG,109455460095,Large,ModerateBuy,1625415207.8259578
+79,HSBC,financial,HSBC Holdings,108966609041,Large,,4073518094.990654
+80,CMWAY,financial,Commonwealth Bank of Australia,107705393051,Large,Hold,1778784360.8753097
+81,BLK,financial,Blackrock,107308058552,Large,StrongBuy,152510706.99961627
+82,LMT,technology,Lockheed Martin,105853382839,Large,ModerateBuy,279783746.99740976
+83,CMXHF,healthcare,CSL,105240120599,Large,ModerateBuy,454974365.99801135
+84,CSLLY,healthcare,CSL,104516711357,Large,,915528305.5098108
+85,AMD,technology,Advanced Micro Devices,104287126130,Large,ModerateBuy,1202711637.988698
+86,AMT,financial,American Tower,103501712880,Large,StrongBuy,444213360.0
+87,HESAY,consumergoods,Hermès International,103410668158,Large,,1050281009.120455
+88,HESAF,consumergoods,Hermes International,103003761928,Large,ModerateBuy,104603143.99975628
+89,BACHY,financial,Bank of China,102446951346,Large,,11761992117.795635
+90,MMM,industrialgoods,3M Company,102166691031,Large,Hold,576821877.9979675
+91,NOW,technology,ServiceNow,101299822000,Large,StrongBuy,195100000.0
+92,BACHF,financial,Bank of China,100091849021,Large,,294387791238.2353
+93,TD,financial,Toronto Dominion Bank,99103749000,Large,Hold,1812100000.0
+94,VWAGY,consumergoods,Volkswagen AG,98354130600,Large,,5018067887.755101
+95,AXP,financial,American Express,97091251251,Large,Hold,805201950.9951899
+96,SQ,technology,Square,96013463456,Large,ModerateBuy,450936800.0
+97,CAT,industrialgoods,Caterpillar,94869193960,Large,ModerateBuy,543258282.9983394
+98,GSK,healthcare,GlaxoSmithKline,93399359524,Large,ModerateBuy,2508712315.981735
+99,SCHW,financial,Charles Schwab,93395224314,Large,ModerateBuy,1877290940.9849246
+100,DEO,consumergoods,Diageo,92181059188,Large,ModerateBuy,584682602.9937841
+101,INTU,technology,Intuit,92082666890,Large,StrongBuy,262740510.9995149
+102,GE,technology,General Electric,91978666500,Large,ModerateBuy,8759873000.0
+103,FIS,technology,Fidelity National Info,91816690687,Large,StrongBuy,620508823.9981077
+104,DGEAF,consumergoods,Diageo,91070162243,Large,ModerateBuy,2338730411.99281
+105,PPRUY,consumergoods,Kering,90738003432,Large,,1262353970.951586
+106,TGT,consumergoods,Target,90045715368,Large,StrongBuy,500754728.99566233
+107,UBER,technology,Uber Technologies,89599419378,Large,StrongBuy,1763768097.992126
+108,EL,consumergoods,The Estée Lauder Companies,89262353221,Large,StrongBuy,361605643.9983796
+109,BQCNF,financial,Banque Cantonale Vaudoise,89247787200,Large,,
+110,NPSNY,technology,Naspers,89214911470,Large,,2140986596.3522918
+111,NPPXF,technology,Nippon Telegraph and Telephone,88625477380,Large,,3715952929.9790354
+112,CVS,consumergoods,CVS Health,88521819869,Large,StrongBuy,1308913497.9890583
+113,NTTYY,technology,Nippon Telegraph And Telephone,88402520204,Large,Hold,3711272888.4970613
+114,NAPRF,technology,Naspers,87867079421,Large,ModerateBuy,428223009.9956138
+115,SYK,healthcare,Stryker,87829792354,Large,ModerateBuy,375790656.9998289
+116,SE,technology,Sea,87777361040,Large,ModerateBuy,493963764.9971863
+117,EADSF,technology,Airbus Group SE,86015229493,Large,ModerateBuy,783666449.4624635
+118,EADSY,technology,Airbus SE,85807567344,Large,,3152372055.2534904
+119,ISRG,healthcare,Intuitive Surgical,85388776913,Large,ModerateBuy,117555483.99988987
+120,DTEGY,technology,Deutsche Telekom,85230519451,Large,ModerateBuy,4742933747.968837
+121,BKNG,services,Booking Holdings,84522747385,Large,ModerateBuy,40954911.99970927
+122,SNOW,technology,Snowflake,83844066780,Large,ModerateBuy,276694827.99815196
+123,XIACF,technology,Xiaomi,83029331850,Large,ModerateSell,24066473000.0
+124,RIO,basicmaterials,Rio Tinto,82637256311,Large,ModerateBuy,1246790227.9873264
+125,IBDRY,utilities,Iberdrola,82373126450,Large,,1531383648.447667
+126,MDLZ,consumergoods,Mondelez International,82220057244,Large,StrongBuy,1430162762.9848669
+127,BTI,consumergoods,British American Tobacco,82133839972,Large,ModerateBuy,2294241340.0
+128,FRCOF,consumergoods,FAST RETAILING CO,81869941242,Large,Hold,102082221.0
+129,GS,financial,Goldman Sachs Group,81385794810,Large,StrongBuy,344067788.9997464
+130,SPGI,financial,S&P Global,81332424000,Large,StrongBuy,240600000.0
+131,DE,industrialgoods,Deere,80358691501,Large,ModerateBuy,313374766.99684125
+132,CNI,industrialgoods,Canadian Railway,78398978000,Large,ModerateBuy,710200000.0
+133,SBGSY,industrialgoods,Schneider Electric SE,78243185333,Large,,2775565283.185527
+134,FISV,technology,Fiserv,77086951811,Large,ModerateBuy,670437917.9944338
+135,ANTM,healthcare,Anthem,76862067005,Large,StrongBuy,248704309.99838212
+136,AIQUY,basicmaterials,Air Liquide,76508942750,Large,,2365036870.1700153
+137,ZTS,healthcare,Zoetis,76133151925,Large,ModerateBuy,475267818.99619204
+138,CHGCF,healthcare,Chugai Pharmaceutical Co,75968890481,Large,,
+139,FDX,industrialgoods,FedEx,75705273023,Large,StrongBuy,262591997.99861255
+140,TJX,consumergoods,TJX Companies,75301039152,Large,StrongBuy,1199061132.9936306
+141,MO,consumergoods,Altria Group,75042965882,Large,StrongBuy,1858419164.9826646
+142,CI,healthcare,Cigna,74785939632,Large,StrongBuy,361267279.9961355
+143,ADP,technology,Automatic Data Processing,74647940945,Large,ModerateBuy,428813998.99471503
+144,GILD,healthcare,Gilead Sciences,74584924865,Large,ModerateBuy,1253528148.9915967
+145,SBRCY,financial,Sberbank Rossii OAO,74259101120,Large,ModerateBuy,5608693438.066465
+146,AMAT,industrialgoods,Applied Materials,74103763470,Large,StrongBuy,913282763.9881686
+147,MELI,technology,Mercadolibre,73687306820,Large,StrongBuy,49776612.99954066
+148,DNNGY,utilities,Orsted,73552191785,Large,,1263132264.897819
+149,VALE,basicmaterials,Vale SA,73357726642,Large,StrongBuy,5129910953.986013
+150,PLD,financial,Prologis,73190469230,Large,StrongBuy,739223000.0
+151,DDAIF,consumergoods,Daimler,73166296500,Large,ModerateBuy,1069839106.5945313
+152,NIO,consumergoods,Nio,73135444683,Large,StrongBuy,1362180008.9960887
+153,DOGEF,utilities,Orsted,72969664860,Large,ModerateBuy,420066000.0
+154,CL,consumergoods,Colgate-Palmolive,72645058427,Large,ModerateBuy,857168830.9970502
+155,BP,utilities,BP,72321586123,Large,ModerateBuy,3377934895.9831853
+156,RCRRF,technology,Recruit Holdings Co,72281707288,Large,,1648385570.9920182
+157,CCI,financial,Crown Castle,71146892676,Large,ModerateBuy,431297845.99903005
+158,DUK,utilities,Duke Energy,70762415544,Large,ModerateBuy,735958560.0
+159,MU,technology,Micron,70611658710,Large,ModerateBuy,1113221798.9910138
+160,CSX,industrialgoods,CSX,70542842125,Large,StrongBuy,764774957.9900261
+161,BEKE,technology,KE Holdings Inc. Sponsored ADR Class A,69174452369,Large,ModerateBuy,1143379378.0
+162,CB,financial,Chubb,68847545110,Large,StrongBuy,451370517.9964597
+163,BYDDF,consumergoods,BYD Co,68653714946,Large,StrongBuy,2728685013.7519875
+164,BYDDY,consumergoods,BYD Company,68558229921,Large,,1378886362.0474658
+165,DSKYF,healthcare,Daiichi Sankyo Company,68249104419,Large,,1945527491.9897377
+166,NJDCY,industrialgoods,Nidec,68104412946,Large,,2357369780.0623055
+167,SNAP,technology,Snap,67883518140,Large,ModerateBuy,1489980643.9859526
+168,USB,financial,US Bancorp,67307663869,Large,Hold,1506438313.9883616
+169,NNDNF,industrialgoods,Nidec,67260724417,Large,,585894811.9947735
+170,ITW,industrialgoods,Illinois Tool Works,66817427097,Large,Hold,316520260.9995263
+171,DKILY,industrialgoods,DAIKIN INDUSTRIES,66797149335,Large,ModerateBuy,2919455827.5786715
+172,SHW,basicmaterials,Sherwin-Williams Company,66415420012,Large,ModerateBuy,90824505.99931625
+173,SWGAY,consumergoods,SWATCH,66335855509,Large,,5158309137.558321
+174,KDDIY,technology,KDDI,66241799020,Large,,4587382203.601109
+175,KDDIF,technology,KDDI,66011792774,Large,,2300062465.9930315
+176,BDX,healthcare,Becton Dickinson,65936399295,Large,ModerateBuy,289868550.9957357
+177,BASFY,basicmaterials,BASF SE,65652857047,Large,,3673914775.9932847
+178,PBR,utilities,Petroleo Brasileiro SA- Petrobras,65416669318,Large,ModerateSell,6522100629.91027
+179,TFC,financial,Truist Financial,65397219509,Large,ModerateBuy,1348118315.9967017
+180,BNPQY,financial,BNP Paribas,65212800367,Large,Hold,2504331811.3287253
+181,GM,consumergoods,General Motors,65067243496,Large,StrongBuy,1431307600.0
+182,D,utilities,Dominion Energy,64784194333,Large,ModerateBuy,815819094.9880368
+183,DKILF,industrialgoods,DAIKIN INDUSTRIES,64585206940,Large,,281723912.49727374
+184,SHECF,basicmaterials,Shin-Etsu Chemical Co,64570028059,Large,ModerateSell,415241338.0
+185,ENB,industrialgoods,Enbridge,64442470584,Large,StrongBuy,2025219062.9792583
+186,LRCX,technology,Lam Research,64340439311,Large,StrongBuy,144009219.99865708
+187,SO,utilities,Southern Co,64314574953,Large,Hold,1056241992.9873543
+188,NTES,technology,NetEase,64296906842,Large,StrongBuy,685468090.0
+189,LFC,financial,China Life Insurance Company,64217421120,Large,,5652942000.0
+190,INFY,technology,Infosys,64063161593,Large,ModerateBuy,4242593482.9801326
+191,ADDYY,consumergoods,Adidas,63791357334,Large,ModerateBuy,391838804.2628992
+192,NTDOF,consumergoods,Nintendo Co,63619174382,Large,,119123645.99857695
+193,SAFRY,technology,SAFRAN SA,63589033894,Large,,1723747191.488208
+194,NTDOY,consumergoods,Nintendo Co,63469078588,Large,ModerateBuy,952989167.9879881
+195,ATLKY,industrialgoods,Atlas Copco,63410625278,Large,Hold,1215927617.9865773
+196,CILJF,financial,China Life Insurance Co,62959641525,Large,,28233023105.381165
+197,CME,financial,CME Group,62747966449,Large,ModerateBuy,358990596.9963957
+198,BAM,financial,Brookfield Asset Mng,62740460273,Large,StrongBuy,1509635713.979788
+199,HKXCY,financial,Hong Kong Exchanges & Clearing,62719896390,Large,,1269376571.3418338
+200,RBGLY,consumergoods,Reckitt Benckiser Group,62412686801,Large,,3620225452.4941998
+201,PTR,utilities,Petrochina Company,62410153429,Large,ModerateSell,1830209777.9765396
+202,HKXCF,financial,Hong Kong Exchanges & Clearing,62314188550,Large,,1267837000.0
+203,ECL,basicmaterials,Ecolab,62235613249,Large,Hold,285445182.9977526
+204,ESLOY,healthcare,EssilorLuxottica SA,61881944987,Large,StrongBuy,877633597.8868245
+205,EQIX,financial,Equinix,61795607582,Large,StrongBuy,89101720.99950977
+206,ZURVY,financial,Zurich Insurance Group AG,61740316521,Large,,1486285905.657198
+207,APD,basicmaterials,Air Products and Chemicals,61471915767,Large,StrongBuy,221026591.99985617
+208,NSC,industrialgoods,Norfolk Southern,61327299713,Large,ModerateBuy,253985337.9980121
+209,ZFSVF,financial,Zurich Insurance Group,61140680353,Large,StrongBuy,148058312.99915245
+210,PCCYF,utilities,PetroChina Company,61028345053,Large,,179495132508.82352
+211,HEINY,consumergoods,Heineken,61005888182,Large,ModerateBuy,1152576765.1993198
+212,BNS,financial,Bank Of Nova Scotia,60244364170,Large,ModerateBuy,1211429000.0
+213,DPSGY,industrialgoods,Deutsche Post,59692542000,Large,ModerateBuy,1238948567.8704858
+214,PNC,financial,PNC Financial,59593551979,Large,ModerateBuy,423701044.99822253
+215,BAMXF,consumergoods,Bayerische Motoren Werke Aktiengesellschaft,59561170000,Large,ModerateBuy,658862500.0
+216,VMW,technology,VMware,59527819284,Large,ModerateBuy,420127173.99957657
+217,ADSK,technology,Autodesk,59477285596,Large,StrongBuy,219279182.99660817
+218,BMWYY,consumergoods,Bayerische Motoren Werke Aktiengesellschaft,59258053676,Large,Hold,1978566065.9766278
+219,ATVI,consumergoods,Activision Blizzard,59131303224,Large,StrongBuy,772857184.9954253
+220,GPN,technology,Global Payments,58972434774,Large,StrongBuy,299337265.9966499
+221,AKSJF,financial,Sberbank Russia OJSC,58454713641,Large,,
+222,MMC,financial,Marsh & Mclennan Companies,58443569265,Large,ModerateBuy,507190568.9924499
+223,MUFG,financial,Mitsubishi UFJ,58443182925,Large,,12844655587.912088
+224,ICE,financial,Intercontinental Exchange,58334222423,Large,StrongBuy,561283771.990763
+225,OGZPY,utilities,Gazprom PJSC,58166700000,Large,ModerateBuy,11822500000.0
+226,NABZY,financial,National Australia Bank,57810178011,Large,ModerateBuy,6539612897.171946
+227,MBFJF,financial,Mitsubishi UFJ Financial Group,57800950146,Large,,12759591643.708609
+228,BAYRY,healthcare,Bayer,57609348168,Large,,3940447891.1080713
+229,SNP,utilities,China Petroleum,57496717439,Large,Hold,1210712095.9991577
+230,ISRMF,utilities,Isramco Negev 2,56990054638,Large,,
+231,VRTX,healthcare,Vertex Pharmaceuticals,56714264681,Large,ModerateBuy,260037893.998166
+232,ADYEY,technology,Adyen,56427549625,Large,,1527546010.4223065
+233,AXAHY,financial,AXA SA,56395457112,Large,ModerateBuy,2383578068.9771767
+234,BSBR,financial,Banco Santander Brasil,56180238850,Large,ModerateBuy,7460855092.961487
+235,NAUBF,financial,National Australia Bank,55868914208,Large,,3145772196.396396
+236,PBCRF,financial,PT Bank Central Asia Tbk,55473772500,Large,,
+237,WBK,financial,Westpac Banking,55419139590,Large,ModerateBuy,3610367400.0
+238,TAK,healthcare,Takeda Pharmaceutical Company,55405337915,Large,ModerateBuy,3126712071.952596
+239,CEO,utilities,CNOOC,55367310061,Large,ModerateBuy,446474558.9952423
+240,ADYYF,technology,Adyen,55207551785,Large,ModerateBuy,30280412.999599606
+241,TKPHF,healthcare,Takeda Pharmaceutical Co,54795629061,Large,,1547899126.0169492
+242,ABB,industrialgoods,ABB,54660849357,Large,ModerateBuy,2058789052.9943502
+243,MTHRF,services,M3,54631775639,Large,ModerateBuy,665267603.9819776
+244,PLTR,technology,Palantir Technologies,54553975989,Large,Hold,1877933768.9845095
+245,SNPMF,utilities,China Petroleum & Chemical,54482044340,Large,,115919243276.59575
+246,REGN,healthcare,Regeneron,54239861053,Large,ModerateBuy,106706263.99834746
+247,ITUB,financial,Itau Unibanco,54181635772,Large,ModerateBuy,9762456895.855856
+248,DG,consumergoods,Dollar General,54040312466,Large,StrongBuy,249033698.0
+249,TEAM,technology,Atlassian,53914847074,Large,StrongBuy,249201973.99584007
+250,OLCLY,services,Oriental Land Co,53771698530,Large,ModerateSell,1568145188.976378
+251,MRAAF,technology,Murata Manufacturing Co,53706256607,Large,,639817209.9952347
+252,AMXVF,technology,America Movil SAB de CV,53607074640,Large,,67008843300.0
+253,OJSCY,utilities,Rosneft Oil Co PJSC,53121600000,Large,Hold,8513076923.076922
+254,HUM,healthcare,Humana,53074215509,Large,ModerateBuy,132341450.99990025
+255,MRAAY,technology,Murata Manufacturing Co,52887290578,Large,ModerateBuy,2550014010.51109
+256,NTOIY,utilities,Neste,52842517564,Large,ModerateBuy,1533890205.0507982
+257,RACE,consumergoods,Ferrari,52692857120,Large,ModerateBuy,248094811.99679837
+258,EQNR,utilities,Equinor ASA,52529707956,Large,ModerateBuy,3246582691.9653893
+259,EW,healthcare,Edwards Lifesciences,52483737069,Large,ModerateBuy,623248272.9960812
+260,UBS,financial,UBS Group AG,52455741046,Large,ModerateBuy,3587943983.9945283
+261,PGR,financial,Progressive,52352460127,Large,Hold,585597987.9977628
+262,WEBNF,financial,Westpac Banking,52205912604,Large,ModerateBuy,3394402640.0520153
+263,NOC,technology,Northrop,52058732539,Large,StrongBuy,166715981.99897522
+264,HCA,healthcare,HCA Healthcare,51981121414,Large,StrongBuy,338374700.0
+265,MCO,financial,Moody's,51939846000,Large,ModerateBuy,187800000.0
+266,HNDAF,consumergoods,Honda Motor Co,51798293580,Large,,1726609786.0
+267,DELL,technology,Dell Technologies,51784838444,Large,ModerateBuy,746717208.9978371
+268,WDAY,technology,Workday,51571200000,Large,ModerateBuy,240000000.0
+269,SPOT,technology,Spotify Technology SA,51205326764,Large,ModerateBuy,189586162.99751937
+270,HMC,consumergoods,Honda Motor Company,50675997219,Large,,1726609785.9965928
+271,WM,services,Waste Management,50560605050,Large,ModerateBuy,422606193.99866265
+272,TOELF,technology,Tokyo Electron,50514815892,Large,,155191446.67281106
+273,TOELY,technology,Tokyo Electron,50290858580,Large,ModerateBuy,619727154.405422
+274,ADI,technology,Analog Devices,50241650323,Large,StrongBuy,369559766.9952189
+275,ANEWF,financial,Australia and New Zealand Banking Group,49408240063,Large,ModerateBuy,2839554026.6091957
+276,ANZBY,financial,Australia & New Zealand Banking Group,49394038212,Large,,2840370224.9568715
+277,TWLO,technology,Twilio,49027170653,Large,StrongBuy,160481736.99836335
+278,DBSDY,financial,DBS Group,48859416305,Large,,637601674.3442516
+279,NOVKY,utilities,Novatek OAO,48802000000,Large,ModerateBuy,292332574.57769257
+280,HOCPY,healthcare,HOYA,48751783114,Large,,375794211.93247515
+281,ETN,industrialgoods,Eaton,48704934000,Large,ModerateBuy,398600000.0
+282,AMX,technology,America Movil,48681924657,Large,ModerateBuy,3350442164.96903
+283,CFRUY,consumergoods,Compagnie Financiere Richemont,48598600000,Large,,5684046783.6257305
+284,PDRDY,consumergoods,Pernod Ricard,48433754642,Large,ModerateBuy,1310437084.469697
+285,SAN,financial,Banco Santander SA,48276900000,Large,ModerateBuy,16590000000.0
+286,DBSDF,financial,DBS Group Holdings,48269066075,Large,Hold,2539140771.962125
+287,BMO,financial,Bank Of Montreal,48088233072,Large,ModerateBuy,642804879.9893062
+288,BSX,healthcare,Boston Scientific,48040964949,Large,StrongBuy,1431921458.9865873
+289,VLVLY,industrialgoods,Volvo AB,48009600358,Large,ModerateBuy,2040357006.2898426
+290,KMB,consumergoods,Kimberly Clark,47857235800,Large,ModerateBuy,340136714.9964464
+291,HOCPF,healthcare,HOYA,47770153297,Large,ModerateBuy,367462717.66923076
+292,DD,basicmaterials,DuPont de Nemours,47619500868,Large,StrongBuy,733849604.9930652
+293,AON,financial,Aon,47568203528,Large,Hold,228616347.99826983
+294,DASTY,technology,Dassault Systemes SA,47488840543,Large,ModerateBuy,261157284.1124065
+295,WMMVF,consumergoods,Wal-Mart de Mexico SAB de CV,47145787103,Large,ModerateBuy,17461402630.740738
+296,OLCLF,services,Oriental Land Co,46831302738,Large,,
+297,EMR,industrialgoods,Emerson Electric Company,46802568687,Large,ModerateBuy,598039466.9946332
+298,FANUY,industrialgoods,Fanuc,46755453734,Large,ModerateBuy,1892933349.554656
+299,LULU,consumergoods,Lululemon Athletica,46626100529,Large,ModerateBuy,130313305.0
+300,COP,utilities,Conocophillips,46597223638,Large,StrongBuy,1068008792.9864771
+301,WMMVY,consumergoods,Wal-Mart de Mexico,46549480201,Large,,1757247270.705927
+302,LUKOY,utilities,Oil company LUKOIL PJSC,46529703690,Large,StrongBuy,652499000.0
+303,NEM,basicmaterials,Newmont Mining,46418028302,Large,ModerateBuy,803358052.9941156
+304,BIDU,technology,Baidu,46386287040,Large,StrongBuy,341075640.0
+305,SCCO,basicmaterials,Southern Copper,46368934674,Large,ModerateSell,773073268.9896632
+306,XPEV,consumergoods,"XPeng, Inc. ADR",46257871941,Large,StrongBuy,719742833.9971994
+307,PHG,healthcare,Koninklijke Philips,46155704000,Large,Hold,909472000.0
+308,RLXXF,services,RELX plc,45401672292,Large,ModerateBuy,1931986054.9787233
+309,NILSY,basicmaterials,MMC Norilsk Nickel PJSC,45384802516,Large,ModerateBuy,1582454759.972106
+310,RELX,services,Relx,45208473687,Large,,1931986055.0
+311,ISNPY,financial,Intesa Sanpaolo,45146833806,Large,,3254998832.444124
+312,LZAGY,healthcare,Lonza Group,44975496375,Large,Hold,744134619.0436797
+313,VOD,technology,Vodafone,44970544392,Large,,2683206705.966587
+314,IBN,financial,Icici Bank,44848031709,Large,,3449848593.0
+315,EPD,industrialgoods,Enterprise Products Partners,44443456732,Large,StrongBuy,2182880978.9783893
+316,MNST,consumergoods,Monster Beverage,44387240928,Large,StrongBuy,527916756.99333966
+317,ILMN,healthcare,Illumina,44381080000,Large,Hold,146000000.0
+318,TAL,services,TAL Education Group,44338595384,Large,StrongBuy,600387208.9911984
+319,SEMHF,healthcare,Siemens Healthineers AG,44249967505,Large,ModerateBuy,
+320,IFNNF,technology,Infineon Technologies AG,44197318658,Large,ModerateBuy,1299921137.0
+321,NXPI,technology,NXP Semiconductors,44108118485,Large,StrongBuy,279749593.9937845
+322,IFNNY,technology,Infineon,44002330487,Large,ModerateBuy,1303000606.6627183
+323,ROP,technology,Roper Technologies,43885936907,Large,ModerateBuy,104872360.99839893
+324,CP,industrialgoods,Canadian Pacific,43872229788,Large,ModerateBuy,134499002.99825254
+325,GD,technology,General Dynamics,43631245686,Large,Hold,286972150.0
+326,ABEV,consumergoods,Ambev SA,43424282863,Large,ModerateBuy,15733435819.927538
+327,MRNA,healthcare,Moderna,43203629263,Large,ModerateBuy,395710104.9917567
+328,LVS,services,Las Vegas Sands,43186842300,Large,ModerateBuy,763828126.9897418
+329,SMFNF,financial,Sumitomo Mitsui Financial Group,43101258384,Large,,1401211260.8582573
+330,MET,financial,Metlife,42981540980,Large,StrongBuy,899948512.9815745
+331,ECIFY,utilities,Electricite de France SA,42916661658,Large,,15218674346.808512
+332,PUK,financial,Prudential,42747496744,Large,,1304470452.9752822
+333,KDP,consumergoods,Keurig Dr Pepper,42681992407,Large,StrongBuy,1407253293.9993408
+334,AAUKF,basicmaterials,Anglo American,42650384953,Large,StrongBuy,1379378556.0478654
+335,BBD,financial,Banco Bradesco SA,42410529048,Large,ModerateBuy,8835526885.0
+336,AEP,utilities,American Electric Power,42376774517,Large,StrongBuy,496389533.993206
+337,TRP,industrialgoods,TC Energy,42375200000,Large,StrongBuy,940000000.0
+338,FSUMF,basicmaterials,Fortescue Metals Group,42228003850,Large,ModerateBuy,3077842846.2099123
+339,NGG,utilities,National Grid Transco,42139089307,Large,,704078350.9941521
+340,CTSH,technology,Cognizant,41996053456,Large,ModerateBuy,534641036.99554425
+341,BX,financial,Blackstone Group,41971564756,Large,ModerateBuy,693974284.9867725
+342,FSUGY,basicmaterials,Fortescue Metals Group,41966291832,Large,Hold,1534977755.3767374
+343,MAR,services,Marriott International,41910144341,Large,ModerateBuy,324331715.99597585
+344,DOW,basicmaterials,Dow,41857051929,Large,Hold,741751761.9883041
+345,SMFG,financial,Sumitomo Mitsui,41799312582,Large,,6852346324.918034
+346,PINS,technology,Pinterest,41670307109,Large,ModerateBuy,618070410.990804
+347,SMCAY,industrialgoods,SMC,41534159517,Large,Hold,1338947760.058027
+348,DOCU,technology,DocuSign,41504709869,Large,ModerateBuy,185164888.99843854
+349,SMECF,industrialgoods,SMC (OR),41374515086,Large,ModerateBuy,66518513.0
+350,HENKY,consumergoods,Henkel AG,41256428810,Large,,1745195804.145516
+351,SUHJF,financial,Sun Hung Kai Properties,41238540000,Large,ModerateBuy,2983975397.973951
+352,EXC,utilities,Exelon,41188669387,Large,ModerateBuy,975572462.9796306
+353,COF,financial,Capital One Financial,41119998480,Large,StrongBuy,457397090.98998886
+354,LHX,technology,L3Harris Technologies,40967644974,Large,StrongBuy,210112036.99866655
+355,CVNA,consumergoods,Carvana Co,40910889974,Large,ModerateBuy,171779013.99899226
+356,WFAFF,consumergoods,Wesfarmers,40863602321,Large,,1119550748.5205479
+357,ERIC,technology,Telefonaktiebolaget LM Ericsson,40801280000,Large,StrongBuy,3328000000.0
+358,GOLD,basicmaterials,Barrick Gold,40594613109,Large,StrongBuy,1778125847.9632065
+359,RKT,financial,Rocket Companies,40522510820,Large,ModerateBuy,1984452047.9921644
+360,TTD,services,Trade Desk,40495902649,Large,ModerateBuy,46964294.99924618
+361,ITOCF,industrialgoods,Itochu,40477561220,Large,,1489240662.987491
+362,VEEV,technology,Veeva Systems,40475775924,Large,ModerateBuy,150826411.99880755
+363,ITOCY,industrialgoods,Itochu,40395652956,Large,,745444786.0490866
+364,BKRKF,financial,PT Bank Rakyat Indonesia (Persero) Tbk,40211273652,Large,,121852344400.0
+365,DANOY,consumergoods,Danone SA,40189877033,Large,,3248979549.95958
+366,CHVKF,financial,China Vanke Co,40081176093,Large,ModerateBuy,18218716405.90909
+367,JMHLY,industrialgoods,Jardine Matheson Holdings,39897999593,Large,ModerateBuy,733149569.8823961
+368,MURGY,financial,Muenchener Rueckversicherungs,39830126083,Large,ModerateSell,1400496697.7144866
+369,KHC,consumergoods,Kraft Heinz,39784157886,Large,ModerateBuy,1222623167.9778733
+370,LBSI,financial,Liberty Bancshares,39767216500,Large,,315612829.36507934
+371,TRI,financial,Thomson Reuters,39757423280,Large,ModerateBuy,496967791.0
+372,MIUFF,financial,Mitsubishi UFJ Lease & Finance Company,39695593894,Large,,
+373,STZ,consumergoods,Constellation Brands,39670919977,Large,ModerateBuy,193800292.99951148
+374,ROST,consumergoods,Ross Stores,39488147918,Large,StrongBuy,356005660.9989181
+375,BCE,technology,BCE,39482948604,Large,ModerateBuy,904327727.989006
+376,APH,technology,Amphenol,39138416073,Large,ModerateBuy,299154750.9974776
+377,PSA,financial,Public Storage,39037784308,Large,Hold,174822141.99731302
+378,CUAEF,basicmaterials,China Shenhua Energy Co,38983656091,Large,,19889620454.59184
+379,BF.B,consumergoods,Brown-Forman B,38826333950,Large,Hold,478451434.9969193
+380,DNZOY,industrialgoods,DENSO,38759008354,Large,StrongBuy,1552844885.977564
+381,ING,financial,ING Group,38655407122,Large,ModerateBuy,3900646530.9788094
+382,AMKBY,industrialgoods,AP Moller - Maersk,38571092800,Large,ModerateBuy,3900009383.2153687
+383,BAX,healthcare,Baxter International,38510599025,Large,StrongBuy,510818397.9970818
+384,CSUAY,basicmaterials,China Shenhua Energy Company,38486415574,Large,,4934155842.820513
+385,KLAC,technology,Kla-Tencor,38452771442,Large,ModerateBuy,154459816.9993975
+386,DNZOF,industrialgoods,DENSO,38418065458,Large,,774870218.9995966
+387,CM,financial,Canadian Bank of Commerce,38249722234,Large,ModerateBuy,446008887.98973876
+388,GLNCY,basicmaterials,Glencore,38174156745,Large,,6662156499.999999
+389,IDXX,healthcare,Idexx Laboratories,38084696226,Large,Hold,85299892.99856657
+390,SRE,utilities,Sempra Energy,38066533398,Large,ModerateBuy,288470243.9981812
+391,DLR,financial,Digital Realty,38032423592,Large,StrongBuy,280165182.9981584
+392,TEL,technology,TE Connectivity,38012244029,Large,StrongBuy,330742573.9928652
+393,MQBKY,financial,Macquarie Group,37980705813,Large,,366361587.85569596
+394,CTAS,services,Cintas,37716404678,Large,ModerateBuy,104625383.99955615
+395,MCQEF,financial,Macquarie Group,37640841901,Large,Hold,365445067.0
+396,ANPDF,consumergoods,ANTA Sports Products,37515266520,Large,,2702829000.0
+397,VWDRY,industrialgoods,Vestas Wind Systems AS,37368359100,Large,,588292806.9899244
+398,ALGN,healthcare,Align Tech,37350642186,Large,ModerateBuy,78850391.99898668
+399,U,technology,Unity Software,37221008206,Large,ModerateBuy,270777012.9928706
+400,BIIB,healthcare,Biogen,37200876074,Large,Hold,153881596.9968976
+401,JAPAF,consumergoods,Japan Tobacco,37196648910,Large,Hold,1773803000.0
+402,BKFCF,financial,Bank of Communications Co,37131363322,Large,,
+403,TKOMY,financial,Tokio Marine Holdings,37119724714,Large,,698264197.0278405
+404,HDALF,services,Haidilao International Holding,37100000000,Large,Hold,
+405,HTHIY,industrialgoods,Hitachi,36986255174,Large,Hold,482345529.1340636
+406,MTCH,technology,Match Group,36974330748,Large,ModerateBuy,265983243.99683478
+407,TWTR,technology,Twitter,36928081510,Large,Hold,795349590.9972001
+408,HTHIF,industrialgoods,Hitachi,36896822980,Large,,966897876.8343816
+409,ANCUF,consumergoods,Alimentation Couche Tard,36805199222,Large,StrongBuy,1112948267.9770184
+410,INFO,financial,IHS Markit,36768495641,Large,ModerateBuy,398358565.99133265
+411,KAOCF,consumergoods,Kao,36693931544,Large,,
+412,GIS,consumergoods,General Mills,36680031240,Large,ModerateBuy,611333854.0
+413,E,utilities,Eni SPA,36591378409,Large,Hold,1771979583.9709444
+414,SYY,consumergoods,Sysco,36510827960,Large,ModerateBuy,509358648.9955357
+415,CRBJF,financial,China Resources Land,36367791852,Large,,
+416,GVDNY,basicmaterials,Givaudan SA,36334541504,Large,,461508211.66010416
+417,ENGIY,utilities,ENGIE SA,36276444229,Large,StrongBuy,2411997621.6090426
+418,F,consumergoods,Ford Motor,36124120428,Large,Hold,3978427359.9118943
+419,CNC,healthcare,Centene,36057617843,Large,StrongBuy,579797681.9906738
+420,XEL,utilities,Xcel Energy,35788928919,Large,Hold,525457772.9995595
+421,BK,financial,BNY Mellon,35773302447,Large,Hold,886135804.9789448
+422,MSBHF,industrialgoods,Mitsubishi,35754604620,Large,Hold,1478685054.5905707
+423,CMG,services,Chipotle,35721951961,Large,ModerateBuy,27980348.999749348
+424,WEGZY,industrialgoods,WEG,35661580867,Large,,2459419370.137931
+425,LYG,financial,Lloyds Banking,35407691876,Large,Hold,17703845938.0
+426,NRDBY,financial,Nordea Bank Abp,35336875000,Large,Hold,4020122298.0659842
+427,PH,industrialgoods,Parker Hannifin,35304146880,Large,StrongBuy,128800243.99854067
+428,ROKU,consumergoods,Roku,35294565104,Large,ModerateBuy,126931471.99884917
+429,BF.A,consumergoods,Brown Forman A,35261870759,Large,ModerateSell,478451434.99321574
+430,A,healthcare,Agilent,35255206762,Large,ModerateBuy,308309634.99781376
+431,EA,consumergoods,Electronic Arts,35247314716,Large,ModerateBuy,290077480.99744874
+432,SXYAY,basicmaterials,Sika,35159851006,Large,,1417164490.3667877
+433,TKOMF,financial,Tokio Marine Holdings,34914454360,Large,,655055428.8930582
+434,SCHYY,services,Sands China,34896235512,Large,ModerateBuy,807409428.7829709
+435,BHKLY,financial,BOC Hong Kong (Holdings),34858456517,Large,,530812494.54850006
+436,TT,industrialgoods,Trane Technologies,34810909797,Large,ModerateBuy,240124920.99744776
+437,EBAY,services,Ebay,34777128838,Large,ModerateBuy,689338529.9900892
+438,NBNKF,financial,Nordea Bank Abp,34731100000,Large,ModerateBuy,4038500000.0
+439,CSGP,technology,CoStar Group,34691455386,Large,StrongBuy,39418076.99894329
+440,GXYEF,services,Galaxy Entertainment Group,34654548957,Large,Hold,4342675307.894736
+441,PPG,basicmaterials,PPG Industries,34648825929,Large,ModerateBuy,236204416.99502352
+442,SCHYF,services,Sands China,34621207256,Large,,8014168346.296296
+443,AIG,financial,American International Group,34564412448,Large,ModerateBuy,861525733.998006
+444,MFG,financial,Mizuho Financial,34481189569,Large,,12676907929.779411
+445,TRV,financial,Travelers Companies,34455057671,Large,Hold,253308760.99838257
+446,LU,technology,Lufax Holding,34353477027,Large,ModerateBuy,2438145991.980128
+447,MCHP,technology,Microchip,34348822763,Large,StrongBuy,260376157.9972711
+448,STM,technology,Stmicroelectronics,34302943436,Large,StrongBuy,903184397.9989469
+449,FCX,basicmaterials,Freeport-McMoRan,34200522630,Large,ModerateBuy,1452868420.9855566
+450,MZHOF,financial,Mizuho Financial Group,34176943779,Large,,2539148869.167905
+451,VFC,consumergoods,VF,34152668844,Large,ModerateBuy,390004211.9904077
+452,CMI,industrialgoods,Cummins,34099236196,Large,ModerateBuy,148006580.99743915
+453,LI,industrialgoods,Li Auto,34055933991,Large,ModerateBuy,836344154.9852653
+454,ALBHF,technology,Alibaba Health Information Technology,34035141988,Large,,13452625291.699606
+455,AHCHF,basicmaterials,Anhui Conch Cement Company,33920835808,Large,,5300130595.0
+456,CHPXF,financial,China Pacific Insurance (Group) Co,33863601921,Large,,
+457,WBA,consumergoods,Walgreens Boots Alliance,33831325070,Large,Hold,865915665.9841311
+458,VIVHY,services,Vivendi,33723376405,Large,ModerateBuy,1113350161.9346318
+459,KMI,industrialgoods,Kinder Morgan,33613504922,Large,Hold,2263535684.9831653
+460,CRARY,financial,Credit Agricole,33597691981,Large,,5713893194.047619
+461,JCI,industrialgoods,Johnson Controls,33596561137,Large,ModerateBuy,723907802.9950442
+462,MSCI,technology,MSCI,33485451408,Large,ModerateBuy,82895040.0
+463,PAYX,technology,Paychex,33476669519,Large,Hold,359500316.9995704
+464,CARR,industrialgoods,Carrier Global,33462795456,Large,ModerateBuy,866687268.997669
+465,CRH,basicmaterials,CRH,33332217717,Large,ModerateSell,785026323.9990579
+466,XLNX,technology,Xilinx,33228699956,Large,Hold,245121716.99616405
+467,MFC,financial,Manulife Financial,33209873113,Large,ModerateBuy,1939829036.974299
+468,BCS,financial,Barclays,33149392080,Large,ModerateBuy,4338925664.921466
+469,ORAN,technology,Orange SA,33125139655,Large,ModerateBuy,2656386500.0
+470,AMADY,technology,"Amadeus IT Group, S.A.",33011660964,Large,,450609622.76822275
+471,EXPGY,services,Experian,32947303365,Large,,925746090.6153413
+472,SNPS,technology,Synopsys,32935321746,Large,ModerateBuy,151761688.99640584
+473,CRWD,technology,CrowdStrike Holdings,32908535749,Large,StrongBuy,219448757.99546546
+474,NPCPF,basicmaterials,Nippon Paint Holdings Co,32878662907,Large,,
+475,TDG,technology,Transdigm Group,32871107345,Large,StrongBuy,54435881.99884077
+476,AIPUY,industrialgoods,Airports of Thailand Public,32842824300,Large,ModerateBuy,1428570000.0
+477,TROW,financial,T Rowe Price,32841814327,Large,Hold,226432806.99806952
+478,BNKHF,financial,BOC Hong Kong (Holdings),32669891021,Large,,10572780265.695793
+479,IQV,healthcare,IQVIA Holdings,32568457908,Large,StrongBuy,191725777.9949373
+480,EXPGF,services,Experian,32562062067,Large,StrongBuy,917241184.9859155
+481,HCMLY,basicmaterials,LafargeHolcim,32464390434,Large,ModerateBuy,3056910587.00565
+482,OVCHF,financial,Oversea-Chinese Banking,32381597185,Large,ModerateBuy,4271978520.448549
+483,JPHLF,financial,JAPAN POST HOLDINGS Co,32184930680,Large,,
+484,ORLY,consumergoods,O'Reilly Auto,32177240814,Large,StrongBuy,72448418.99851398
+485,YUM,services,Yum! Brands,32160839659,Large,ModerateBuy,301668132.9987806
+486,AFL,financial,AFLAC,32038527624,Large,Hold,702445244.9901338
+487,APTV,industrialgoods,Aptiv,31989906057,Large,StrongBuy,270025373.9934161
+488,FCAU,consumergoods,Fiat Chrysler Automobiles,31943974945,Large,ModerateBuy,2024333012.9911282
+489,SPLK,technology,Splunk,31895943681,Large,ModerateBuy,160393963.99979883
+490,VRSK,financial,Verisk Analytics,31805816089,Large,ModerateBuy,162589796.99928433
+491,MIELY,technology,Mitsubishi Electric,31715410188,Large,ModerateBuy,1067858928.888889
+492,ALL,financial,Allstate,31607871302,Large,ModerateBuy,304068025.993266
+493,CDNS,technology,Cadence Design,31530360240,Large,StrongBuy,278931000.0
+494,BLL,basicmaterials,Ball,31500853628,Large,ModerateBuy,327111667.99584633
+495,CS,financial,Credit Suisse,31386391881,Large,ModerateBuy,2421789496.990741
+496,SBAC,financial,SBA Communications,31381862230,Large,StrongBuy,111043000.0
+497,PTON,services,Peloton Interactive,31283417529,Large,StrongBuy,292532424.9953245
+498,PRU,financial,Prudential Financial,31177080000,Large,Hold,396000000.0
+499,JPSTF,financial,Japan Post Bank Co,31114981900,Large,,
+500,CTRYF,financial,Country Garden Holdings Co,31069926303,Large,,23186512166.417908
+501,RSG,services,Republic Services,31056533306,Large,ModerateBuy,318724684.9958949
+502,ZBH,healthcare,Zimmer Biomet Holdings,31025427170,Large,StrongBuy,207278375.0
+503,EOG,utilities,EOG Resources,30919057585,Large,ModerateBuy,583378445.0
+504,ALC,healthcare,Alcon,30907656000,Large,ModerateBuy,489200000.0
+505,HSY,consumergoods,Hershey Co,30836460413,Large,ModerateBuy,208143505.99392506
+506,PCAR,industrialgoods,Paccar,30770783213,Large,Hold,346439801.99279445
+507,SLB,industrialgoods,Schlumberger,30763863198,Large,StrongBuy,1392030008.959276
+508,TRUMF,healthcare,Terumo,30760897298,Large,,752284110.9806799
+509,HPQ,technology,HP,30560302353,Large,ModerateBuy,1373496734.9662921
+510,KBCSY,financial,KBC Group,30497495116,Large,,832809806.5537958
+511,OKTA,technology,Okta,30442746974,Large,StrongBuy,128088302.99995793
+512,PEG,utilities,Public Service Enterprise,30335704080,Large,ModerateBuy,505847991.995998
+513,ES,utilities,Eversource Energy,30315963902,Large,Hold,342824424.9915187
+514,MITSF,industrialgoods,Mitsui & Co,30296876922,Large,,1683159829.0
+515,WEC,utilities,WEC Energy Group,30281714976,Large,Hold,315434531.0
+516,MITSY,industrialgoods,Mitsui & Co,30259847243,Large,,84680828.46308838
+517,HXGBY,technology,Hexagon AB,30209000416,Large,ModerateBuy,370299098.01421916
+518,PCSO,financial,Protective Capital Structures,30086350725,Large,,
+519,HNHAF,technology,Hon Hai Precision Industry Co,30025412309,Large,ModerateBuy,
+520,DXCM,healthcare,Dexcom,30013427317,Large,ModerateBuy,96027602.99792033
+521,TSCDY,consumergoods,Tesco,29968425920,Large,,3264534413.943355
+522,MRVL,technology,Marvell,29947794544,Large,StrongBuy,671475213.9910314
+523,CJPRF,industrialgoods,Central Japan Railway Company,29924521964,Large,,
+524,CHWRF,technology,China Tower,29921360000,Large,,176008000000.0
+525,SWK,consumergoods,Stanley Black & Decker,29865622933,Large,StrongBuy,160223298.9967811
+526,RMD,healthcare,Resmed,29856868972,Large,ModerateBuy,144915152.99713632
+527,SHLAF,industrialgoods,Schindler Holding AG,29844907936,Large,ModerateBuy,108942901.75579485
+528,LYB,basicmaterials,LyondellBasell,29828990076,Large,ModerateBuy,333919064.9949625
+529,ROK,industrialgoods,Rockwell Automation,29791711221,Large,ModerateBuy,116178727.99984401
+530,LNGPF,financial,Longfor Group Holdings,29735098494,Large,,
+531,UOVEF,financial,United Overseas Bank (Singapore),29716032000,Large,ModerateBuy,1708800000.0
+532,BBVA,financial,Banco Bilbao,29616453508,Large,ModerateSell,6655382810.786516
+533,SGEN,healthcare,Seattle Genetics,29614990779,Large,ModerateBuy,178996620.0
+534,SNGNF,technology,Singapore Telecommunications,29591431729,Large,ModerateBuy,15995368502.16216
+535,CHT,technology,Chunghwa Telecom Co,29555873070,Large,,775744700.0
+536,HLT,services,Hilton Worldwide Holdings,29492542646,Large,ModerateBuy,277446308.9934149
+537,BBY,consumergoods,Best Buy Co,29480981087,Large,ModerateBuy,258832142.99385425
+538,ELEZY,utilities,Endesa,29465943127,Large,Hold,2067785482.5964913
+539,UNCHF,consumergoods,Unicharm,29452894786,Large,,598879519.8454657
+540,CLNXF,technology,Cellnex Telecom SA,29372868174,Large,StrongBuy,486708668.9975145
+541,GELYF,consumergoods,Geely Automobile Holdings,29348274854,Large,ModerateBuy,9815476539.79933
+542,UNICY,consumergoods,Unicharm,29347483417,Large,Hold,3000765175.562372
+543,HSNGF,financial,Hang Seng Bank,29346785997,Large,ModerateSell,
+544,OTIS,industrialgoods,Otis Worldwide,29188661176,Large,ModerateBuy,433194733.9863461
+545,MSI,technology,Motorola Solutions,29179969891,Large,StrongBuy,169522859.99535236
+546,ADRNY,consumergoods,Royal Ahold Delhaize,29129898318,Large,ModerateBuy,1046332554.5258621
+547,SVNDY,consumergoods,Seven & I Holdings,29049164224,Large,,1754176583.5748794
+548,SVNDF,consumergoods,Seven & I Holdings Co,28957348242,Large,,882845982.987805
+549,RYCEY,technology,Rolls-Royce,28951048822,Large,,10122744343.356644
+550,UOVEY,financial,United Overseas Bank,28946420160,Large,,834912609.172195
+551,PSX,utilities,Phillips 66,28942380258,Large,StrongBuy,436800184.99849075
+552,WIT,technology,Wipro,28922645908,Large,ModerateSell,5693434233.858268
+553,NURAF,technology,Nomura Research Institute,28913222956,Large,ModerateBuy,
+554,MCK,healthcare,McKesson,28821314287,Large,ModerateBuy,160564424.9972145
+555,DNHBY,financial,DNB ASA,28805782090,Large,,1554548412.8440366
+556,CTVA,basicmaterials,Corteva,28742717280,Large,ModerateBuy,745016000.0
+557,ALPMF,healthcare,Astellas Pharma,28735696330,Large,,1853915892.2580645
+558,HOKCY,utilities,Hong Kong & China Gas,28611800818,Large,,18224076954.140125
+559,SPG,financial,Simon Property,28610165894,Large,Hold,328135862.98887485
+560,CHWY,consumergoods,Chewy,28602391650,Large,ModerateBuy,412494831.9873089
+561,TRAUF,industrialgoods,Transurban Group,28596913171,Large,Hold,2736546714.92823
+562,SDVKY,industrialgoods,Sandvik AB,28574913080,Large,,1265496593.445527
+563,CKHUY,consumergoods,CK Hutchison Holdings,28574742105,Large,,3825266680.722892
+564,EDU,services,New Oriental Education Tech,28508528525,Large,StrongBuy,168889386.99644548
+565,GLW,technology,Corning,28497574081,Large,ModerateBuy,764010028.9812334
+566,LUV,industrialgoods,Southwest Airlines,28492480944,Large,ModerateBuy,590273066.9981354
+567,DDOG,technology,Datadog,28476819954,Large,ModerateBuy,304532348.9894129
+568,CKHUF,consumergoods,CK Hutchison Holdings,28439773687,Large,,3797032534.9799733
+569,SSDOY,consumergoods,Shiseido Company,28347972920,Large,ModerateBuy,400621437.53533065
+570,PANW,technology,Palo Alto Networks,28305486293,Large,StrongBuy,95211700.0
+571,EONGY,utilities,EON SE,28289956178,Large,ModerateBuy,2600179795.7720585
+572,YAHOY,technology,Z Holdings,28249141061,Large,ModerateBuy,2369894384.3120804
+573,CTTAY,industrialgoods,Continental AG,28165842555,Large,,2003260494.6657183
+574,LBRDK,services,Liberty Broadband,28161191332,Large,ModerateBuy,178495222.99549976
+575,ADM,basicmaterials,Archer Daniels Midland,28097646974,Large,StrongBuy,556389048.990099
+576,TME,technology,Tencent Music Entertainment Group,28031575911,Large,StrongBuy,1677532968.940754
+577,LBRDA,services,Liberty Broadband,28005900488,Large,ModerateBuy,178495222.99553856
+578,CNQ,utilities,Canadian Natural,27955642860,Large,StrongBuy,1181058000.0
+579,CIIHF,financial,CITIC Securities Co,27874627636,Large,,
+580,RWEOY,utilities,RWE AG,27816311674,Large,StrongBuy,678943414.0590676
+581,AWK,utilities,American Water,27758180594,Large,ModerateBuy,181271994.99771437
+582,ANSS,technology,Ansys,27729408084,Large,Hold,85884126.99848236
+583,CTTAF,industrialgoods,Continental Aktiengesellschaft,27700828645,Large,ModerateBuy,200005982.9963899
+584,RDSMY,basicmaterials,Koninklijke DSM,27695270053,Large,,691690061.2637362
+585,DHI,consumergoods,DR Horton,27685838630,Large,StrongBuy,363999981.98790425
+586,SZHIF,consumergoods,Shenzhou International Group Holdings,27674324328,Large,ModerateBuy,
+587,FAST,industrialgoods,Fastenal Company,27663628189,Large,ModerateBuy,574053292.9860967
+588,NTR,basicmaterials,Nutrien,27654800981,Large,StrongBuy,569145934.9866227
+589,TDOC,healthcare,Teladoc,27628068961,Large,StrongBuy,144960747.998321
+590,EGRNF,financial,China Evergrande Group,27598217712,Large,,13268373900.0
+591,AME,industrialgoods,Ametek,27566371045,Large,StrongBuy,230064855.99232182
+592,PVWIF,technology,E Ink Holdings,27565020900,Large,,
+593,HOKCF,utilities,Hong Kong & China Gas Co,27545522526,Large,,17771304855.48387
+594,CHJHF,technology,China Telecom,27516880000,Large,,80932000000.0
+595,ROL,services,Rollins,27501405611,Large,Hold,491623267.9835538
+596,SIRI,services,Sirius XM Holdings,27494274368,Large,StrongBuy,4249501447.913447
+597,ASAZY,industrialgoods,Assa Abloy,27436175449,Large,,2232398327.8275023
+598,WCN,services,Waste Connections,27372913313,Large,StrongBuy,262897745.99500576
+599,SCMWY,technology,Swisscom AG,27372146681,Large,,518215575.1798561
+600,WELL,financial,Welltower,27233315163,Large,Hold,417304859.990806
+601,FMX,consumergoods,Fomento Economico Mexicano,27180206746,Large,,357822626.9878884
+602,TLSYY,technology,Telstra,27116719109,Large,,2380747946.356453
+603,CPRT,services,Copart,27098609079,Large,ModerateBuy,236132877.9975601
+604,GMBXF,basicmaterials,Grupo Mexico,27091800000,Large,,7785000000.0
+605,WLTW,financial,Willis Group,26997952002,Large,Hold,128905423.99732621
+606,MPC,utilities,Marathon Petroleum,26988992944,Large,ModerateBuy,650650745.9980714
+607,ALXN,healthcare,Alexion Pharmaceuticals,26902668955,Large,ModerateBuy,218845431.9938176
+608,OPYGY,basicmaterials,Polyus Gold PJSC,26852200000,Large,ModerateBuy,268522000.0
+609,SU,utilities,Suncor Energy,26781647942,Large,StrongBuy,1525150793.9635537
+610,MTD,healthcare,Mettler-Toledo,26772690505,Large,Hold,23794562.9999289
+611,ARZGY,financial,Assicurazioni Generali,26685629555,Large,,3095780690.835267
+612,SLF,financial,Sun Life Financial,26524487722,Large,ModerateBuy,584883962.9988974
+613,DLTR,consumergoods,Dollar Tree,26514389097,Large,ModerateBuy,237307697.9951669
+614,NWG,financial,NatWest Group,26498030154,Large,,6063622460.869565
+615,OCPNY,healthcare,Olympus,26470198917,Large,,1286209859.9125366
+616,ED,utilities,Consolidated Edison,26339995725,Large,ModerateSell,334858831.9984745
+617,DAL,industrialgoods,Delta Airlines,26332049288,Large,ModerateBuy,637734300.9929765
+618,KHNGY,industrialgoods,Kuehne + Nagel International AG,26294739100,Large,,600336509.1324202
+619,TTRAF,technology,Telstra,26284188259,Large,,11893297854.751131
+620,CEBCF,financial,China Everbright Bank Co,26244665451,Large,,
+621,WMB,industrialgoods,Williams Co,26237723201,Large,StrongBuy,1213585716.975023
+622,AZO,consumergoods,AutoZone,26179105798,Large,StrongBuy,23175553.999645893
+623,SSREY,financial,Swiss Re,26095940635,Large,ModerateBuy,1122406048.8172042
+624,SZKMF,consumergoods,Suzuki Motor,26030015812,Large,ModerateSell,485362964.98228604
+625,SVTMF,consumergoods,SM Investments,26006944098,Large,,1223280531.420508
+626,AKBNF,financial,Akbank TAS,26000000000,Large,,
+627,SSREF,financial,Swiss Re AG,25939744326,Large,ModerateBuy,278921982.0
+628,RNG,technology,RingCentral,25876673810,Large,StrongBuy,89631706.99688259
+629,EC,utilities,Ecopetrol SA,25759609217,Large,ModerateBuy,2055834733.998404
+630,FJTSF,technology,Fujitsu,25630820670,Large,,198104967.30561137
+631,RPRX,healthcare,Royalty Pharma,25616099188,Large,ModerateBuy,625240400.0
+632,DTE,utilities,DTE Energy,25596320578,Large,ModerateBuy,193559592.99758014
+633,STT,financial,State Street,25486105486,Large,ModerateBuy,352797694.9889258
+634,ZG,technology,Zillow Group Class A,25466035880,Large,ModerateBuy,232672780.99588853
+635,GMGSF,financial,Goodman Group,25383677963,Large,ModerateBuy,1852823208.9781022
+636,CLX,consumergoods,Clorox,25304523246,Large,Hold,126049928.99626401
+637,CODYY,industrialgoods,Compagnie de Saint-Gobain SA,25300340000,Large,,2657598739.4957986
+638,HRL,consumergoods,Hormel Foods,25291426397,Large,Hold,539607987.9880521
+639,BNTX,healthcare,BioNTech SE,25272853952,Large,ModerateBuy,240785575.0
+640,FERGY,industrialgoods,Ferguson,25271486572,Large,,2248352897.8647685
+641,PCRFY,consumergoods,Panasonic,25245203398,Large,ModerateSell,2341855602.7829313
+642,ZTO,industrialgoods,ZTO Express,25197170847,Large,ModerateBuy,855301114.9694501
+643,WRDLY,services,Worldline,25161154336,Large,Hold,546981616.0
+644,PCRFF,consumergoods,Panasonic,25140209484,Large,,2332115907.606679
+645,PCG,utilities,PG&E,25084912078,Large,ModerateBuy,1984565828.955696
+646,CHA,technology,China Telecom,25064640400,Large,Hold,809320000.0
+647,KR,consumergoods,Kroger Company,25026178117,Large,Hold,774324817.9764851
+648,PINXF,financial,People's Insurance Co (Group) of China,24925840448,Large,,23514943818.867924
+649,CAOVF,financial,China Overseas Land & Investment,24922818454,Large,,10427957512.13389
+650,W,consumergoods,Wayfair,24917700902,Large,ModerateBuy,99448039.99840358
+651,Z,technology,Zillow Group Class C,24916928117,Large,ModerateBuy,232672780.99729198
+652,FNV,basicmaterials,Franco Nev,24899724913,Large,Hold,190831735.99785408
+653,KUBTF,industrialgoods,Kubota,24829956165,Large,,1210626824.232082
+654,TU,technology,Telus,24780900000,Large,StrongBuy,1290000000.0
+655,FSNUY,healthcare,Fresenius SE & Co,24763936261,Large,,2211065737.589286
+656,MKC,consumergoods,McCormick & Company,24759851977,Large,ModerateBuy,133411562.999084
+657,KUBTY,industrialgoods,Kubota,24757459881,Large,,241984751.06050238
+658,TTNDF,consumergoods,Techtronic Industries Co,24740375953,Large,,
+659,CLPHF,utilities,CLP Holdings,24708686574,Large,,2600914376.2105265
+660,YUMC,services,Yum China Holdings,24619710604,Large,StrongBuy,419344414.9889286
+661,UNCFF,financial,UniCredit SpA,24548302904,Large,ModerateBuy,2237766901.0027347
+662,FMS,healthcare,Fresenius Medical Care,24521904338,Large,ModerateBuy,585667645.9995223
+663,BRDCF,consumergoods,Bridgestone,24437529310,Large,,656217220.9989258
+664,DFS,financial,Discover Financial Services,24302094164,Large,ModerateBuy,306496331.99646866
+665,TTNDY,consumergoods,Techtronic Industries,24282220830,Large,,366524088.0
+666,FTV,technology,Fortive,24234263152,Large,ModerateBuy,337195813.9974955
+667,EIX,utilities,Edison International,24115121333,Large,ModerateBuy,378513911.99183804
+668,TELNY,technology,Telenor ASA,24112661908,Large,,1397835472.9275362
+669,LEN,consumergoods,Lennar,24093251777,Large,ModerateBuy,312736912.99325025
+670,BRDCY,consumergoods,Bridgestone,24063485494,Large,Hold,1309933886.4452913
+671,BGNE,healthcare,BeiGene,24036866470,Large,Hold,90993588.99909145
+672,EJPRY,industrialgoods,East Japan Railway,24033000878,Large,,2254502896.622889
+673,CLPHY,utilities,CLP Holdings,23950751403,Large,,2537155868.9618645
+674,AVB,financial,AvalonBay,23880116542,Large,ModerateBuy,139608982.99912307
+675,ODFL,industrialgoods,Old Dominion Freight,23807723910,Large,Hold,117331446.99620521
+676,KMTUY,industrialgoods,Komatsu,23795913389,Large,ModerateBuy,948044358.12749
+677,OCPNF,healthcare,Olympus,23783325885,Large,,
+678,RYAAY,industrialgoods,Ryanair Holdings,23716654718,Large,ModerateBuy,225058404.9914595
+679,MITEY,financial,Mitsubishi Estate,23707512114,Large,ModerateBuy,1340922630.882353
+680,TLKMF,technology,PT Telekomunikasi Indonesia (Persero) Tbk,23665963545,Large,,98608181437.5
+681,TSN,consumergoods,Tyson Foods,23665216772,Large,Hold,364136278.9967688
+682,SWRAY,consumergoods,Swire Pacific,23633422080,Large,,3899904633.663367
+683,RCI,technology,Rogers Communication,23574963097,Large,StrongBuy,504925317.9910045
+684,GMAB,healthcare,Genmab,23537478106,Large,ModerateBuy,655457479.9777222
+685,ZIJMF,financial,Zijin Mining Group Co,23473965450,Large,,25515179836.95652
+686,DB,financial,Deutsche Bank AG,23473365000,Large,ModerateSell,2064500000.0000002
+687,PAYC,technology,Paycom,23465630963,Large,ModerateBuy,57631040.9976177
+688,CGMBF,financial,China Minsheng Banking,23423593898,Large,,42588352541.81818
+689,MGDDY,consumergoods,Compagnie Generale des Etablissements Michelin,23395646619,Large,,900525274.0184758
+690,NCLTF,consumergoods,Nitori Holdings Co,23377539032,Large,,112467713.99980755
+691,TEF,technology,Telefonica,23366393914,Large,ModerateSell,5250875036.853932
+692,COUP,technology,Coupa Software,23337131859,Large,ModerateBuy,71251890.99929778
+693,MGDDF,consumergoods,Compagnie Générale des Établissements Michelin,23251687268,Large,ModerateBuy,178378881.99462986
+694,WORK,technology,Slack Technologies,23220351301,Large,ModerateBuy,570524601.9901719
+695,NOK,technology,Nokia,23198457800,Large,ModerateBuy,5617060000.0
+696,XP,technology,XP,23164577685,Large,Hold,551800325.988566
+697,MPLX,industrialgoods,MPLX,23164570845,Large,ModerateBuy,1040169323.9784464
+698,CGEMY,technology,Capgemini,23157726614,Large,ModerateBuy,813408029.9964876
+699,SWRAF,consumergoods,Swire Pacific,23128102200,Large,,3887076000.0
+700,EJPRF,industrialgoods,East Japan Railway Company,23109794196,Large,,
+701,ZLNDY,consumergoods,Zalando SE,23074978567,Large,ModerateBuy,507700298.50385034
+702,VLO,utilities,Valero Energy,23011545515,Large,ModerateBuy,407789216.9945065
+703,YNDX,technology,Yandex,22971883440,Large,ModerateBuy,350074419.9939043
+704,FRC,financial,First Republic Bank,22896932306,Large,ModerateBuy,172209177.99338147
+705,OTSKY,healthcare,Otsuka Holdings Co,22883854346,Large,,1085571838.0455408
+706,TYIDF,consumergoods,Toyota Industries,22764658431,Large,,310483611.9885434
+707,TLK,technology,PT Telekomunikasi Indonesia Tbk,22734778709,Large,,990622165.969499
+708,CERN,technology,Cerner,22724443239,Large,StrongBuy,306589897.98974633
+709,CIOXF,services,Cielo,22676451888,Large,,
+710,VRSN,technology,Verisign,22675912968,Large,,114109867.99516909
+711,ASBFY,consumergoods,Associated British Foods,22626048150,Large,,790844045.788186
+712,PPL,utilities,PPL,22595834964,Large,ModerateBuy,768827320.9935352
+713,GCTAF,industrialgoods,"Siemens Gamesa Renewable Energy, S.A.",22594636824,Large,Hold,679537949.593985
+714,GASNY,utilities,Naturgy Energy Group SA,22592001563,Large,,4786441009.110169
+715,CCL,services,Carnival,22582269234,Large,Hold,1093572360.0
+716,SWKS,technology,Skyworks Solutions,22578809834,Large,StrongBuy,166081720.0
+717,IBKR,financial,Interactive Brokers,22552954684,Large,Hold,428437588.9817629
+718,EQR,financial,Equity Residential,22502708902,Large,Hold,372253248.99917287
+719,FLT,services,Fleetcor Technologies,22492584515,Large,ModerateBuy,83401625.99651451
+720,ETR,utilities,Entergy,22476100594,Large,ModerateBuy,200232521.99554566
+721,AMP,financial,Ameriprise Financial,22438204248,Large,StrongBuy,117977833.99758136
+722,CTPCY,industrialgoods,CITIC Pacific,22341321699,Large,,5571401919.950125
+723,AJG,financial,Arthur J Gallagher & Co,22322814540,Large,StrongBuy,192322000.0
+724,SNPTF,technology,Sunny Optical Technology (Group) Co,22266048910,Large,,1117773539.6586344
+725,GRMN,technology,Garmin,22254301474,Large,ModerateBuy,191237444.99441436
+726,GWW,industrialgoods,WW Grainger,22249700169,Large,ModerateBuy,53668050.0
+727,KKR,financial,KKR & Co,22124380161,Large,ModerateBuy,569189095.9866221
+728,ETTYF,consumergoods,Essity AB,22123788403,Large,Hold,702342488.9841269
+729,O,financial,Realty Income,22077279114,Large,StrongBuy,350990128.99841017
+730,BAESF,technology,BAE Systems,22070214856,Large,StrongBuy,3217232486.297376
+731,SIUIF,technology,Semiconductor Manufacturing International,22021344994,Large,,7699770976.923078
+732,KEYS,technology,Keysight Technologies,21961756000,Large,StrongBuy,185300000.0
+733,ARE,financial,Alexandria Equities,21939136503,Large,ModerateBuy,134943636.99717063
+734,SMICY,technology,Semiconductor Manufacturing,21790351859,Large,ModerateBuy,1542133889.5258315
+735,MXIM,technology,Maxim Integrated,21752971249,Large,ModerateBuy,267301194.99877122
+736,WY,financial,Weyerhaeuser,21743301990,Large,ModerateBuy,746423000.0
+737,K,consumergoods,Kellogg,21743282861,Large,Hold,343712975.9879861
+738,STNE,technology,Stoneco,21730587530,Large,ModerateBuy,308191568.99730533
+739,UNLRF,consumergoods,PT Unilever Indonesia Tbk,21703535000,Large,,38756312500.0
+740,OCDGF,consumergoods,Ocado Group,21643848707,Large,ModerateBuy,748145478.9837539
+741,CABGY,consumergoods,Carlsberg,21634653182,Large,,727215233.0084034
+742,SOMLY,services,SECOM CO,21607971462,Large,,870236466.4518728
+743,SOMLF,services,Secom Co,21568684241,Large,,218262337.9983809
+744,SHMDF,consumergoods,Shimano,21525172200,Large,ModerateBuy,92701000.0
+745,NET,technology,Cloudflare,21507996010,Large,StrongBuy,307300985.9979997
+746,VIAC,services,ViacomCBS,21492506869,Large,ModerateBuy,617246032.9982768
+747,BILI,technology,Bilibili,21419919030,Large,StrongBuy,345426850.9917755
+748,NEXOF,technology,NEXON Co,21413737674,Large,ModerateBuy,763141043.2644334
+749,KYOCF,technology,Kyocera,21394487563,Large,,372078044.57391304
+750,PPERY,financial,PT Bank Mandiri (Persero) Tbk,21263857596,Large,ModerateBuy,2306275227.3318872
+751,CHD,consumergoods,Church & Dwight,21262383263,Large,Hold,248450376.99228793
+752,FUJIF,consumergoods,FUJIFILM Holdings,21235576613,Large,,399766125.997741
+753,ESALF,healthcare,Eisai Co,21221122522,Large,,424422450.44
+754,ESALY,healthcare,Eisai Co,21206793608,Large,Hold,286462158.692422
+755,KYOCY,technology,Kyocera,21133420415,Large,,362370034.5507544
+756,MTSFY,financial,Mitsui Fudosan,21074241329,Large,,323174993.543935
+757,ABC,healthcare,AmerisourceBergen,21060191413,Large,ModerateBuy,204249746.99835128
+758,PUGOY,consumergoods,Peugeot,21036105648,Large,Hold,887974067.0325031
+759,MITEF,financial,Mitsubishi Estate Company,21016823274,Large,,1186050974.8307
+760,KNRRY,industrialgoods,Knorr-Bremse,20994688000,Large,,648384434.8363186
+761,LGGNY,financial,Legal & General,20979648545,Large,,1197468524.2579908
+762,EMSHF,basicmaterials,EMS-CHEMIE HOLDING AG,20956569088,Large,,27216323.490909092
+763,GZPFY,utilities,Gazprom Neft,20935095480,Large,Hold,976905995.3336444
+764,SWDBY,financial,Swedbank AB,20899046521,Large,Hold,1124814129.2249732
+765,NDAQ,financial,Nasdaq,20886907226,Large,ModerateBuy,164037596.99992147
+766,POAHY,consumergoods,Porsche Automobil Holding,20825000000,Large,,3049048316.25183
+767,UCBJY,healthcare,UCB SA,20731267751,Large,,380599738.40646225
+768,OTSKF,healthcare,Otsuka Holdings Co,20660541483,Large,,488659921.54683065
+769,HLDCY,financial,Henderson Land,20622660000,Large,,4898494061.75772
+770,FRRVY,industrialgoods,Ferrovial,20600292251,Large,Hold,732324644.5431924
+771,CBRE,financial,CBRE Group,20550049629,Large,ModerateBuy,335456245.9843291
+772,VTRS,healthcare,Viatris,20521624977,Large,ModerateBuy,1202204157.996485
+773,CIADF,consumergoods,China Mengniu Dairy Co,20480667480,Large,,3984565657.5875487
+774,BKR,industrialgoods,Baker Hughes Company,20477377802,Large,ModerateBuy,1035256713.9534883
+775,WLMIF,basicmaterials,Wilmar International,20472833697,Large,,6318775832.407407
+776,ANET,technology,Arista Networks,20470209085,Large,ModerateBuy,75661463.99926077
+777,CTPCF,industrialgoods,CITIC,20363183841,Large,,
+778,HVRRY,financial,Hannover Rueck SE,20267554340,Large,ModerateBuy,241567989.749702
+779,NSANY,consumergoods,Nissan,20263715100,Large,ModerateBuy,1965442783.7051406
+780,CCEP,consumergoods,Coca-Cola European Partners,20246102088,Large,ModerateBuy,454559992.9950606
+781,NSANF,consumergoods,Nissan Motor Co,20244155529,Large,,3908138133.0115833
+782,EPOKY,industrialgoods,Epiroc AB,20193240298,Large,,1209176065.748503
+783,EFX,services,Equifax,20192730530,Large,ModerateBuy,121642955.0
+784,AFTPF,technology,Afterpay Touch Group,20192237378,Large,ModerateBuy,285847075.0
+785,CHKGF,financial,CK Asset Holdings,20165966730,Large,,3588250307.829181
+786,NTRS,financial,Northern,20162785053,Large,Hold,208121232.99958712
+787,IP,basicmaterials,International Paper Co,20075385448,Large,ModerateBuy,393095465.9878598
+788,TTWO,consumergoods,Take-Two,20026928791,Large,StrongBuy,115110522.9968962
+789,AEE,utilities,Ameren,19919938287,Large,ModerateBuy,247206977.9970216
+790,WST,healthcare,West Pharmaceutical Services,19901199009,Large,ModerateBuy,73927187.99777117
+791,MTSFF,financial,Mitsui Fudosan Co,19877971048,Large,,
+792,ZBRA,technology,Zebra Tech,19872624008,Large,ModerateBuy,53316405.99898049
+793,TCOM,services,TripCom Group,19767014567,Large,StrongBuy,593069743.9843985
+794,HLDVF,financial,Henderson Land Development Co,19722234000,Large,,4673515165.876778
+795,CAJ,technology,Canon,19712862878,Large,Hold,1045775218.9920423
+796,AKZOY,basicmaterials,Akzo Nobel,19706198595,Large,,575531501.0221962
+797,DKNG,financial,DraftKings,19675785479,Large,ModerateBuy,391713825.9804898
+798,FOJCY,utilities,Fortum OYJ,19631307676,Large,,4411529814.831461
+799,SBMFF,healthcare,Sino Biopharmaceutical,19615959199,Large,ModerateBuy,18861499229.807693
+800,CHBJF,financial,China CITIC Bank,19573933651,Large,,
+801,ZS,technology,Zscaler,19529255983,Large,ModerateBuy,132906328.99823058
+802,MKTX,financial,Marketaxess Holdings,19526516966,Large,ModerateBuy,37963481.998639055
+803,FTNT,technology,Fortinet,19457122509,Large,ModerateBuy,162332074.99582848
+804,IX,financial,Orix,19442019786,Large,ModerateBuy,249544600.0
+805,MT,basicmaterials,ArcelorMittal,19436363279,Large,StrongBuy,1057473518.9880306
+806,AGPPF,basicmaterials,Anglo American Platinum,19400614874,Large,,264782514.99931762
+807,GWLLF,consumergoods,Great Wall Motor Co,19361261463,Large,,9175953300.0
+808,ORXCF,financial,ORIX,19339706500,Large,,1247723000.0
+809,SSEZY,utilities,SSE,19327435248,Large,,1041910255.9568733
+810,ATUS,services,Altice Usa,19192550222,Large,StrongBuy,558409956.9973814
+811,ASBRF,consumergoods,Asahi Group Holdings,19179354318,Large,,479244235.83208394
+812,DCNSF,financial,Dai-ichi Life Holdings,19163446650,Large,,
+813,LH,healthcare,Laboratory,19135204000,Large,StrongBuy,97400000.0
+814,ANGPY,basicmaterials,Anglo American Platinum,19087863172,Large,ModerateBuy,1581430254.5153272
+815,TLPFY,services,Teleperformance,19086469675,Large,StrongBuy,118586329.13948432
+816,VMC,basicmaterials,Vulcan Materials,19084286211,Large,ModerateBuy,132511360.99847242
+817,CHU,technology,China Unicom,19062554000,Large,ModerateBuy,3059800000.0
+818,CQP,industrialgoods,Cheniere Energy Partners,19041331968,Large,Hold,484019622.979156
+819,CHUFF,technology,China Unicom (Hong Kong),19035015800,Large,,30701638387.096775
+820,NTIOF,financial,National Bank of Canada,19026257981,Large,ModerateBuy,335678510.6033874
+821,AONNF,consumergoods,AEON Co,19023834127,Large,,
+822,DISH,services,Dish Network,19018929077,Large,StrongBuy,525965958.9878319
+823,FITB,financial,Fifth Third Bancorp,19007363465,Large,ModerateBuy,712419919.9775113
+824,GIB,technology,CGI Group,18956027001,Large,StrongBuy,258926744.99385333
+825,SCBFF,financial,Standard Chartered,18952874483,Large,StrongBuy,2998872544.778481
+826,FTS,utilities,Fortis,18902250000,Large,StrongBuy,465000000.0
+827,SNMRY,utilities,Snam SpA,18880541341,Large,,1672324299.4685564
+828,CDW,technology,CDW,18865864559,Large,StrongBuy,142988210.99742308
+829,IMBBY,consumergoods,Imperial Brands,18865699085,Large,,945649076.9423559
+830,BDORY,financial,Banco do Brasil SA,18865615514,Large,ModerateBuy,2854102195.7639937
+831,CGHOF,utilities,China Gas Holdings,18764528299,Large,ModerateBuy,5197930276.731302
+832,CGHLY,utilities,China Gas Holdings,18715531951,Large,ModerateBuy,207973463.17368597
+833,IR,industrialgoods,Ingersoll Rand,18715148780,Large,StrongBuy,417655629.993305
+834,SGTPY,utilities,Surgutneftegas,18506065254,Large,Hold,3538444599.2351813
+835,LKREF,financial,Link Real Estate Investment,18458724809,Large,,2062427352.960894
+836,MGA,industrialgoods,Magna International,18452606462,Large,ModerateBuy,299263808.9847551
+837,VTR,financial,Ventas,18440119253,Large,Hold,374570774.9949218
+838,SIVB,financial,Svb Financial Group,18366145511,Large,ModerateBuy,51796901.99954876
+839,ZI,technology,ZoomInfo Technologies,18336548853,Large,StrongBuy,389311015.9872611
+840,MLYNF,financial,Malayan Banking Bhd,18323419875,Large,,9070999938.118813
+841,SYF,financial,Synchrony Financial,18319398828,Large,ModerateBuy,583792186.998088
+842,ETSY,services,Etsy,18294538256,Large,StrongBuy,126090965.99352126
+843,KNBWY,consumergoods,Kirin Holdings Co,18256364437,Large,,844029793.6662043
+844,AVIFY,technology,Advanced Info Service PCL,18230620000,Large,,3176066202.0905924
+845,FTCH,technology,Farfetch,18203750740,Large,StrongBuy,339875853.99551904
+846,AMCR,basicmaterials,Amcor,18178700805,Large,ModerateSell,1568481518.981881
+847,PXD,utilities,Pioneer Natural,18078187892,Large,StrongBuy,164406946.9989087
+848,TER,technology,Teradyne,17990488297,Large,ModerateBuy,166055826.99833855
+849,SSMXF,healthcare,Sysmex,17975882173,Large,,182644606.51290387
+850,QSR,services,Restaurant Brands International,17968553993,Large,StrongBuy,303113258.99122804
+851,RCL,services,Royal Caribbean,17964998091,Large,ModerateBuy,224338137.9995005
+852,CMS,utilities,CMS Energy,17953171018,Large,Hold,286334465.9968102
+853,DOV,industrialgoods,Dover,17886101471,Large,ModerateBuy,144103298.9929101
+854,HYMLF,consumergoods,Hyundai Motor Company,17851342231,Large,StrongBuy,
+855,EPAM,technology,Epam Systems,17840872225,Large,StrongBuy,55988928.9973325
+856,TRU,technology,TransUnion,17821595000,Large,StrongBuy,190300000.0
+857,MSADF,financial,MS&AD Insurance Group Holdings,17787919137,Large,,573803843.1290323
+858,INCY,healthcare,Incyte,17773722664,Large,ModerateBuy,218996089.99507147
+859,KSU,industrialgoods,Kansas City Southern,17746853690,Large,ModerateBuy,93601548.9978903
+860,PKX,basicmaterials,POSCO,17705924291,Large,ModerateBuy,318566467.9920835
+861,SSNC,technology,SS&C Technologies Holdings,17666680073,Large,StrongBuy,255964648.98580122
+862,DWAHF,financial,Daiwa House Industry Co,17659815345,Large,,
+863,SCGLY,financial,Societe Generale,17593622417,Large,Hold,4249667250.4830923
+864,SGTZY,utilities,Surgutneftegas OAO,17577189392,Large,,3572599469.9186993
+865,ENPH,technology,Enphase Energy,17569070092,Large,ModerateBuy,126332566.99503848
+866,COO,healthcare,Cooper Co,17549525333,Large,ModerateBuy,53340400.99996961
+867,HOLX,healthcare,Hologic,17535770671,Large,ModerateBuy,257009682.99868092
+868,VIPS,consumergoods,Vipshop,17508816481,Large,ModerateBuy,677323654.9709864
+869,ET,industrialgoods,Energy Transfer,17508180013,Large,StrongBuy,2697716488.906009
+870,CAG,consumergoods,Conagra Brands,17469406290,Large,ModerateBuy,488518072.9865772
+871,HUBS,technology,HubSpot,17446015768,Large,ModerateBuy,45887623.99852705
+872,FOXA,services,Fox,17444431566,Large,ModerateBuy,595373090.9897611
+873,EXAS,healthcare,Exact Sciences,17429632935,Large,StrongBuy,150424034.99611634
+874,XYL,industrialgoods,Xylem,17426631016,Large,ModerateBuy,180231988.99575964
+875,EXPE,services,Expedia,17425218947,Large,ModerateBuy,141461429.9967527
+876,TFX,healthcare,Teleflex,17400118726,Large,StrongBuy,46566714.99759139
+877,SCCCF,financial,Sunac China Holdings,17386263583,Large,,
+878,LBLCF,consumergoods,Loblaw Companies,17367184564,Large,ModerateBuy,352848121.98293376
+879,HEI,technology,HEICO,17334763135,Large,ModerateBuy,134942885.99564067
+880,WPM,basicmaterials,Wheaton Precious Metals,17319762349,Large,ModerateBuy,449280475.97924775
+881,FOX,services,Fox,17242004715,Large,StrongBuy,595373090.9875691
+882,WEICF,industrialgoods,Weichai Power Co,17216506352,Large,ModerateBuy,7518125044.541485
+883,PPCCF,financial,PICC Property & Casualty Co,17210339653,Large,,20988219089.02439
+884,TLSNF,technology,Telia Company AB,17176453148,Large,StrongSell,3985255950.812065
+885,KB,financial,Kb Financial Group,17123183795,Large,,394634334.98501956
+886,TTDKY,technology,TDK,17114979330,Large,,127819113.7415982
+887,DWHHF,financial,Deutsche Wohnen,17112870600,Large,ModerateBuy,343770000.0
+888,AVVIY,financial,Aviva,17085726933,Large,,1948201474.6864312
+889,MLM,basicmaterials,Martin Marietta Materials,16980929401,Large,ModerateBuy,62274201.99867977
+890,BEEN,services,Better Environment Concepts,16921108925,Large,,4834602550.0
+891,BR,services,Broadridge Financial Solutions,16911661193,Large,ModerateBuy,115619478.99774389
+892,QRVO,technology,Qorvo,16907380080,Large,StrongBuy,114054101.99676201
+893,AKAM,technology,Akamai,16888248315,Large,StrongBuy,162793987.99884328
+894,UMC,technology,United Micro,16819388000,Large,StrongBuy,2484400000.0
+895,DGX,healthcare,Quest Diagnostics,16755454790,Large,ModerateBuy,134765983.99420896
+896,SGIOF,healthcare,Shionogi & Co,16753087332,Large,,310242358.0
+897,CHKP,technology,Check Point,16744096987,Large,ModerateBuy,140200091.99531105
+898,TYL,technology,Tyler Technologies,16731239157,Large,ModerateBuy,40326927.99778254
+899,HIG,financial,Hartford Financial,16691031662,Large,ModerateBuy,358330434.9935595
+900,OKE,industrialgoods,Oneok,16682678921,Large,Hold,444397413.98508257
+901,URI,financial,United Rentals,16624607980,Large,Hold,72136630.99887182
+902,SNN,healthcare,Smith & Nephew Snats,16620846736,Large,ModerateBuy,437851600.0
+903,ESS,financial,Essex Property,16588056345,Large,Hold,65204623.99764151
+904,SIOPF,financial,Shimao Property Holdings,16584263130,Large,,4543633734.246575
+905,NUE,basicmaterials,Nucor,16539667059,Large,Hold,301928934.9945235
+906,AHICF,healthcare,Asahi Intecc Co,16494015656,Large,,
+907,FUJHF,consumergoods,SUBARU,16486533357,Large,,774743108.8815789
+908,HUATF,financial,Huatai Securities Co,16471396755,Large,,
+909,CCC,financial,Clarivate Analytics,16469903404,Large,StrongBuy,605956710.9639441
+910,HTHT,services,Huazhu Group,16467931941,Large,ModerateBuy,320512493.98598677
+911,WOPEY,utilities,Woodside,16434816903,Large,Hold,959417215.5866901
+912,IQ,technology,Iqiyi,16426316408,Large,ModerateSell,733645216.9718624
+913,PEAK,financial,Healthpeak Properties,16425382089,Large,ModerateBuy,538360605.9980334
+914,CLEGF,consumergoods,Coles Group,16407335260,Large,ModerateBuy,
+915,PODD,healthcare,Insulet,16406809977,Large,ModerateBuy,65927870.9997589
+916,HTCXF,technology,HTC,16403380073,Large,,
+917,INVH,financial,Invitation Homes,16395620436,Large,StrongBuy,560534032.0
+918,FUJHY,consumergoods,Subaru,16271825016,Large,ModerateBuy,1533631009.990575
+919,CUK,services,Carnival,16232344700,Large,,882672359.9782491
+920,XNYIF,technology,Xinyi Solar Holdings,16166777133,Large,ModerateBuy,8508830070.0
+921,NCMGF,basicmaterials,Newcrest Mining,16159653807,Large,ModerateBuy,816556533.9565438
+922,STE,healthcare,Steris,16150981095,Large,ModerateBuy,85324005.99609067
+923,NCBDF,consumergoods,BANDAI NAMCO Holdings,16150555993,Large,,178419752.46354398
+924,HES,utilities,Hess,16146130953,Large,ModerateBuy,307077423.9825029
+925,SHG,financial,Shinhan Financial Group Co,16136175677,Large,ModerateBuy,516522908.9948784
+926,EXXRF,financial,Exor,16134076943,Large,ModerateBuy,230585635.88680863
+927,KEY,financial,KeyCorp,16121561899,Large,ModerateBuy,976472555.966081
+928,NCMGY,basicmaterials,Newcrest Mining,16110660415,Large,ModerateBuy,829164200.4632013
+929,GDS,technology,GDS Holdings,16093734597,Large,StrongBuy,186897393.99605155
+930,ARLUF,technology,Aristocrat Leisure,16052999931,Large,ModerateBuy,638544150.0
+931,SOUG,services,Sou 300 Group Holding Co,16028700047,Large,,3205740009.4
+932,CTRGF,financial,Country Garden Services Holdings Co,16004366880,Large,,2424904072.727273
+933,SSUMF,industrialgoods,Sumitomo,15981756497,Large,,1249550937.9984365
+934,TIF,consumergoods,Tiffany & Co,15969678414,Large,Hold,121368584.99772
+935,OAOFY,utilities,TATNEFT PJSC,15945231741,Large,Hold,375093665.98447424
+936,BXP,financial,Boston Properties,15931753816,Large,ModerateBuy,155659538.99364924
+937,VAR,healthcare,Varian Medical Systems,15872101081,Large,ModerateSell,91161340.9970708
+938,NVZMY,healthcare,Novozymes,15870889486,Large,ModerateSell,279417068.41549295
+939,PAGS,services,Pagseguro Digital,15838848148,Large,ModerateBuy,329016371.99833816
+940,CRHKF,consumergoods,China Resources Beer (Holdings) Co,15835738468,Large,,
+941,PTAIY,industrialgoods,PT Astra International,15788585724,Large,,2011284805.6050956
+942,HAL,industrialgoods,Halliburton,15788368717,Large,Hold,884007206.9988801
+943,REPYY,utilities,Repsol,15778001227,Large,ModerateBuy,1527396052.9525654
+944,CAH,healthcare,Cardinal Health,15777223564,Large,ModerateBuy,293420560.9819602
+945,CTPZY,utilities,Compania de Transmissao de Energia Eletrica Paulista Sponsored ADR Pfd,15754624570,Large,,3125917573.4126983
+946,NMR,financial,Nomura Holdings,15747691429,Large,ModerateSell,3057804160.9708734
+947,ULTA,consumergoods,Ulta Beauty,15744560492,Large,ModerateBuy,56323103.999427624
+948,OBIIF,technology,OBIC Co,15744230004,Large,ModerateBuy,
+949,ZEN,technology,Zendesk,15695347262,Large,StrongBuy,116676681.99524233
+950,MTB,financial,M&T Bank,15690186936,Large,Hold,128292615.99345872
+951,KGSPY,industrialgoods,Kingspan Group,15642702783,Large,ModerateBuy,184096772.77862775
+952,KMX,consumergoods,CarMax,15635839081,Large,StrongBuy,164086882.9992654
+953,GBOOF,financial,Grupo Financiero Banorte SAB de CV,15628334739,Large,ModerateBuy,2883456593.911439
+954,MDB,technology,MongoDB,15623831803,Large,ModerateBuy,58868996.99698569
+955,BIO,healthcare,Bio-Rad Laboratories,15608214607,Large,ModerateBuy,29830503.99824169
+956,TSCO,consumergoods,Tractor Supply,15599001056,Large,ModerateBuy,116497393.99551904
+957,KNBWF,consumergoods,Kirin Holdings Company,15595889217,Large,,
+958,CTLT,healthcare,Catalent,15588627650,Large,StrongBuy,164697597.99260432
+959,TNABF,utilities,Tenaga Nasional Bhd,15573705067,Large,,
+960,OXY,utilities,Occidental Petroleum,15569822756,Large,ModerateBuy,931209494.9760766
+961,NTTDF,technology,NTT DATA,15567739421,Large,ModerateBuy,
+962,NRSCF,financial,Nomura Holdings,15548934158,Large,,3060813810.6299214
+963,CE,basicmaterials,Celanese,15548207009,Large,ModerateBuy,116895022.99827081
+964,AEM,basicmaterials,Agnico Eagle,15461954180,Large,StrongBuy,242350378.9968652
+965,HEI.A,technology,Heico Cp Cl A,15423971869,Large,,134942885.99300086
+966,AYYLF,financial,Ayala,15338721321,Large,,874499505.1881415
+967,WRFRF,financial,Wharf Real Estate Investment Co,15331800000,Large,,3066360000.0
+968,BPY,financial,Brookfield Property Partners,15319012400,Large,ModerateBuy,928988016.979988
+969,NVR,consumergoods,NVR,15293803048,Large,ModerateBuy,3720431.9999221554
+970,EXPD,industrialgoods,Expeditors International,15284691987,Large,ModerateSell,169265691.99335548
+971,CAIXY,financial,CaixaBank SA,15257534104,Large,,17143296746.067415
+972,BIP,utilities,Brookfield Infrastructure,15249403963,Large,StrongBuy,295359363.993802
+973,SKM,technology,Sk Telecom,15240054413,Large,,658886917.9853005
+974,HZNP,healthcare,Horizon Therapeutics,15206924925,Large,StrongBuy,220710085.99419448
+975,CNHI,industrialgoods,CNH Industrial,15175427455,Large,ModerateBuy,1351329247.996438
+976,API,technology,Agora,15165469867,Large,ModerateBuy,396897928.9976446
+977,UI,technology,Ubiquiti Networks,15160154632,Large,ModerateSell,62787966.999378756
+978,TXG,healthcare,10x Genomics,15155344106,Large,StrongBuy,107606816.99801193
+979,DQJCF,consumergoods,Pan Pacific International Holdings,15140990779,Large,,
+980,FMC,basicmaterials,FMC,15140065078,Large,StrongBuy,129757156.99348645
+981,RF,financial,Regions Financial,15126990999,Large,ModerateBuy,960443872.9523809
+982,DPZ,services,Domino's Pizza,15107499956,Large,ModerateBuy,39399905.9983309
+983,SUI,financial,Sun Communities,15071706822,Large,StrongBuy,107562851.99828719
+984,AVTR,basicmaterials,Avantor,15059942820,Large,StrongBuy,578338817.9723502
+985,SONVY,healthcare,Sonova Holding AG,15053250155,Large,,315515618.42381054
+986,GDRX,technology,GoodRx Holdings,15053184338,Large,ModerateBuy,390282196.9924812
+987,SPHXF,financial,SM Prime Holdings,15017200480,Large,,
+988,LNG,industrialgoods,Cheniere Energy,15012826632,Large,StrongBuy,252274014.98907748
+989,ELAN,basicmaterials,Elanco Animal Health,14997460320,Large,Hold,471915050.97545624
+990,STX,technology,Seagate Tech,14989427523,Large,ModerateBuy,256932250.99417207
+991,XNGSF,utilities,ENN Energy Holdings,14987543341,Large,ModerateBuy,1126882957.9699247
+992,CTXS,technology,Citrix Systems,14948432876,Large,ModerateBuy,123123571.99571699
+993,PTAIF,industrialgoods,PT Astra International Tbk,14897947555,Large,,38199865525.64102
+994,TRMB,technology,Trimble Navigation,14857931200,Large,ModerateBuy,250175638.99646404
+995,GSX,technology,GSX Techedu,14854814305,Large,ModerateSell,238440036.99839488
+996,RNECF,technology,Renesas Electronics,14840748317,Large,,1621939706.7759562
+997,RKUNF,services,Rakuten,14823866057,Large,ModerateBuy,1356254900.0
+998,CFG,financial,Citizens Financial,14819436014,Large,StrongBuy,427073083.9769452
+999,TEZNY,utilities,Terna,14802395157,Large,,667375796.0775473
+1000,CPB,consumergoods,Campbell Soup,14787103532,Large,Hold,302271126.9828291
+1001,WMG,services,Warner Music Group,14713500000,Large,ModerateBuy,510000000.0
+1002,BURL,consumergoods,Burlington Stores,14688313206,Large,StrongBuy,66163573.0
+1003,NICE,technology,Nice-Systems,14673084502,Large,ModerateBuy,62732297.999144934
+1004,OPHLF,healthcare,ONO Pharmaceutical Co,14624190450,Large,,499119127.9863481
+1005,PMMAF,consumergoods,PUMA SE NPV,14615149698,Large,ModerateBuy,149561499.16086778
+1006,LDOS,technology,Leidos Holdings,14607825489,Large,StrongBuy,142320980.99181604
+1007,ALNY,healthcare,Alnylam Pharma,14574877345,Large,ModerateBuy,116180767.99521722
+1008,LYV,services,Live Nation Entertainment,14574253076,Large,ModerateBuy,213417089.99853563
+1009,CVAC,healthcare,CureVac,14556019405,Large,ModerateBuy,177968203.99804375
+1010,NCSYF,technology,NICE,14553893136,Large,,62732298.0
+1011,LOGI,technology,Logitech,14536720233,Large,StrongBuy,169149641.99441472
+1012,IEX,industrialgoods,IDEX,14510527619,Large,StrongBuy,75705783.99853916
+1013,AGR,utilities,Avangrid,14498740613,Large,Hold,309009816.9863598
+1014,KYKOF,healthcare,Kyowa Kirin Co,14497559955,Large,,
+1015,EXR,financial,Extra Space Storage,14473064494,Large,ModerateBuy,129235328.99366015
+1016,SWSDF,financial,Swiss Life Holding AG,14470504732,Large,ModerateBuy,32014391.0
+1017,HPE,technology,Hewlett Packard Enterprise,14458951248,Large,ModerateBuy,1286383562.9893239
+1018,CZR,services,Caesars Entertainment,14448185063,Large,ModerateBuy,208277137.99913505
+1019,PUMSY,consumergoods,PUMA,14446901620,Large,,1481733499.4871795
+1020,PBA,industrialgoods,Pembina Pipeline,14435977500,Large,StrongBuy,549942000.0
+1021,FE,utilities,FirstEnergy,14411195765,Large,ModerateBuy,542590201.995482
+1022,TGOPY,financial,3i Group,14402361488,Large,,2003110081.7802503
+1023,DRE,financial,Duke Realty,14398229829,Large,StrongBuy,371951170.98940843
+1024,DRI,services,Darden,14397508812,Large,ModerateBuy,130199934.99728703
+1025,DNKEY,financial,Danske Bank,14375491247,Large,,1703257256.7535546
+1026,JBHT,industrialgoods,JB Hunt,14356486036,Large,ModerateBuy,105678954.99447921
+1027,ALB,basicmaterials,Albemarle,14342977612,Large,Hold,106457192.99339421
+1028,TDY,technology,Teledyne Technologies,14316010376,Large,ModerateBuy,36881725.0
+1029,MAA,financial,Mid-America Apartment,14299657594,Large,ModerateBuy,114369811.9971207
+1030,BKI,technology,Black Knight,14299089059,Large,StrongBuy,157029310.99275202
+1031,PFG,financial,Principal Financial,14285862968,Large,ModerateBuy,274728134.0
+1032,GPC,industrialgoods,Genuine Parts Company,14277461164,Large,ModerateBuy,144289652.99646285
+1033,PKI,healthcare,PerkinElmer,14276746837,Large,ModerateBuy,111974484.99607843
+1034,HRELF,consumergoods,Haier Electronics Group Co,14254460637,Large,ModerateBuy,2957356978.6307054
+1035,CDAY,services,Ceridian HCM Holding,14199434498,Large,ModerateBuy,147803002.99781412
+1036,BMRN,healthcare,BioMarin Pharmaceutical,14186543476,Large,StrongBuy,181529666.9993602
+1037,MAS,industrialgoods,Masco,14172366256,Large,ModerateBuy,261675890.9896603
+1038,LSXMK,services,Liberty Sirius XM Group,14169396698,Large,ModerateBuy,340365041.98895025
+1039,SEDG,industrialgoods,SolarEdge Technologies,14132810609,Large,Hold,51211401.996593826
+1040,MKTAY,consumergoods,Makita,14129744159,Large,ModerateBuy,271673604.287637
+1041,WAB,industrialgoods,Westinghouse Air Brake Technologies,14101286087,Large,StrongBuy,190326441.98947224
+1042,LSXMA,services,Liberty Media Liberty SiriusXM,14091112738,Large,ModerateBuy,340365041.98067635
+1043,AVLR,technology,Avalara,14076821477,Large,StrongBuy,84570870.99429259
+1044,WAT,healthcare,Waters,14068687788,Large,Hold,62047665.99629531
+1045,EVVTY,services,Evolution Gaming Group AB,14025999173,Large,,184140726.9659971
+1046,MGM,services,MGM Resorts,14022931020,Large,Hold,493939098.97851354
+1047,AES,utilities,AES,13954451485,Large,StrongBuy,665131147.9980934
+1048,WIX,technology,Wix,13953464904,Large,StrongBuy,55640261.99856448
+1049,PBLOF,financial,Public Bank Bhd,13936876665,Large,Hold,
+1050,PRGAF,financial,Pargesa Holding SA,13886515350,Large,,143961386.58511302
+1051,MKL,financial,Markel,13874530588,Large,ModerateBuy,13778084.0
+1052,J,industrialgoods,Jacobs Engineering,13847625160,Large,StrongBuy,130208040.99670899
+1053,FICO,technology,Fair Isaac,13838220035,Large,StrongBuy,29098176.998128563
+1054,ALSMY,industrialgoods,ALSTOM UNSP,13827202828,Large,,2711216240.7843137
+1055,MPWR,technology,Monolithic Power,13818622740,Large,StrongBuy,45097000.0
+1056,OMRNF,technology,OMRON,13814567962,Large,,
+1057,TBVPF,consumergoods,Thai Beverage Public Co,13811128735,Large,,25111143154.545452
+1058,NNGRY,financial,NN Group,13808394305,Large,ModerateBuy,668363712.7299129
+1059,OMC,services,Omnicom Group,13794848083,Large,ModerateBuy,214973477.99594826
+1060,WDC,technology,Western Digital,13770130736,Large,ModerateBuy,304245044.98453385
+1061,IT,services,Gartner,13738571148,Large,Hold,89286872.9966855
+1062,IMO,utilities,Imperial Oil,13727235318,Large,Hold,734076754.9732621
+1063,XROLF,technology,Xero,13686622227,Large,,143420540.99339828
+1064,VICI,financial,VICI Properties,13685077911,Large,StrongBuy,536669722.0
+1065,AHKSF,basicmaterials,Asahi Kasei,13666796515,Large,,1387492031.9796956
+1066,PANHF,healthcare,Ping An Healthcare and Technology Company,13641328038,Large,ModerateBuy,1147294200.0
+1067,NIPNF,technology,NEC,13627127230,Large,,262970421.2659205
+1068,VDMCY,technology,Vodacom Group,13624799948,Large,,1667662172.3378212
+1069,ACGL,financial,Arch Capital Group,13622191423,Large,StrongBuy,406026569.98509693
+1070,DAIUF,industrialgoods,Daifuku Co,13621699800,Large,,
+1071,ATEYY,technology,Advantest,13608647657,Large,,197627761.50159743
+1072,GNRC,industrialgoods,Generac Holdings,13605728076,Large,StrongBuy,62841106.99736733
+1073,OCLCF,technology,Oracle Japan,13597567776,Large,,
+1074,TPGVF,healthcare,Top Glove Bhd,13531016745,Large,,8054176633.928572
+1075,EMN,basicmaterials,Eastman Chemical,13525114536,Large,ModerateBuy,135467893.9903846
+1076,MASI,healthcare,Masimo,13511101294,Large,ModerateBuy,55055218.996780895
+1077,ARRPY,industrialgoods,Aeroports de Paris,13505904048,Large,,1038117144.3504996
+1078,PHJMF,consumergoods,PT Hanjaya Mandala Sampoerna Tbk,13492896920,Large,,112440807666.66667
+1079,VODAF,technology,Vodacom Group,13489060970,Large,,
+1080,SYDDF,industrialgoods,Sydney Airport,13466514262,Large,,4415250577.704918
+1081,SJM,consumergoods,JM Smucker,13460713120,Large,ModerateSell,114073840.0
+1082,RUN,utilities,Sunrun,13426144278,Large,ModerateBuy,197530443.9899956
+1083,CKISF,industrialgoods,CK Infrastructure Holdings,13412420772,Large,,2650676041.8972335
+1084,DISCA,services,Discovery,13404396014,Large,ModerateBuy,491003516.996337
+1085,POOL,industrialgoods,Pool,13396501369,Large,ModerateBuy,40158581.99886088
+1086,LNNGF,consumergoods,Li Ning Company,13364747252,Large,ModerateBuy,2488779748.9757915
+1087,LNT,utilities,Alliant Energy,13364693077,Large,Hold,249760662.99757054
+1088,PECGF,basicmaterials,PETRONAS Chemicals Group Bhd,13360000000,Large,Hold,8000000000.0
+1089,CNP,utilities,Centerpoint Energy,13353565651,Large,ModerateBuy,544821119.99184
+1090,TSGTF,consumergoods,Tsingtao Brewery Co,13341707735,Large,Hold,1364182794.9897752
+1091,SGBLY,financial,Standard Bank Group,13329965494,Large,,1600235953.6614647
+1092,FSPKF,healthcare,Fisher & Paykel Healthcare,13311880635,Large,,564541163.4860052
+1093,UAL,industrialgoods,United Airlines Holdings,13280828007,Large,Hold,290990972.9842244
+1094,LBTYA,services,Liberty Global A,13277327194,Large,ModerateBuy,583106156.9609135
+1095,CRRFY,consumergoods,Carrefour SA,13253927336,Large,,4016341616.969697
+1096,TW,technology,Tradeweb Markets,13234594344,Large,ModerateBuy,227672360.98400137
+1097,NHOLF,financial,Sompo Holdings,13185338907,Large,,
+1098,GDDY,technology,GoDaddy,13182419201,Large,StrongBuy,168897106.9955157
+1099,SEOAY,basicmaterials,Stora Enso,13150238283,Large,Hold,787911221.2702216
+1100,LBTYB,services,Liberty Global B,13149043840,Large,,583106156.984479
+1101,TGLVY,healthcare,Top Glove Bhd,13047766143,Large,ModerateSell,2004265152.5345623
+1102,BRO,financial,Brown & Brown,13026947574,Large,Hold,284059039.9912778
+1103,JHX,basicmaterials,James Hardie,12980715511,Large,StrongBuy,443936918.9808482
+1104,MTUAY,technology,MTU Aero Engines,12969604392,Large,Hold,106325663.15789473
+1105,NTCO,consumergoods,Natura & Co Holding,12929161074,Large,,687355718.9792664
+1106,CRRRF,industrialgoods,CRRC,12914488839,Large,ModerateBuy,36898539540.0
+1107,CCK,basicmaterials,Crown Holdings,12911604226,Large,StrongBuy,134762594.99008453
+1108,HBAN,financial,Huntington Bancshares,12909671501,Large,ModerateBuy,1017310598.9755714
+1109,SWMAY,consumergoods,Swedish Match,12865229336,Large,,320748674.54500127
+1110,SURDF,financial,Sumitomo Realty & Development Co,12848512803,Large,,379684184.4858156
+1111,VEOEY,utilities,Veolia Environnement,12828789322,Large,ModerateBuy,553203506.7701595
+1112,KKPNY,technology,Royal KPN,12827081121,Large,ModerateBuy,4205600367.5409837
+1113,SUZ,basicmaterials,Suzano Papel e Celulose SA,12804112794,Large,ModerateBuy,1349221579.9789252
+1114,RYCEF,technology,Rolls-Royce Holdings,12802423393,Large,Hold,8367596988.888888
+1115,LBTYK,services,Liberty Global C,12793349084,Large,ModerateBuy,583106156.9735643
+1116,SWGAF,consumergoods,Swatch Group Bearer,12791742431,Large,ModerateBuy,49618861.25290923
+1117,FANDF,financial,FirstRand,12786679622,Large,,
+1118,JPXGY,financial,Japan Exchange Group,12775764751,Large,,1067315350.9607351
+1119,RJF,financial,Raymond James Financial,12770734000,Large,ModerateBuy,136600000.0
+1120,KEP,utilities,Korea Electric Power,12749406569,Large,,1283928153.977845
+1121,CGNX,technology,Cognex,12746450115,Large,Hold,174632827.99013564
+1122,EVRG,utilities,Evergy,12743410524,Large,ModerateBuy,226831800.0
+1123,SKHSF,financial,Sekisui House,12729277713,Large,ModerateSell,681074248.9566612
+1124,SQM,basicmaterials,Sociedad Quimica Y Minera SA,12722919970,Large,ModerateBuy,263196523.9966901
+1125,DADA,technology,Dada Nexus,12697041680,Large,StrongBuy,224607140.9870865
+1126,TOSBF,consumergoods,Toshiba,12662507476,Large,,459119197.8245105
+1127,CHRW,industrialgoods,CH Robinson,12647068194,Large,Hold,135946126.99129313
+1128,AVY,basicmaterials,Avery Dennison,12642789946,Large,ModerateBuy,83417721.99788862
+1129,CINF,financial,Cincinnati Financial,12635233792,Large,ModerateBuy,160896902.99248695
+1130,HAS,consumergoods,Hasbro,12626001234,Large,StrongBuy,137030618.99283698
+1131,YASKY,industrialgoods,Yaskawa Electric,12590505812,Large,,131452347.17059928
+1132,WHGLY,consumergoods,WH Group,12578144837,Large,,736425341.7447307
+1133,CHJTF,healthcare,CSPC Pharmaceutical Group,12572458218,Large,,
+1134,LN,technology,Line,12567755922,Large,,243702848.98196626
+1135,LYFT,technology,Lyft,12548510145,Large,ModerateBuy,317523029.9848178
+1136,TOSYY,consumergoods,Toshiba,12527570753,Large,,911096054.7636364
+1137,WHR,consumergoods,Whirlpool,12516880825,Large,Hold,62546875.999400355
+1138,ATO,utilities,Atmos Energy,12514670820,Large,Hold,125889455.99034303
+1139,ARGX,healthcare,Argenx Se,12506364314,Large,ModerateBuy,47108498.99804128
+1140,CICOF,industrialgoods,COSCO SHIPPING Holdings Co,12504719811,Large,StrongBuy,12259529226.470589
+1141,PKG,basicmaterials,Packaging,12493958822,Large,Hold,94830806.99810247
+1142,GRFS,healthcare,Grifols SA,12465478444,Large,ModerateBuy,684540276.9906645
+1143,WPC,financial,WP Carey & Co,12444476464,Large,ModerateBuy,175397835.99718112
+1144,JBAXY,financial,Julius Baer Group,12440628369,Large,,1086517761.4847162
+1145,CXO,utilities,Concho Resources,12439825036,Large,ModerateBuy,196304639.98737574
+1146,WPP,services,WPP,12427308421,Large,,245066227.9826464
+1147,SDXAY,services,Sodexo SA,12416694954,Large,,735586193.957346
+1148,DLMAF,consumergoods,Dollarama,12402945347,Large,ModerateBuy,311162703.1359759
+1149,MONRY,consumergoods,Moncler,12385574229,Large,,248407024.2478941
+1150,PTC,technology,PTC,12361586897,Large,ModerateBuy,116662767.9973575
+1151,CJEWF,consumergoods,Chow Tai Fook Jewellery Group,12300000000,Large,,9389312977.099236
+1152,ZTCOF,technology,ZTE,12271736828,Large,ModerateSell,4613434897.744361
+1153,DVA,healthcare,DaVita,12270101517,Large,ModerateBuy,111953480.99452555
+1154,APPN,technology,Appian,12251551210,Large,Hold,70048891.99542595
+1155,FDS,technology,Factset Research,12244026953,Large,ModerateSell,37991891.9976418
+1156,RTOKY,services,Rentokil Initial,12200027443,Large,,373660871.1485452
+1157,L,financial,Loews,12196109330,Large,,274872871.98557585
+1158,AIRYY,industrialgoods,Air China,12171795120,Large,ModerateBuy,741730354.6617916
+1159,KIMTF,consumergoods,KIA Motors,12148217268,Large,,
+1160,BAH,services,Booz Allen,12135213200,Large,ModerateBuy,137900150.0
+1161,NUAN,technology,Nuance Communications,12130228419,Large,StrongBuy,282953776.97690696
+1162,ATHM,technology,AutoHome,12126827038,Large,StrongBuy,119077248.99842891
+1163,SMEGF,industrialgoods,Siemens Energy,12109542136,Large,StrongBuy,399654855.97359735
+1164,LNNFF,technology,LINE,12094363138,Large,,
+1165,IAC,technology,IAC/InterActive,12091701329,Large,StrongBuy,85339129.99505964
+1166,PRDSF,consumergoods,Prada SpA,12077649280,Large,,2558824000.0
+1167,UNPRF,utilities,Uniper SE,12076680000,Large,ModerateSell,365960000.0
+1168,SZSAY,utilities,SUEZ SA,12060968025,Large,,1249841246.1139896
+1169,JKHY,technology,Jack Henry & Associates,12048033757,Large,ModerateBuy,76316169.9942991
+1170,BAP,financial,Credicorp,12040180150,Large,ModerateBuy,79405000.0
+1171,NDEKY,technology,Nitto Denko,12032609188,Large,,295641503.3906634
+1172,MOH,healthcare,Molina Healthcare,12027226000,Large,ModerateBuy,59300000.0
+1173,ERIE,financial,Erie Indemnity Company,12024055146,Large,,52289867.99739074
+1174,IFF,consumergoods,International Flavors & Fragrances,12019309439,Large,ModerateBuy,106933357.99822064
+1175,ENTG,technology,Entegris,12008926128,Large,StrongBuy,134992425.0
+1176,DISCK,services,Discovery,11985395849,Large,,491003516.9602622
+1177,AJINY,consumergoods,Ajinomoto Co,11977935134,Large,ModerateBuy,558151683.7837838
+1178,PRDSY,consumergoods,Prada,11962502200,Large,ModerateBuy,1256565357.1428573
+1179,PHM,consumergoods,PulteGroup,11959661830,Large,StrongBuy,268093741.98610178
+1180,OTEX,technology,Open Text,11951836852,Large,StrongBuy,272375497.9945305
+1181,OSCUF,financial,Japan Exchange Group,11940467475,Large,,498766394.1102757
+1182,OMVKY,utilities,OMV Aktiengesellschaft,11931854161,Large,,329791436.18021005
+1183,CABO,services,Cable ONE,11928778433,Large,Hold,6024665.999828282
+1184,ABMD,healthcare,Abiomed,11921994933,Large,ModerateBuy,45189882.99977257
+1185,EBKDY,financial,Erste Group Bank AG,11899444631,Large,Hold,812803595.0136611
+1186,BMBLF,services,Brambles,11899206081,Large,,1502425010.2272727
+1187,NTAP,technology,NetApp,11881712309,Large,ModerateBuy,222005087.9857997
+1188,PSMMY,consumergoods,Persimmon,11880770237,Large,,156655725.69883966
+1189,NVCR,healthcare,NovoCure,11877702079,Large,ModerateBuy,101797240.992458
+1190,RNLSY,consumergoods,Renault SA,11875735615,Large,,1448260440.8536587
+1191,KBDHF,services,Kabel Deutschland Holding AG,11862073826,Large,,92441348.3946384
+1192,NWWDF,financial,New World Development,11853315000,Large,,
+1193,ENIA,utilities,Enel Americas S.A.,11839029991,Large,,1521726219.9228792
+1194,EBKOF,financial,Erste Group Bank,11822386196,Large,ModerateBuy,405570709.98284733
+1195,LUMN,technology,Lumen Technologies,11816103347,Large,Hold,1097131229.990715
+1196,CRWOF,industrialgoods,China Railway Group,11794046055,Large,ModerateBuy,40669124327.58621
+1197,FBHS,industrialgoods,Fortune Brands,11789490500,Large,ModerateBuy,138928711.99622908
+1198,PPD,services,PPD,11783354931,Large,StrongBuy,349654448.99109787
+1199,KGDEF,technology,Kingdee International Software Group Co,11782858341,Large,,3465546570.882353
+1200,GNZUF,consumergoods,Guangzhou Automobile Group Co,11773619153,Large,,10237929698.26087
+1201,HLPPF,financial,Hang Lung Properties,11759571200,Large,ModerateBuy,4355396740.740741
+1202,NDSN,industrialgoods,Nordson,11753734373,Large,Hold,58034534.99728435
+1203,ON,technology,ON Semiconductor,11752768544,Large,StrongBuy,411223531.9804059
+1204,EQH,financial,Equitable Holdings,11730771280,Large,StrongBuy,444684278.9992419
+1205,UDR,financial,UDR,11708584360,Large,StrongBuy,294481497.98792756
+1206,CLLDF,financial,CapitaLand,11671363479,Large,,5052538302.597403
+1207,BNTGY,industrialgoods,Brenntag AG,11668612500,Large,,771223562.4586914
+1208,TECH,healthcare,Bio-Techne,11650358387,Large,ModerateBuy,38609306.9991715
+1209,ICAGY,industrialgoods,International Consolidated Airlines,11644780115,Large,ModerateBuy,2548091928.884026
+1210,GNENF,basicmaterials,Ganfeng Lithium Co,11622793736,Large,,1332889189.9082568
+1211,MGJNF,consumergoods,Magnit PJSC,11617894470,Large,,
+1212,NKLA,financial,Nikola,11614811261,Large,ModerateBuy,384087673.97486776
+1213,SOLVY,basicmaterials,Solvay,11607845462,Large,,1033646078.539626
+1214,IEP,industrialgoods,Icahn Enterprises,11604111150,Large,,232082223.0
+1215,AMIGY,financial,Admiral Group,11600659663,Large,,307546650.6627784
+1216,WRB,financial,WR Berkley,11577229858,Large,ModerateBuy,178220902.9864532
+1217,WRK,basicmaterials,WestRock,11572524489,Large,ModerateBuy,262653755.9918293
+1218,GBTC,unknownsector,Grayscale Bitcoin,11570237152,Large,,554661416.6826463
+1219,JXHGF,utilities,ENEOS Holdings,11550690909,Large,,
+1220,IHG,services,Intercontinental Hotels Group,11542052355,Large,,182656311.99556893
+1221,MDTKF,technology,MediaTek,11540150264,Large,ModerateBuy,
+1222,BEP,utilities,Brookfield Renewable Partners,11521414479,Large,Hold,183199466.98998252
+1223,STBFY,consumergoods,Suntory Beverage,11495418000,Large,,615386402.5695932
+1224,SKHHY,healthcare,Sonic Healthcare,11489275595,Large,ModerateBuy,477129385.1744186
+1225,FOSUF,financial,Fosun International,11484746336,Large,,8031291144.055944
+1226,ALLY,financial,Ally Financial,11477418004,Large,StrongBuy,373857263.9739414
+1227,SKFRY,industrialgoods,SKF AB,11470293402,Large,,456075284.3737575
+1228,NPSCY,basicmaterials,Nippon Steel & Sumitomo Metal,11434887852,Large,ModerateBuy,920683401.9323672
+1229,MTN,services,Vail Resorts,11410650055,Large,ModerateBuy,40284730.99735216
+1230,NLY,financial,Annaly Capital,11409543172,Large,StrongBuy,1398228329.9019608
+1231,DNB,technology,Dun & Bradstreet Holdings,11396673057,Large,StrongBuy,423039088.9755011
+1232,GGG,industrialgoods,Graco,11396145417,Large,ModerateBuy,167541096.98618054
+1233,HGKGF,utilities,Power Assets Holdings,11386285924,Large,,2128277742.8037384
+1234,WTRG,utilities,Essential Utilities,11351175525,Large,StrongBuy,245271726.98789972
+1235,OSH,healthcare,Oak Street Health,11345440716,Large,StrongBuy,240828713.98853746
+1236,MRTX,healthcare,Mirati Therapeutics,11336372522,Large,ModerateBuy,50281080.9988468
+1237,JBSAY,consumergoods,JBS SA,11332974150,Large,,1311686822.9166665
+1238,CMTDF,financial,Sumitomo Mitsui Holdings,11329727310,Large,,362435294.6257197
+1239,UHS,healthcare,Universal Health,11323789272,Large,ModerateBuy,84981532.99812382
+1240,RPM,basicmaterials,RPM International,11314924061,Large,ModerateBuy,129937115.99678457
+1241,HGKGY,utilities,Power Assets HLD,11307318242,Large,,2125435759.774436
+1242,BEN,financial,Franklin Resources,11262484378,Large,ModerateSell,504591593.9964158
+1243,GH,healthcare,Guardant Health,11260889559,Large,StrongBuy,99972385.99964489
+1244,CRL,services,Charles River Labs,11259243395,Large,StrongBuy,49742625.99955821
+1245,UBSFY,technology,UBISOFT Entertainment,11259052484,Large,Hold,613572342.452316
+1246,PUBGY,services,Publicis Groupe SA,11255523030,Large,,977890793.2232841
+1247,CNICF,financial,China International Capital,11247508502,Large,,5982717288.297873
+1248,TYHOF,industrialgoods,Toyota Tsusho,11247196099,Large,,
+1249,PENN,services,Penn National Gaming,11242372472,Large,ModerateBuy,155324294.99861842
+1250,AJINF,consumergoods,Ajinomoto Co,11237879645,Large,,
+1251,YSG,consumergoods,Yatsen Holding,11220008648,Large,,665480939.9762752
+1252,XRAY,healthcare,DENTSPLY SIRONA,11216255891,Large,Hold,218555258.9828527
+1253,AULGF,basicmaterials,AngloGold Ashanti,11140631655,Large,,
+1254,YASKF,industrialgoods,Yaskawa Electric,11134638772,Large,,345796235.15527946
+1255,RANJY,services,Randstad NV,11120715869,Large,Hold,367626970.87603307
+1256,NDEKF,technology,Nitto Denko,11112259592,Large,,136179651.8627451
+1257,CRGGF,utilities,China Resources Gas Group,11107261780,Large,,2314012870.8333335
+1258,DSCSY,technology,Disco,11093997068,Large,,180713423.4891676
+1259,SHWGF,healthcare,Shandong Weigao Group Medical Polymer Co,11079714193,Large,,5431232447.54902
+1260,LII,industrialgoods,Lennox International,11064487629,Large,Hold,38289398.999896176
+1261,SAM,consumergoods,Boston Beer,11059727215,Large,ModerateBuy,12242607.999955721
+1262,QBEIF,financial,QBE Insurance Group,11031479797,Large,,1432659713.8961039
+1263,LKQ,consumergoods,LKQ,11023386041,Large,StrongBuy,304345279.98343456
+1264,SFOSF,healthcare,Shanghai Fosun Pharmaceutical (Group) Co,11007649250,Large,,2559918430.2325583
+1265,STBFF,consumergoods,Suntory Beverage & Food,11000400000,Large,,
+1266,YARIY,basicmaterials,Yara International,10969241187,Large,,525346800.1436782
+1267,FYRTY,consumergoods,FamilyMart Co,10967361920,Large,,500792781.7351599
+1268,ASXFF,financial,ASX,10959422120,Large,,192608473.11072057
+1269,OAS,utilities,Oasis Petroleum,10949878224,Large,ModerateSell,320922573.9742087
+1270,GJNSY,financial,Gjensidige Forsikring,10945000000,Large,,504377880.18433183
+1271,ASX,technology,ASE Technology Holding Co,10941238688,Large,ModerateBuy,2132795065.8869395
+1272,RMSYF,healthcare,Ramsay Health Care,10922234962,Large,Hold,229458717.68907562
+1273,GGDVF,industrialgoods,Guangdong Investment,10918161804,Large,,6537821439.520958
+1274,ELS,financial,Equity Lifestyle,10913437462,Large,ModerateBuy,182224702.98881283
+1275,PLUG,technology,Plug Power,10872051214,Large,StrongBuy,415598287.99694186
+1276,FNF,financial,Fidelity National Financial,10862993381,Large,ModerateBuy,293673786.99648553
+1277,WYNN,services,Wynn Resorts,10830208440,Large,ModerateBuy,107870601.99203187
+1278,LB,consumergoods,L Brands,10823777251,Large,ModerateBuy,277889017.9974326
+1279,KL,basicmaterials,Kirkland Lake Gold,10815651674,Large,StrongBuy,272984645.98687536
+1280,AAVMY,financial,ABN AMRO Bank,10810000011,Large,Hold,943280978.2722512
+1281,QGEN,healthcare,Qiagen,10808390250,Large,ModerateBuy,228749000.0
+1282,BYDIF,technology,BYD Electronic (International) Co,10804115577,Large,ModerateBuy,2250857411.875
+1283,TXT,technology,Textron,10802896743,Large,ModerateBuy,228874930.9957627
+1284,DT,technology,Dynatrace,10795833629,Large,StrongBuy,282096514.99869347
+1285,GGDVY,industrialgoods,Guangdong Investment,10793943131,Large,,129906644.97532795
+1286,IPGP,technology,IPG Photonics,10780058485,Large,ModerateBuy,53300660.0
+1287,NLOK,technology,NortonLifeLock,10757229452,Large,ModerateBuy,591706790.5390539
+1288,UMICY,basicmaterials,Umicore SA,10756722516,Large,,963001120.5013429
+1289,LW,consumergoods,Lamb Weston Holdings,10720799682,Large,ModerateBuy,146339061.99836197
+1290,HTNGF,financial,Haitong Securities Co,10712644000,Large,,
+1291,SRPT,healthcare,Sarepta Therapeutics,10710078467,Large,StrongBuy,78913044.99705276
+1292,TEVA,healthcare,Teva Pharmaceutical Industries,10685722671,Large,ModerateBuy,1095971556.0
+1293,RDY,healthcare,Dr Reddy's Laboratories,10672471993,Large,ModerateBuy,165901942.99704647
+1294,FNLPF,basicmaterials,FRESNILLO,10670219168,Large,Hold,736893588.9502763
+1295,MARUY,industrialgoods,Marubeni,10669509627,Large,,174395384.55377576
+1296,NHMAF,financial,Nihon M&A Center,10655631942,Large,ModerateSell,165203596.0
+1297,MARUF,industrialgoods,Marubeni,10648680960,Large,,1734312859.9348536
+1298,HWM,basicmaterials,Howmet Aerospace,10644976211,Large,StrongBuy,433603918.98167
+1299,NWS,services,News Class B,10636443450,Large,,590585421.9877845
+1300,NWSA,services,News Class A,10630537596,Large,ModerateBuy,590585422.0
+1301,BZLFY,industrialgoods,Bunzl,10616884757,Large,,344704050.5519481
+1302,ALLE,industrialgoods,Allegion,10603814918,Large,ModerateBuy,92039014.99869804
+1303,MPW,financial,Medical Properties,10596655510,Large,StrongBuy,535996737.9868488
+1304,PCTY,technology,Paylocity,10581169948,Large,ModerateBuy,54245718.99928227
+1305,PEGA,technology,Pegasystems,10530242351,Large,ModerateBuy,80697695.99969345
+1306,JRONY,consumergoods,Jeronimo Martins SGPS SA,10526273185,Large,,312074508.89415956
+1307,CHEOF,healthcare,Cochlear,10518684320,Large,ModerateSell,
+1308,STGPF,financial,Scentre Group,10484564244,Large,,4853964927.777778
+1309,BFAM,services,Bright Horizons,10478837262,Large,ModerateBuy,60564311.99861287
+1310,EMRAF,utilities,Emera,10457317060,Large,ModerateBuy,249399405.19914144
+1311,AMRPF,consumergoods,Amorepacific,10428736046,Large,,
+1312,NBFJF,financial,Nippon Building,10421867568,Large,Hold,
+1313,PEXNY,utilities,PTT Exploration,10421211675,Large,ModerateBuy,1831495900.7029877
+1314,HST,financial,Host Hotels & Resorts,10389517278,Large,Hold,705330432.99389
+1315,OLED,technology,Universal Display,10362026571,Large,ModerateBuy,47104402.99572688
+1316,ESTC,technology,Elastic,10342970512,Large,StrongBuy,86784447.99462996
+1317,HICTF,industrialgoods,Hitachi High-Technologies,10300710882,Large,,
+1318,PANDY,consumergoods,Pandora,10264782446,Large,Hold,399407877.2762646
+1319,SINGF,industrialgoods,Singapore Airlines,10229156763,Large,ModerateBuy,2964972974.7826085
+1320,JHIUF,basicmaterials,James Hardie Industries Chess Units of Foreign Securities,10210549137,Large,Hold,
+1321,SURRY,consumergoods,Sun Art Retail Group,10207484029,Large,,959350002.7255639
+1322,MHGVY,basicmaterials,Mowi ASA,10189689833,Large,,516980711.97361743
+1323,RPGRF,services,REA Group,10178911938,Large,,97108490.15455067
+1324,CG,financial,Carlyle Group,10170786971,Large,ModerateBuy,353520575.9819256
+1325,FFIV,technology,F5 Networks,10149111054,Large,ModerateBuy,61603101.996965095
+1326,SINGY,industrialgoods,Singapore Airlines,10140207571,Large,,1484657038.2137628
+1327,AAP,consumergoods,Advance Auto Parts,10137468126,Large,ModerateBuy,67854538.99598393
+1328,TCYMF,consumergoods,Tingyi (Cayman Islands) Holding,10123175448,Large,,5687177217.977528
+1329,GL,financial,Globe Life,10115582203,Large,Hold,104661998.99637868
+1330,CGNWF,utilities,CGN Power Co,10099722220,Large,,
+1331,IHHHF,healthcare,IHH Healthcare Bhd,10093802382,Large,,7421913516.17647
+1332,TAP,consumergoods,Molson Coors,10075674591,Large,ModerateBuy,216681174.0
+1333,TCYMY,consumergoods,Tingyi (Cayman Islands) Holding,10055687611,Large,ModerateBuy,284058972.0621469
+1334,APO,financial,Apollo Global Management,10035861996,Large,ModerateBuy,228815822.98221615
+1335,CKHGF,financial,Capitec Bank Holdings,10030205064,Large,,
+1336,SMFKY,basicmaterials,Smurfit Kappa Group,10017467464,Large,,241326607.17899302
+1337,MAXSF,technology,Maxis Bhd,10010238604,Large,ModerateSell,
+1338,GWRE,technology,Guidewire,10006409829,Large,ModerateBuy,83791741.99464077
+1339,CGC,basicmaterials,Canopy Growth,10003259902,Large,Hold,372283583.9970227

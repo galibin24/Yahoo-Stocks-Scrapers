@@ -1,0 +1,47 @@
+,ticker,sector,company_name,market_cap,market_category,analyst_consensus,stock_outstanding
+0,AAPL,technology,Apple,2011651560200,Mega,ModerateBuy,17337340000.0
+1,MSFT,technology,Microsoft,1616963272890,Mega,StrongBuy,7560495968.99986
+2,AMZN,consumergoods,Amazon,1598112640437,Mega,StrongBuy,501751182.99974567
+3,GOOG,technology,Alphabet Class C,1198241791008,Mega,StrongBuy,676426271.9994581
+4,GOOGL,technology,Alphabet Class A,1193303879223,Mega,StrongBuy,676426271.9997959
+5,FB,technology,Facebook,784960977200,Mega,StrongBuy,2848292670.996771
+6,BABA,consumergoods,Alibaba,751409396552,Mega,StrongBuy,2705636599.9999995
+7,TCEHY,technology,Tencent Holdings,716260586743,Mega,StrongBuy,9688361784.701744
+8,BRK.A,financial,Berkshire Hathaway A,547720645040,Mega,,1563152.0
+9,BRK.B,financial,Berkshire Hathaway B,546626265424,Mega,,2344727256.998241
+10,TSLA,consumergoods,Tesla,544095020742,Mega,Hold,947900733.0
+11,TSM,technology,Taiwan Semi,505590549240,Mega,ModerateBuy,5186076000.0
+12,V,financial,Visa,449942469714,Mega,StrongBuy,2133541038.9966333
+13,WMT,consumergoods,Walmart,430248708576,Mega,StrongBuy,2833752937.9964433
+14,JNJ,healthcare,Johnson & Johnson,378243731112,Mega,StrongBuy,2632542671.9933186
+15,JPM,financial,JPMorgan Chase & Co.,371972219777,Mega,ModerateBuy,3048203062.9927073
+16,PG,consumergoods,Procter & Gamble,342463725953,Mega,ModerateBuy,2469452883.9991345
+17,MA,financial,Mastercard,340270559779,Mega,StrongBuy,996925347.9989454
+18,NVDA,technology,Nvidia,327692410000,Mega,StrongBuy,619000000.0
+19,NSRGF,consumergoods,Nestlé SA,323011945167,Mega,ModerateBuy,2879921051.774251
+20,NSRGY,consumergoods,Nestle SA Reg,322565537504,Mega,ModerateBuy,2880049442.0
+21,UNH,healthcare,UnitedHealth,316137572364,Mega,StrongBuy,948820709.9972988
+22,LVMUY,consumergoods,LVMH Moet Hennessy Louis Vuitton SE,298825964613,Mega,,2519399414.9987354
+23,HD,consumergoods,Home Depot,294905752615,Mega,StrongBuy,1076455513.998394
+24,RHHBY,healthcare,Roche Holding,282373582988,Mega,,6837132760.0
+25,RHHVF,healthcare,Roche Holding AG,280245525416,Mega,ModerateBuy,854641594.9986278
+26,DIS,services,Walt Disney,269415077087,Mega,StrongBuy,1807063364.994299
+27,PYPL,technology,Paypal Holdings,251281025358,Mega,StrongBuy,1171691808.9993472
+28,BAC,financial,Bank of America,251132424816,Mega,StrongBuy,8650789693.971752
+29,VZ,technology,Verizon,249982280710,Mega,ModerateBuy,4138094366.992221
+30,CMCSA,services,Comcast,237001739429,Mega,ModerateBuy,4575323155.0
+31,KO,consumergoods,Coca-Cola,227463214013,Mega,StrongBuy,4297434611.996978
+32,ADBE,technology,Adobe,225506299528,Mega,StrongBuy,479718982.9986387
+33,CRM,technology,Salesforce,224606200000,Mega,StrongBuy,910000000.0
+34,MPNGF,technology,Meituan Dianping,224389870236,Mega,Hold,5880237689.6226425
+35,NFLX,services,Netflix,214270578880,Mega,ModerateBuy,441795008.0
+36,NKE,consumergoods,Nike,212774288282,Mega,StrongBuy,1569826532.99395
+37,PIAIF,financial,Ping An Insurance Company of China,211136788285,Mega,ModerateBuy,18280241409.95671
+38,IDCBY,financial,Industrial & Commercial Bank of China,210992504191,Mega,,17850465667.597294
+39,IDCBF,financial,Industrial and Commercial Bank of China,210636097939,Mega,,357010335489.8305
+40,T,technology,AT&T,206582740000,Mega,Hold,7126000000.0
+41,LRLCY,consumergoods,L'Oreal,203328018008,Mega,,2806459875.8868184
+42,PFE,healthcare,Pfizer,203048227761,Mega,ModerateBuy,5558396598.987134
+43,NVS,healthcare,Novartis,202839910000,Mega,StrongBuy,2274500000.0
+44,MRK,healthcare,Merck & Company,202554557026,Mega,ModerateBuy,2530034436.997252
+45,NAEX,industrialgoods,National Art Exchange,200576158000,Mega,,167007625.31223983

@@ -1,0 +1,1994 @@
+,ticker,sector,company_name,market_cap,market_category,analyst_consensus,stock_outstanding
+0,SSLZY,utilities,Santos,9946640345,Medium,,2072216738.5416667
+1,WLK,basicmaterials,Westlake Chemical,9939300981,Medium,Hold,127721677.98766385
+2,CMCLF,basicmaterials,China Molybdenum Co,9935650668,Medium,,21599240582.608696
+3,ICLR,healthcare,Icon,9934939494,Medium,ModerateBuy,52775242.996015936
+4,SURRF,consumergoods,Sun Art Retail Group,9921292888,Medium,ModerateSell,9539704700.0
+5,CBOE,financial,Cboe Global Markets,9919328767,Medium,ModerateBuy,108041920.99989107
+6,BRPBF,financial,Banco Santander Rio SA,9882495137,Medium,,
+7,WB,technology,Weibo,9878272440,Medium,StrongBuy,226462000.0
+8,PLAN,technology,Anaplan,9828732020,Medium,ModerateBuy,139771501.99089876
+9,FWONK,services,Liberty Media Liberty Formula One,9825170053,Medium,StrongBuy,231780373.9797122
+10,CREE,technology,Cree,9800398800,Medium,ModerateBuy,110340000.00000001
+11,IVBXF,healthcare,Innovent Biologics,9798120479,Medium,ModerateBuy,1399731497.0
+12,FSLR,technology,First Solar,9797496824,Medium,Hold,105976168.99945916
+13,SMUUY,financial,Siam Commercial Bank,9772677563,Medium,,832425686.7972742
+14,GRBMF,consumergoods,Grupo Bimbo SAB de CV,9770089531,Medium,ModerateBuy,4523189597.6851845
+15,SBGOF,financial,Standard Bank Group,9769738959,Medium,,1889698057.8336558
+16,CHUEF,utilities,Chubu Electric Power Company,9756793494,Medium,,756340580.9302325
+17,NISTF,basicmaterials,NIPPON STEEL,9750037227,Medium,,773198828.4694687
+18,ZNH,industrialgoods,China Southern Airlines Company,9749436294,Medium,StrongBuy,306586046.9811321
+19,PNW,utilities,Pinnacle West Capital,9741873751,Medium,Hold,112596783.99214055
+20,MXGBF,consumergoods,Molson Coors Canada,9718128985,Medium,,
+21,EBR.B,utilities,Centrais Elc Braz Pfb B Elbras,9712591767,Medium,,1569077829.8869143
+22,CJRCF,basicmaterials,China Resources Cement Holdings,9706283565,Medium,ModerateBuy,
+23,LNC,financial,Lincoln National,9699987916,Medium,Hold,193265349.99003786
+24,HKTTF,technology,HKT and HKT,9696950187,Medium,,7236529990.298507
+25,AHEXY,services,Adecco Group AG,9690933721,Medium,ModerateBuy,324328437.7844712
+26,BSY,technology,Bentley Systems,9687257815,Medium,ModerateBuy,271579977.99271095
+27,TTC,industrialgoods,The Toro Company,9684671537,Medium,ModerateBuy,107297490.99268779
+28,EFGSY,industrialgoods,Eiffage SA,9677500000,Medium,,481228244.6544008
+29,MMP,industrialgoods,Magellan Midstream,9677302794,Medium,StrongBuy,223700942.99583912
+30,PWR,industrialgoods,Quanta Services,9677216121,Medium,StrongBuy,138860900.0
+31,ADTTF,technology,Advantest,9673024401,Medium,,
+32,BDNNY,basicmaterials,Boliden,9663149565,Medium,,139479641.52713627
+33,CIG,utilities,Companhia Energetica Minas Gerais,9652462396,Medium,,4005171118.672199
+34,CNA,financial,CNA Financial,9650581389,Medium,Hold,271388677.9808774
+35,AEXAY,technology,Atos SE,9647016307,Medium,,547503763.1668558
+36,IAUGF,financial,Insurance Australia Group,9637049847,Medium,,2439759454.936709
+37,XPO,industrialgoods,XPO Logistics,9637044780,Medium,StrongBuy,91415715.99317017
+38,TKGSF,utilities,TOKYO GAS Co,9636097189,Medium,,387302941.6800643
+39,GLIBA,technology,GCI Liberty,9635659397,Medium,ModerateBuy,105839843.99165201
+40,KOF,consumergoods,Coca Cola Femsa SAB De CV,9623912583,Medium,Hold,210083225.99869022
+41,SBSW,basicmaterials,Sibanye Stillwater,9615943101,Medium,ModerateBuy,731250425.931559
+42,GLPI,financial,Gaming and Leisure,9614789099,Medium,StrongBuy,228705734.99048525
+43,CPT,financial,Camden Property,9605150028,Medium,ModerateBuy,97395558.99411884
+44,ACCYY,services,Accor SA,9597973772,Medium,,1305846771.7006803
+45,TS,basicmaterials,Tenaris SA,9574153691,Medium,Hold,590268414.9815043
+46,BWA,industrialgoods,BorgWarner,9563125027,Medium,ModerateBuy,244518665.9933521
+47,SMTOF,industrialgoods,Sumitomo Electric Industries,9561531960,Medium,,781170911.7647059
+48,NTXFY,financial,Natixis,9554532760,Medium,,299046408.7636933
+49,RGEN,healthcare,Repligen,9546714337,Medium,StrongBuy,52619270.99707876
+50,NI,utilities,Nisource,9541983605,Medium,StrongBuy,383212192.9718876
+51,GLPEY,utilities,Galp Energia SGPS SA,9536382302,Medium,,1649893131.83391
+52,FIVN,technology,Five9,9527078459,Medium,StrongBuy,65981566.999099664
+53,SABN,utilities,Sabine Oil & Gas Holdings,9524739375,Medium,,
+54,VST,utilities,Vistra Energy,9523429556,Medium,StrongBuy,489133515.9732923
+55,STOSF,utilities,Santos,9498781146,Medium,ModerateBuy,1970701482.572614
+56,KIKOY,consumergoods,Kikkoman,9494748549,Medium,,296803643.29477966
+57,EBR,utilities,Centrais Eletricas Brasileiras SA - Eletrobras,9492920871,Medium,,1569077829.9173553
+58,RE,financial,Everest Re,9491447680,Medium,ModerateBuy,39965672.99675775
+59,WJRYY,industrialgoods,West Japan Railway,9489489658,Medium,Hold,190513745.39249146
+60,SNA,consumergoods,Snap-on,9485378892,Medium,Hold,54214556.99588477
+61,MHK,consumergoods,Mohawk Industries,9478672280,Medium,Hold,71198619.99549313
+62,FQVLF,basicmaterials,First Quantum Minerals,9463544797,Medium,StrongBuy,689260363.9475601
+63,SMG,basicmaterials,Scotts Miracle-Gro Company,9447795626,Medium,ModerateBuy,55768818.995336756
+64,CPAMF,financial,CapitaLand Mall,9447228009,Medium,,6470704115.753425
+65,FSLY,technology,Fastly,9439795000,Medium,Hold,113500000.0
+66,BDOUF,financial,BDO Unibank,9425753542,Medium,ModerateBuy,4384071414.883721
+67,AGESY,financial,ageas,9418582404,Medium,,184786784.46144792
+68,TIIAY,technology,Telecom Italia SPA,9417020470,Medium,,2083411608.40708
+69,ACSAY,industrialgoods,Actividades de Construccion y Servicios SA,9370833007,Medium,,1411270031.1746988
+70,CWYCF,industrialgoods,China Railway Construction,9369883635,Medium,,
+71,CHGG,services,Chegg,9347806142,Medium,ModerateBuy,128810887.99779524
+72,OSUKF,technology,Otsuka,9328424304,Medium,Hold,
+73,RSNAY,financial,RSA Insurance,9322221178,Medium,,1027808288.6438808
+74,DNFGF,consumergoods,Dongfeng Motor Group Co,9305409600,Medium,ModerateBuy,8616120000.0
+75,BURBY,consumergoods,Burberry Group,9299185539,Medium,,406432934.39685315
+76,CDNTF,consumergoods,Canadian Tire,9294182255,Medium,,
+77,AQN,utilities,Algonquin Power & Utilities,9289807230,Medium,ModerateBuy,597031312.9820051
+78,WU,financial,Western Union,9283106557,Medium,ModerateBuy,411120750.97431356
+79,OTGLF,technology,CD Projekt SA,9282124397,Medium,Hold,95603300.0
+80,MGP,financial,MGM Growth Properties,9273982018,Medium,ModerateBuy,303467997.9712042
+81,FRFHF,financial,Fairfax Financial Holdings,9263623882,Medium,ModerateBuy,27035236.77805341
+82,BILL,technology,Bill.com Holdings,9255209372,Medium,ModerateBuy,81164687.99438745
+83,WYNMY,services,Wynn Macau,9240601330,Medium,,517390891.9372901
+84,ARMK,services,ARAMARK Holdings,9195663605,Medium,ModerateBuy,252975614.9931224
+85,VLEEY,industrialgoods,Valeo SA (EU),9180610843,Medium,ModerateBuy,477907904.3727225
+86,WJRYF,industrialgoods,West Japan Railway Company,9177825984,Medium,,191204708.0
+87,JGSHF,industrialgoods,JG Summit Holdings,9177032730,Medium,,6285638856.164384
+88,SNLAY,financial,Sino Land Co,9158706615,Medium,,1362902770.0892859
+89,HSIC,healthcare,Henry Schein,9156235012,Medium,ModerateBuy,142776157.99157962
+90,AZPN,technology,Aspen Technology,9141346233,Medium,ModerateBuy,67718691.99940737
+91,AYAAF,financial,Ayala Land,9132845271,Medium,,
+92,AMH,financial,American Homes,9127354278,Medium,StrongBuy,316263141.995842
+93,BEPC,financial,Brookfield Renewable,9110978655,Medium,Hold,114791213.99773213
+94,AOS,industrialgoods,AO Smith,9101937969,Medium,ModerateBuy,161467765.99254924
+95,WYNMF,services,Wynn Macau,9095080050,Medium,Hold,5197188600.0
+96,YATRF,industrialgoods,Yamato Holdings Co,9091773990,Medium,,
+97,BCH,financial,Banco De Chile,9066283019,Medium,ModerateBuy,505085404.95821726
+98,NWL,industrialgoods,Newell Brands,9063048000,Medium,Hold,424300000.0
+99,APAJF,industrialgoods,APA Group,9055685283,Medium,,1179125687.890625
+100,XYIGF,basicmaterials,Xinyi Glass Holdings,9050709705,Medium,ModerateBuy,4022537646.6666665
+101,AAL,industrialgoods,American Airlines,9038552243,Medium,ModerateSell,604990109.9732263
+102,SBYSF,basicmaterials,Sibanye Stillwater,9038255265,Medium,,2925001703.8834953
+103,FYRTF,consumergoods,FamilyMart UNY Holdings Co,9015619404,Medium,,
+104,AGRPF,financial,Absa Group,9015267660,Medium,,
+105,IPG,services,Interpublic Group of Companies,9013701755,Medium,ModerateBuy,390034692.99004763
+106,BCCLF,consumergoods,Becle Sab De Cv,8977940752,Medium,,3591176300.8
+107,TRYIY,basicmaterials,Toray Industries,8975716145,Medium,,806443499.1015273
+108,SJR,services,Shaw Communications,8972722371,Medium,StrongBuy,513020146.99828476
+109,DISPF,technology,Disco,8970649252,Medium,,
+110,KGC,basicmaterials,Kinross Gold,8959096000,Medium,ModerateBuy,1258300000.0
+111,LNVGF,technology,Lenovo Group,8951019752,Medium,,12095972637.837837
+112,ACDSF,financial,Ascendas Real Estate Investment,8934610746,Medium,,3884613367.8260875
+113,KIKOF,consumergoods,Kikkoman,8921227374,Medium,,
+114,HKCVF,utilities,HK Electric Investments & HK Electric Investments,8919260280,Medium,,
+115,DLB,services,Dolby Laboratories,8914972466,Medium,StrongBuy,100348631.99009454
+116,INGIY,technology,Ingenico Group,8905471886,Medium,,295666397.2775564
+117,NBIX,healthcare,Neurocrine,8886981033,Medium,ModerateBuy,93429152.9962153
+118,CCCGF,industrialgoods,China Communications Construction Co,8883058428,Medium,,16450108199.999998
+119,ACAD,healthcare,ACADIA Pharmaceuticals,8880515939,Medium,StrongBuy,158978086.98532045
+120,STOR,financial,Store Capital,8867466297,Medium,ModerateBuy,263755689.97620466
+121,SGPYY,technology,Sage Group,8860332563,Medium,,278451683.31238216
+122,ATH,financial,Athene Holding,8841803733,Medium,ModerateBuy,191463917.99480295
+123,HUBB,industrialgoods,Hubbell B,8815331315,Medium,ModerateBuy,54228169.998769686
+124,FWONA,services,Liberty Media Liberty Formula One,8812289819,Medium,ModerateBuy,231780373.98737505
+125,MLCO,services,Melco Resorts & Entertainment,8804542614,Medium,ModerateBuy,476952470.964247
+126,FWONB,services,Liberty Media Liberty Formula One,8803018604,Medium,,231414789.8002103
+127,TRYIF,basicmaterials,Toray Industries,8799721716,Medium,,1599949402.909091
+128,SLMAF,financial,Sanlam,8787341893,Medium,,
+129,DOX,technology,Amdocs,8771272860,Medium,StrongBuy,133019000.0
+130,RH,consumergoods,RH,8770659886,Medium,ModerateBuy,19514205.99844254
+131,RSNHF,financial,Resona Holdings,8769116329,Medium,,2357289335.752688
+132,LEA,industrialgoods,Lear,8768064015,Medium,ModerateBuy,60038783.99753492
+133,DNKN,services,Dunkin' Brands,8760111008,Medium,Hold,82417075.99962367
+134,BYND,consumergoods,Beyond Meat,8745476883,Medium,ModerateSell,62655658.99842384
+135,DNTUF,services,Dentsu,8733847928,Medium,,263703137.92270532
+136,KPCPY,financial,Kasikornbank Public Co,8724869370,Medium,Hold,577805918.5430464
+137,SGGKF,technology,Singapore Technologies Engineering,8723161232,Medium,,2907720410.6666665
+138,WSM,consumergoods,Williams-Sonoma,8714361646,Medium,Hold,77799853.995179
+139,AU,basicmaterials,Anglogold Ashanti,8711019604,Medium,ModerateBuy,415999025.9789876
+140,RNR,financial,Renaissancere Holdings,8710873771,Medium,ModerateBuy,50810042.99463369
+141,MEJHF,consumergoods,Meiji Holdings Co,8704224000,Medium,,
+142,FIVE,consumergoods,Five Below,8702354632,Medium,ModerateBuy,55841597.99794661
+143,LNVGY,technology,Lenovo Group,8692701722,Medium,ModerateBuy,598258893.4618032
+144,BKHPF,financial,Bank Hapoalim BM,8683337669,Medium,,1389334027.04
+145,WILLF,healthcare,Demant,8682933885,Medium,ModerateSell,250445165.41678685
+146,PNR,industrialgoods,Pentair,8681613240,Medium,ModerateBuy,166346296.99176088
+147,HDS,industrialgoods,HD Supply Holdings,8679253762,Medium,Hold,155597951.98996055
+148,ZNGA,technology,Zynga,8675154388,Medium,StrongBuy,1078999301.9900498
+149,BTDPY,consumergoods,Barratt Developments,8670920838,Medium,ModerateBuy,509155656.9583088
+150,ASEKF,industrialgoods,Aisin Seiki Co,8664567199,Medium,,
+151,ASND,healthcare,Ascendis Pharma,8661419155,Medium,StrongBuy,53416090.995991364
+152,BG,basicmaterials,Bunge,8635219040,Medium,ModerateBuy,139660666.99013424
+153,GFL,industrialgoods,GFL Environmental,8629072858,Medium,StrongBuy,326364328.97125566
+154,WSO,industrialgoods,Watsco,8610391578,Medium,ModerateSell,38482196.99664804
+155,SOUHY,basicmaterials,South32,8609764342,Medium,ModerateBuy,952407559.9557523
+156,WILYY,healthcare,Demant,8604709256,Medium,,495377619.8042602
+157,HEGIF,consumergoods,Hengan International Group Co,8600946273,Medium,ModerateBuy,1186337416.9655173
+158,SCI,services,Service International,8595722979,Medium,StrongBuy,172743628.99919614
+159,OILRF,utilities,Oil Refineries,8591310840,Medium,,3205713000.0
+160,LPHHF,financial,Logan Property Holdings Co,8580861439,Medium,,
+161,WWNTF,consumergoods,Want Want China Holdings,8559312394,Medium,,11887933880.555555
+162,MOS,basicmaterials,Mosaic Co,8556061593,Medium,ModerateBuy,379090012.9818343
+163,FND,consumergoods,Floor & Decor Holdings,8536088698,Medium,ModerateBuy,103997181.99317738
+164,ARKAY,basicmaterials,Arkema SA,8534598821,Medium,ModerateBuy,75413968.55173633
+165,AGNC,financial,AGNC Investment,8532561054,Medium,StrongBuy,545211568.9456869
+166,EMBVF,consumergoods,Arca Continental SAB de C V,8521861202,Medium,ModerateBuy,1893746933.7777777
+167,OTPBF,financial,OTP Bank Nyrt,8519297583,Medium,,
+168,TREX,basicmaterials,Trex Company,8510358097,Medium,ModerateBuy,115787184.99319728
+169,UUGRY,utilities,United Utilities,8489510804,Medium,,345523435.24623525
+170,KAEPF,utilities,Kansai Electric Power Company,8488841280,Medium,,893562240.0
+171,TTM,consumergoods,Tata Motors,8475655317,Medium,Hold,719495357.9796265
+172,MORN,financial,Morningstar,8471927400,Medium,,42832940.99802821
+173,Y,financial,Alleghany,8446022090,Medium,ModerateBuy,14130398.999531552
+174,CONE,financial,CyrusOne,8444029626,Medium,ModerateBuy,120422555.98973188
+175,MTNOY,technology,MTN Group,8412606281,Medium,ModerateBuy,1816977598.488121
+176,BSAC,financial,Banco Santander Chile,8399986084,Medium,ModerateBuy,471115315.9842962
+177,MHVYF,industrialgoods,Mitsubishi Heavy Industries,8390999627,Medium,Hold,335908712.0496397
+178,FLEX,technology,Flex,8384372720,Medium,StrongBuy,501157962.94082487
+179,HPHTF,technology,Hamamatsu Photonics KK,8373850910,Medium,,147271384.277172
+180,NHYDY,basicmaterials,Norsk Hydro,8359920000,Medium,,2024193704.6004844
+181,GFIOF,basicmaterials,Gold Fields,8347501745,Medium,,883333517.989418
+182,SNX,technology,SYNNEX,8337279849,Medium,StrongBuy,51544233.996908806
+183,BKHYY,financial,Bank Hapoalim BM,8336004144,Medium,,244672854.24126798
+184,MTLHF,basicmaterials,Mitsubishi Chemical Holdings,8335741088,Medium,,1420058106.9846678
+185,KOSCF,consumergoods,Kose,8328356986,Medium,ModerateBuy,57043541.0
+186,SNMYF,financial,Suncorp Group,8323909243,Medium,,
+187,SHMZF,technology,Shimadzu,8321503709,Medium,,
+188,STMNF,basicmaterials,Sumitomo Metal Mining Co,8298389250,Medium,,
+189,SNLAF,financial,Sino Land Co,8292849540,Medium,,6009311260.869566
+190,MTNOF,technology,MTN Group,8287312144,Medium,,1789916229.8056157
+191,ASMIY,technology,ASM International,8278894239,Medium,StrongBuy,48530946.94296266
+192,NVTA,healthcare,Invitae,8278381554,Medium,ModerateBuy,176699712.99893275
+193,HRGLF,financial,Hargreaves Lansdown,8264859745,Medium,Hold,422322930.25038326
+194,TECK,basicmaterials,Teck Resources,8263890154,Medium,StrongBuy,531098338.9460154
+195,YAMCF,consumergoods,Yamaha,8263537227,Medium,,145382428.3427164
+196,BMBRF,consumergoods,BIM Birlesik Magazalar AS,8258872974,Medium,,1031070283.8951311
+197,RGA,financial,Reinsurance Group,8242799364,Medium,Hold,67937025.99521965
+198,TPR,consumergoods,Tapestry,8236167840,Medium,ModerateBuy,277405450.99360055
+199,OHI,financial,Omega Healthcare,8235705083,Medium,ModerateBuy,227003998.98015434
+200,MSUXF,industrialgoods,Misumi Group,8219422654,Medium,,
+201,YKLTY,consumergoods,Yakult Honsha,8202722201,Medium,,338535790.3838217
+202,ALNPY,industrialgoods,ANA Holdings,8195748844,Medium,ModerateBuy,1645732699.5983934
+203,EHC,healthcare,Encompass Health,8194229358,Medium,StrongBuy,99432463.99708773
+204,ATR,basicmaterials,AptarGroup,8173804272,Medium,ModerateBuy,64722497.996674314
+205,CF,basicmaterials,CF Industries,8165181163,Medium,ModerateBuy,213916194.9960702
+206,ZLIOF,industrialgoods,Zoomlion Heavy Industry Science & Technology Co,8156630458,Medium,ModerateBuy,7919058697.0873785
+207,PEN,healthcare,Penumbra,8138074884,Medium,StrongBuy,36311238.99696591
+208,DCCPY,industrialgoods,DCC,8132216270,Medium,,214967387.5231298
+209,IAA,consumergoods,IAA,8120357896,Medium,StrongBuy,134465273.98575923
+210,AAXN,technology,Axon Enterprise,8117863970,Medium,ModerateBuy,63549897.995929234
+211,UHAL,financial,Amerco,8117624232,Medium,,19607788.0
+212,AFG,financial,American Financial Group,8099960399,Medium,ModerateBuy,86844219.99571139
+213,GNTX,industrialgoods,Gentex,8091766356,Medium,StrongBuy,245056521.98667473
+214,AMBFF,healthcare,Ambu,8087619029,Medium,,261819975.04046616
+215,TMICF,technology,Trend Micro,8084157961,Medium,,150095766.07872263
+216,VER,financial,VEREIT,8078625717,Medium,ModerateBuy,1091706177.9729729
+217,KOTMF,industrialgoods,Koito Manufacturing Co,8076905409,Medium,,
+218,REG,financial,Regency Centers,8075077481,Medium,ModerateBuy,169680131.9815087
+219,GPS,consumergoods,Gap,8069610333,Medium,Hold,373593070.9722222
+220,SEIC,financial,SEI Investments Company,8059771088,Medium,ModerateBuy,144569884.98654708
+221,LAMR,financial,Lamar Advertising,8044649108,Medium,ModerateBuy,100848051.99949856
+222,ZLAB,healthcare,Zai Lab,8041813268,Medium,ModerateBuy,75375510.99446996
+223,IMPUY,basicmaterials,Impala Platinum,8039736089,Medium,Hold,789757965.5206287
+224,MDIBY,financial,Mediobanca,8038210965,Medium,ModerateBuy,856039506.3897763
+225,THQQF,technology,Embracer Group AB,8032530039,Medium,ModerateBuy,422764738.8947368
+226,OC,basicmaterials,Owens Corning,8026577597,Medium,ModerateBuy,108233246.99298814
+227,KC,technology,Kingsoft Cloud Holdings,8014333078,Medium,StrongBuy,218017765.99564746
+228,ALV,industrialgoods,Autoliv,8010595591,Medium,ModerateBuy,87337500.99215002
+229,LAD,consumergoods,Lithia Motors,8006887724,Medium,StrongBuy,26524290.999436844
+230,CCDBF,services,CCL Industries,7999494000,Medium,StrongBuy,178600000.0
+231,ACKDF,industrialgoods,Auckland International Airport,7995952673,Medium,,1472551136.8324125
+232,SMGZY,industrialgoods,Smiths Group,7978346805,Medium,,395751329.6130952
+233,STLD,basicmaterials,Steel Dynamics,7968682906,Medium,ModerateBuy,210366496.99049628
+234,WEX,technology,WEX,7967236518,Medium,ModerateBuy,44130034.99501496
+235,AIZ,financial,Assurant,7966571115,Medium,StrongBuy,58759190.99424694
+236,IPXHF,utilities,INPEX,7958099183,Medium,,1460201684.9541285
+237,CSL,industrialgoods,Carlisle Companies,7957728648,Medium,ModerateBuy,53378914.99865843
+238,CRZBY,financial,Commerzbank AG,7952544000,Medium,ModerateBuy,1258313924.050633
+239,BKGFY,consumergoods,Berkeley Group,7945081622,Medium,,125139102.56733343
+240,TMNSF,technology,Temenos,7936147741,Medium,Hold,
+241,RARE,healthcare,Ultragenyx Pharmaceutical,7927449274,Medium,StrongBuy,66155797.99716265
+242,ST,technology,Sensata,7914246579,Medium,ModerateBuy,157309611.98568872
+243,DBX,technology,Dropbox,7904225418,Medium,StrongBuy,413617237.99058086
+244,MNBEF,industrialgoods,MinebeaMitsumi,7902626552,Medium,,
+245,JAZZ,healthcare,Jazz Pharmaceuticals,7901917470,Medium,StrongBuy,55714005.99309032
+246,URSSF,basicmaterials,United Co RUSAL,7900367728,Medium,ModerateBuy,
+247,OSGSF,utilities,Osaka Gas Co,7899915000,Medium,,
+248,QABSY,industrialgoods,Qantas Airways,7894983093,Medium,ModerateBuy,379566494.8557692
+249,EV,financial,Eaton Vance,7892669751,Medium,Hold,115087047.98775153
+250,GLPG,healthcare,Galapagos,7891866896,Medium,Hold,65340841.99370757
+251,NRG,utilities,NRG Energy,7876121896,Medium,ModerateBuy,244220833.98449612
+252,ACM,industrialgoods,Aecom Technology,7875900441,Medium,StrongBuy,150763790.98392037
+253,MERVF,utilities,Manila Electric Co,7867148960,Medium,,
+254,QUBSF,industrialgoods,Qantas Airways,7845945943,Medium,ModerateBuy,1886044697.8365383
+255,UGI,utilities,UGI,7844977280,Medium,Hold,208421287.9914984
+256,TOTDF,industrialgoods,TOTO,7833931236,Medium,,
+257,ASGLF,basicmaterials,AGC,7832617487,Medium,,
+258,IVZ,financial,Invesco,7822476974,Medium,Hold,459335112.9770992
+259,IPHI,technology,Inphi,7816335576,Medium,ModerateBuy,52112377.998533234
+260,AYX,technology,Alteryx,7815542706,Medium,ModerateBuy,66583256.99437724
+261,OCFT,financial,OneConnect Financial Technology,7807670951,Medium,ModerateBuy,389993553.996004
+262,DAR,basicmaterials,Darling Ingredients,7777666547,Medium,StrongBuy,162068483.99666595
+263,CRSP,healthcare,Crispr Therapeutics AG,7771767190,Medium,ModerateBuy,70652429.0
+264,VNO,financial,Vornado Realty,7769021048,Medium,ModerateSell,191260980.99458396
+265,VTTGF,industrialgoods,VAT Group AG,7767258143,Medium,ModerateBuy,
+266,G,services,Genpact,7767041997,Medium,StrongBuy,189347683.9834227
+267,IRM,financial,Iron Mountain,7760454320,Medium,,288171344.9684367
+268,CYAGF,services,CyberAgent,7752315940,Medium,,123838912.77955271
+269,RS,basicmaterials,Reliance Steel,7741288367,Medium,ModerateBuy,63756286.99555263
+270,LEVI,consumergoods,Levi Strauss & Co,7741089010,Medium,ModerateBuy,397182606.97793746
+271,KGFHY,consumergoods,Kingfisher,7733707270,Medium,,1050775444.2934783
+272,BRKR,healthcare,Bruker,7731959151,Medium,ModerateBuy,153108102.0
+273,HKMPY,healthcare,Hikma Pharmaceuticals,7717026636,Medium,,110813133.77369328
+274,AMED,healthcare,Amedisys,7716382562,Medium,ModerateBuy,32810538.99991496
+275,STKAF,financial,Stockland,7710273768,Medium,ModerateSell,2294724335.714286
+276,CBSH,financial,Commerce Bancshares,7703240794,Medium,Hold,111544175.9918911
+277,BPHLF,financial,Bank of the Philippine Islands,7694836144,Medium,,4227931947.252747
+278,MRVGF,financial,Mirvac Group,7678235194,Medium,Hold,
+279,GFI,basicmaterials,Gold Fields,7667334936,Medium,Hold,883333517.9723502
+280,UAA,consumergoods,Under Armour,7665704469,Medium,ModerateBuy,454668117.97153026
+281,MDDNF,utilities,Meridian Energy,7663370000,Medium,,
+282,CDNAF,consumergoods,Canadian Tire,7659174002,Medium,StrongBuy,60806398.87265799
+283,SHTDF,healthcare,Sinopharm Group Co,7654985856,Medium,,2967048781.3953485
+284,INGIF,technology,Ingenico Group - GCS,7649840929,Medium,ModerateBuy,
+285,CCGDF,financial,China Cinda Asset Management Co,7632907029,Medium,,38164535145.0
+286,SHTDY,healthcare,Sinopharm Group Co,7606845028,Medium,,597552633.778476
+287,MIDD,industrialgoods,The Middleby,7604975871,Medium,StrongBuy,55612254.99817184
+288,QDEL,healthcare,Quidel,7604147690,Medium,ModerateBuy,42067645.99468909
+289,CEA,industrialgoods,China Eastern Airlines,7580436857,Medium,ModerateBuy,327590183.9671564
+290,SDPNF,basicmaterials,Sime Darby Plantation Bhd,7573032811,Medium,Hold,
+291,GIGNF,services,Genting Singapore,7571871601,Medium,,12018843811.11111
+292,ACOPF,consumergoods,a2 Milk Company,7571603722,Medium,ModerateBuy,743772467.7799608
+293,PNAGF,industrialgoods,Petronas Gas Bhd,7562120084,Medium,,
+294,HYUHF,industrialgoods,Hankyu Hanshin Holdings,7556745690,Medium,,
+295,VOYA,financial,Voya Financial,7531874747,Medium,StrongBuy,126267807.9966471
+296,CHE,healthcare,Chemed,7528462392,Medium,ModerateBuy,15951821.998093018
+297,MKSI,technology,MKS Instruments,7512428240,Medium,StrongBuy,55137088.0
+298,MBT,technology,Mobile Telesystems,7504148748,Medium,,885967974.970484
+299,RHI,services,Robert Half,7503305704,Medium,Hold,113980034.99924047
+300,CHLLF,services,China Literature,7491292660,Medium,,68102660545.454544
+301,TOKUF,industrialgoods,Tokyu,7483707143,Medium,,568238963.0220197
+302,TMICY,technology,Trend Micro,7482559101,Medium,,139262220.37967616
+303,ROHCF,technology,Rohm Co,7472695670,Medium,ModerateBuy,
+304,ACI,consumergoods,Albertsons Companies,7467914477,Medium,StrongBuy,472652815.0
+305,SATLF,consumergoods,ZOZO,7446149488,Medium,,315916397.4543912
+306,SMPFF,consumergoods,San Miguel Food & Beverage,7445617313,Medium,,
+307,DXSPF,financial,Dexus,7438246585,Medium,Hold,1016153905.0546448
+308,CLPXF,utilities,China Longyuan Power Group,7433659825,Medium,,8080065027.173913
+309,DECK,consumergoods,Deckers Outdoor,7427953029,Medium,StrongBuy,28084059.998487655
+310,SHC,services,Sotera Health,7421379647,Medium,,277331077.9895366
+311,H,services,Hyatt Hotels,7420247033,Medium,Hold,101175988.99645486
+312,KTERF,industrialgoods,Keio,7419862918,Medium,,
+313,LLESY,financial,LendLease Group,7419524587,Medium,ModerateBuy,683827150.875576
+314,CIB,financial,Bancolombia,7418090737,Medium,Hold,240456749.98379254
+315,CMA,financial,Comerica,7413383044,Medium,Hold,139087861.98874298
+316,PXEUF,utilities,PTT Exploration & Production,7407595757,Medium,,
+317,LPLA,financial,LPL Financial,7404758431,Medium,StrongBuy,79288557.99336118
+318,AEG,financial,Aegon,7404095718,Medium,ModerateBuy,2028519374.7945206
+319,DIGBF,technology,DiGi Bhd,7386250000,Medium,,7775000000.0
+320,NFE,industrialgoods,New Fortress Energy,7382306006,Medium,ModerateBuy,168738422.9942857
+321,PPOKF,basicmaterials,PT Charoen Pokphand Indonesia Tbk,7379100000,Medium,,
+322,RBA,services,Ritchie Bros,7364816684,Medium,ModerateBuy,109400128.99584077
+323,YY,technology,JOYY,7361400695,Medium,ModerateBuy,80983505.99559955
+324,AUKNY,industrialgoods,Auckland International Airport,7359810572,Medium,,269787777.5659824
+325,JREIF,financial,Japan Real Estate Investment,7353761291,Medium,Hold,
+326,SPXCF,financial,Singapore Exchange,7343884768,Medium,ModerateBuy,1068978859.9708879
+327,IMPUF,basicmaterials,Impala Platinum Holdings,7338300430,Medium,,
+328,SKSUF,basicmaterials,Sekisui Chemical Co,7329212063,Medium,,423409131.31138074
+329,SPXCY,financial,Singapore Exchange,7326638541,Medium,,71166960.08742107
+330,NCLH,services,Norwegian Cruise Line,7322755942,Medium,ModerateBuy,315636031.98275864
+331,KINUF,industrialgoods,Kintetsu Group Holdings Co,7318621348,Medium,,
+332,MAWHY,consumergoods,Man Wah Holdings,7315724958,Medium,,196079468.18547305
+333,CHDN,services,Churchill Downs,7307896774,Medium,ModerateBuy,39455224.997300506
+334,KRC,financial,Kilroy Realty,7301159465,Medium,ModerateBuy,115251135.9905288
+335,YKLTF,consumergoods,Yakult Honsha Co,7300258809,Medium,,
+336,NSLYF,consumergoods,Nestle (Malaysia) Bhd,7269500000,Medium,,
+337,DNLI,healthcare,Denali Therapeutics,7269459227,Medium,ModerateBuy,119918495.99142198
+338,JNPR,technology,Juniper Networks,7267389682,Medium,ModerateBuy,329736373.95644283
+339,NCNO,technology,nCino,7267385433,Medium,ModerateBuy,91149948.99034241
+340,BSMX,financial,Banco Santander (Mexico) SA Institucion de Banca Multiple GrupoFinanciero Santander C,7248509971,Medium,ModerateBuy,1357398870.9737828
+341,GGB,basicmaterials,Gerdau SA,7246947700,Medium,ModerateBuy,1701161431.9248827
+342,MCRPF,healthcare,MicroPort Scientific,7231693368,Medium,,1807923342.0
+343,LLESF,financial,Lendlease Group,7226809663,Medium,ModerateBuy,665452086.8324126
+344,NTRA,healthcare,Natera,7218024791,Medium,StrongBuy,85369896.99586044
+345,ITOEF,consumergoods,ITO EN,7214038349,Medium,,
+346,HLTOY,technology,Hellenic Telecom Organization SA,7210740425,Medium,,910447023.3585858
+347,TBURF,industrialgoods,Tobu Railway Co,7197496053,Medium,,
+348,DLAKY,industrialgoods,Deutsche Lufthansa AG,7195867161,Medium,Hold,582189899.7572815
+349,RGLD,basicmaterials,Royal Gold,7183706328,Medium,Hold,65604624.0
+350,SGLOF,services,Sushiro Global Holdings,7174322334,Medium,,
+351,FHN,financial,First Horizon,7173405323,Medium,StrongBuy,554787727.9969064
+352,CCRDF,financial,Concordia Financial Group,7171069229,Medium,ModerateSell,
+353,TISCF,industrialgoods,TAISEI,7171052417,Medium,,200757346.50055993
+354,FANG,utilities,Diamondback,7170378583,Medium,StrongBuy,157972649.98898435
+355,CURLF,basicmaterials,Curaleaf Holdings,7168122188,Medium,StrongBuy,658834759.9264705
+356,EEFT,technology,Euronet Worldwide,7160340499,Medium,ModerateBuy,52314900.993643604
+357,BERY,basicmaterials,Berry Global Group,7152444000,Medium,ModerateBuy,132600000.0
+358,WWD,industrialgoods,Woodward,7148267235,Medium,ModerateBuy,62792227.99543218
+359,FVRR,technology,Fiverr International,7138983109,Medium,StrongBuy,35117236.99640907
+360,SC,financial,Santander Consumer USA,7131453647,Medium,Hold,306070971.97424895
+361,SHCAY,consumergoods,Sharp,7130179141,Medium,,2109520455.9171598
+362,RTMVY,technology,Rightmove,7113512261,Medium,,443485801.80798006
+363,CX,basicmaterials,Cemex SAB,7100351729,Medium,ModerateBuy,1510713133.8297873
+364,ARCC,financial,Ares Capital,7100051599,Medium,StrongBuy,422622118.9880952
+365,COG,utilities,Cabot Oil & Gas,7082764485,Medium,ModerateBuy,398579880.9791784
+366,LSRCF,technology,Lasertec,7078966249,Medium,ModerateBuy,81837760.10404624
+367,GLOB,technology,Globant SA,7070934202,Medium,ModerateBuy,39559886.99787401
+368,USFD,consumergoods,US Foods Holding,7062739091,Medium,StrongBuy,220848626.985616
+369,SWI,technology,SolarWinds,7059666790,Medium,ModerateBuy,314042116.99288255
+370,PRAH,services,PRA Health Sciences,7059666341,Medium,ModerateBuy,64149625.99727397
+371,KPELY,industrialgoods,Keppel,7059309923,Medium,ModerateSell,909704886.984536
+372,TEO,technology,Telecom Argentina,7054263027,Medium,ModerateSell,860275978.9024391
+373,JLL,financial,Jones Lang Lasalle,7041322887,Medium,ModerateBuy,51302898.99453552
+374,IONS,healthcare,Ionis Pharmaceuticals,7024714302,Medium,ModerateBuy,139823134.99203822
+375,SEE,basicmaterials,Sealed Air,7016029422,Medium,ModerateBuy,155153237.99203894
+376,ARW,technology,Arrow Electronics,7006060178,Medium,Hold,75545181.99266768
+377,NYT,services,New York Times,6993015901,Medium,StrongBuy,167217022.97943568
+378,AGCO,industrialgoods,Agco,6980634518,Medium,ModerateBuy,74899511.99570815
+379,MRCIF,consumergoods,Mercari,6975931606,Medium,,
+380,BLMIF,financial,Bank Leumi Le-Israel,6973900828,Medium,ModerateBuy,
+381,MIHDF,industrialgoods,MISC Bhd,6963443296,Medium,ModerateBuy,
+382,WARFF,financial,Wharf (Holdings),6955658305,Medium,,2827503376.01626
+383,ODERF,industrialgoods,Odakyu Electric Railway Co,6954922452,Medium,,
+384,ELUXY,consumergoods,Electrolux AB,6952144315,Medium,Hold,144205441.09105995
+385,UVRBF,consumergoods,Universal Robina,6943109884,Medium,ModerateSell,2345645231.081081
+386,KNX,industrialgoods,Knight Transportation,6939316601,Medium,ModerateBuy,169831536.97993147
+387,IIVI,technology,II-VI,6939286927,Medium,ModerateBuy,103726261.98804185
+388,TSYHF,services,TravelSky Technology,6938042935,Medium,,2927444276.371308
+389,KSFTF,technology,Kingsoft,6930804277,Medium,ModerateBuy,1367022539.842209
+390,MCFE,technology,McAfee,6930290610,Medium,ModerateBuy,424390116.9626455
+391,AIOAF,financial,Sarossa,6930127170,Medium,,
+392,OGE,utilities,OGE Energy,6928693388,Medium,ModerateBuy,200020016.97459584
+393,SWPRF,financial,Swiss Prime Site AG,6928051861,Medium,Hold,
+394,COLD,financial,Americold Realty,6922216561,Medium,StrongBuy,204859915.9810595
+395,MAWHF,consumergoods,Man Wah Holdings,6921534984,Medium,ModerateBuy,3803041200.0
+396,NNN,financial,National Retail Properties,6916096711,Medium,ModerateBuy,173727623.98894748
+397,OZON,consumergoods,Ozon Holdings,6909847307,Medium,,177130153.98615742
+398,LRENY,consumergoods,Lojas Renner,6899200267,Medium,,795755509.4579008
+399,FRT,financial,Federal Realty,6886915807,Medium,Hold,75647141.99253075
+400,KNMCY,technology,Konami Holdings,6884525360,Medium,ModerateBuy,134858479.1380999
+401,STDAF,healthcare,STADA Arzneimittel Aktiengesellschaft,6874546800,Medium,,
+402,NESRF,basicmaterials,Northern Star Resources,6872424154,Medium,ModerateBuy,740562947.6293104
+403,XLRN,healthcare,Acceleron Pharma,6853666365,Medium,StrongBuy,60252012.0
+404,DCI,basicmaterials,Donaldson Company,6851947217,Medium,ModerateBuy,126396369.98708725
+405,SYNH,healthcare,Syneos Health,6847169590,Medium,ModerateBuy,103997107.9890644
+406,CIEN,technology,Ciena,6834812736,Medium,ModerateBuy,154319546.98577556
+407,GPFOY,financial,Grupo Financiero Inbursa,6825341530,Medium,,1373308154.9295776
+408,PNDFF,consumergoods,PT Indofood CBP Sukses Makmur Tbk,6824140394,Medium,,
+409,XJNGF,industrialgoods,Xinjiang Goldwind Science & Technology Co,6823484249,Medium,,4212027314.1975307
+410,NFPDF,consumergoods,Nissin Foods Holdings Co,6822085747,Medium,,
+411,MAEOY,utilities,Manila Electric Company,6813311665,Medium,,555735046.0848287
+412,DITTF,financial,Daito Construction Co,6811219697,Medium,,
+413,BHC,healthcare,Bausch Health Companies,6808244708,Medium,ModerateBuy,355151001.9822639
+414,CD,technology,Chindata Group Holdings,6803810328,Medium,StrongBuy,359229689.96832097
+415,TSUSF,consumergoods,TSURUHA Holdings,6794607820,Medium,,
+416,NPIFF,utilities,Northland Power,6793023510,Medium,ModerateBuy,201753000.0
+417,LECO,industrialgoods,Lincoln Electric Holdings,6790960603,Medium,ModerateBuy,59470711.99754795
+418,AXXTF,technology,Axiata Group Bhd,6785437756,Medium,ModerateSell,8377083649.382715
+419,AXTA,basicmaterials,Axalta Coating Systems,6779377619,Medium,StrongBuy,235476818.99965265
+420,LDSCY,financial,Land Securities Group,6779292755,Medium,Hold,730527236.5301725
+421,VOPKY,industrialgoods,Royal Vopak,6768741484,Medium,,125486493.95624769
+422,CAE,services,CAE,6758008730,Medium,ModerateBuy,265854001.96695513
+423,AACAF,technology,AAC Technologies Holdings,6755515000,Medium,,1239544036.6972477
+424,SJMHF,services,SJM Holdings,6754290408,Medium,ModerateBuy,5675874292.4369755
+425,KUNUF,unknownsector,KUNLUN ENERGY,6754020000,Medium,,8338296296.296296
+426,DSECF,financial,Daiwa,6746419147,Medium,,1460263884.6320345
+427,ISUZF,consumergoods,Isuzu Motors,6741129072,Medium,ModerateBuy,659601670.4500978
+428,YAMHF,consumergoods,Yamaha Motor Co,6740634946,Medium,ModerateBuy,346740480.76131684
+429,UA,consumergoods,Under Armour,6738181508,Medium,,454668117.94871795
+430,CCLAF,consumergoods,Coca-Cola Amatil,6733197200,Medium,,723999698.9247311
+431,OGFGF,utilities,Origin Energy,6727826291,Medium,StrongBuy,1742960179.0155442
+432,ZION,financial,Zions Bancorporation National Association,6716274815,Medium,ModerateBuy,164011594.993895
+433,TUPRF,utilities,Turkiye Petrol Rafinerileri AS,6711234560,Medium,,
+434,HII,technology,Huntington Ingalls,6702743057,Medium,Hold,40492617.99673775
+435,OBYCF,industrialgoods,Obayashi,6695653162,Medium,Hold,719962705.5913978
+436,KUMBF,basicmaterials,Kumba Iron Ore,6695530113,Medium,,
+437,CASY,consumergoods,Casey's General,6684136743,Medium,ModerateBuy,36920772.99491825
+438,SMAR,technology,Smartsheet,6681783363,Medium,StrongBuy,120609807.9963899
+439,RP,technology,Realpage,6679423862,Medium,ModerateBuy,101851537.99939007
+440,PSXP,industrialgoods,Phillips 66 Partners,6676665869,Medium,ModerateBuy,228340145.998632
+441,CVE,utilities,Cenovus Energy,6660475400,Medium,ModerateBuy,1228870000.0
+442,CFFHF,financial,CIFI Holdings (Group) Co,6658081387,Medium,,8219853564.197531
+443,MGPUF,financial,M&G Plc,6655761576,Medium,Hold,2530707823.5741444
+444,WF,financial,Woori Finance Holdings Co,6654492882,Medium,ModerateBuy,240755892.9811867
+445,CCLAY,consumergoods,Coca-Cola Amatil,6646317236,Medium,Hold,716970575.6202805
+446,GPFOF,financial,Grupo Financiero Inbursa SAB de CV,6628456680,Medium,,6562828396.039604
+447,ADT,services,Adt,6611920390,Medium,StrongBuy,825458225.9675406
+448,BNMDF,financial,Banca Mediolanum SpA,6608746917,Medium,StrongBuy,734305213.0
+449,KIM,financial,Kimco Realty,6604254568,Medium,ModerateBuy,432498661.951539
+450,JSAIY,consumergoods,J Sainsbury,6602589596,Medium,,559541491.1864406
+451,BL,technology,BlackLine,6597490423,Medium,StrongBuy,57254971.99514015
+452,SQNXF,consumergoods,Square Enix Holdings Co,6582675807,Medium,,119294595.9949257
+453,SBHGF,financial,SBI Holdings,6581163453,Medium,,237415708.982684
+454,SRCL,services,Stericycle,6573925180,Medium,ModerateBuy,91558846.51810585
+455,PSO,services,Pearson,6573459266,Medium,ModerateBuy,752973569.9885452
+456,TMX,services,Terminix Global Holdings,6572344095,Medium,StrongBuy,132107418.99497488
+457,SHGR,financial,Success Holding Group USA,6571158269,Medium,,657115826900.0
+458,EGIEY,utilities,Engie Brasil Energia SA,6568218307,Medium,ModerateBuy,815927739.9999999
+459,CIMDF,financial,CIMB Group Holdings Bhd,6549157791,Medium,ModerateSell,7042105151.612903
+460,TTEK,services,Tetra Tech,6547396136,Medium,StrongBuy,53777380.99383984
+461,PRGO,healthcare,Perrigo Company,6542028344,Medium,ModerateBuy,136491306.9893595
+462,SCRYY,financial,SCOR SE,6539741049,Medium,,1842180577.1830988
+463,ELUXF,consumergoods,Electrolux AB,6533607409,Medium,Hold,
+464,NVAX,healthcare,Novavax,6531511075,Medium,ModerateBuy,63659951.99805068
+465,ALMMF,basicmaterials,Aluminum of China,6517981472,Medium,,17152582821.052631
+466,AACAY,technology,AAC Technologies,6504147000,Medium,,1197817127.0718234
+467,ALK,industrialgoods,Alaska Air,6488638431,Medium,ModerateBuy,123663777.9874214
+468,ARES,financial,Ares Management,6478180218,Medium,ModerateBuy,143831709.991119
+469,SNPHY,healthcare,Santen Pharmaceutical Co,6476812307,Medium,,399310253.20591867
+470,GRUB,consumergoods,GrubHub,6464093998,Medium,Hold,92754971.99024251
+471,HUNGF,utilities,Huaneng Power International,6462905035,Medium,,16157262587.5
+472,ITT,industrialgoods,ITT,6457536000,Medium,StrongBuy,86400000.0
+473,TKCOF,services,Toho Co,6451804507,Medium,,
+474,REYN,consumergoods,Reynolds Consumer Products,6450387380,Medium,ModerateBuy,209700500.0
+475,EWBC,financial,East West Bancorp,6449655019,Medium,ModerateBuy,141563981.97980684
+476,IRTC,healthcare,Irhythm Technologies,6448719477,Medium,ModerateBuy,28871415.99659742
+477,RL,consumergoods,Ralph Lauren,6435331035,Medium,Hold,73103839.99772805
+478,AUKUF,technology,ams AG,6430602453,Medium,ModerateBuy,258049857.66452646
+479,CLR,utilities,Continental Resources,6417166352,Medium,Hold,365234282.9823563
+480,SNPHF,healthcare,Santen Pharmaceutical Co,6412883253,Medium,,399556588.9719626
+481,IGIFF,financial,IGM Financial,6412875922,Medium,Hold,238308283.9836492
+482,SHMUF,industrialgoods,Shimizu,6407995549,Medium,,
+483,RUMOF,industrialgoods,Rumo SA,6400949228,Medium,,
+484,HMTLF,industrialgoods,Hitachi Metals,6392123196,Medium,,427566768.9632107
+485,CUBE,financial,Cubesmart,6383260021,Medium,ModerateBuy,195266442.97950444
+486,NDGPF,basicmaterials,Nine Dragons Paper Holdings,6381420302,Medium,,4692220810.294117
+487,HRC,healthcare,Hill-Rom,6378628422,Medium,StrongBuy,66812908.99759087
+488,COGQF,financial,Chongqing Rural Commercial Bank Co,6359920000,Medium,,
+489,MDNDF,services,Mcdonalds Holdings Company Japan,6351455299,Medium,,127488063.00682457
+490,SPCE,technology,Virgin Galactic Holdings,6350680774,Medium,StrongBuy,234342463.98523983
+491,CINSF,financial,China Taiping Insurance Holdings Co,6330144850,Medium,,
+492,USVR,services,US VR Globalcom,6316289600,Medium,,
+493,IDKOF,utilities,Idemitsu Kosan Co,6301943609,Medium,,
+494,LITE,industrialgoods,Lumentum Holdings,6295190000,Medium,StrongBuy,75500000.0
+495,QBCRF,technology,Quebecor,6290824709,Medium,StrongBuy,249933440.96146205
+496,PAA,industrialgoods,Plains All American,6286752980,Medium,StrongBuy,728476590.9617612
+497,HOG,consumergoods,Harley-Davidson,6282895101,Medium,ModerateBuy,153278728.98267868
+498,HULCF,financial,Hulic Co,6281487170,Medium,,
+499,POST,consumergoods,Post Holdings,6276640415,Medium,ModerateBuy,65848094.99580362
+500,GEAGY,industrialgoods,GEA Group Aktiengesellschaft,6273005437,Medium,,181458068.75903964
+501,ADPT,services,Adaptive Biotechnologies,6268279871,Medium,ModerateBuy,136772416.99759984
+502,JPNRF,industrialgoods,Japan Airlines Co,6267130500,Medium,ModerateBuy,
+503,CLZNF,basicmaterials,Clariant AG,6257696246,Medium,Hold,
+504,QTWO,technology,Q2 Holdings,6250447604,Medium,StrongBuy,53883169.0
+505,JCYCF,consumergoods,Jardine Cycle & Carriage,6248725236,Medium,ModerateBuy,395238787.85578746
+506,PLNT,services,Planet Fitness,6246780100,Medium,ModerateBuy,86520500.0
+507,OSAGY,industrialgoods,OSRAM Licht AG,6244469431,Medium,,303276805.7795046
+508,AGLXY,utilities,AGL Energy,6242798585,Medium,,609648299.3164062
+509,MLRYY,technology,Mailru Group,6239609734,Medium,ModerateBuy,218015713.9762404
+510,PPTDF,healthcare,Peptidream,6233009942,Medium,,129584406.27858627
+511,HNP,utilities,Huaneng Power International,6230180786,Medium,,392328764.8614609
+512,LHCG,healthcare,LHC Group,6218304338,Medium,StrongBuy,31592258.995071888
+513,NUVCF,technology,Nuvei Corp.,6217322363,Medium,StrongBuy,138162719.17777777
+514,VRT,financial,Vertiv Holdings,6184011235,Medium,StrongBuy,328412704.992034
+515,SBNY,financial,Signature Bank,6175472477,Medium,StrongBuy,53569330.994101316
+516,HLUYY,healthcare,H Lundbeck,6147192934,Medium,ModerateBuy,200495529.48467058
+517,WEGRY,industrialgoods,Weir Group,6142421150,Medium,,526794266.7238422
+518,CAHPF,basicmaterials,Evolution Mining,6133921531,Medium,Hold,1708613239.832869
+519,PAAS,basicmaterials,Pan American Silver,6128685299,Medium,StrongBuy,210174392.96982166
+520,ANGI,technology,ANGI Homeservices,6127514873,Medium,StrongBuy,499797297.9608483
+521,AVAL,financial,Grupo Aval Acciones y Valores SA Pfd,6127279713,Medium,,1114050856.909091
+522,ACH,basicmaterials,Aluminum Of China,6121353192,Medium,,680906917.9087875
+523,CPCAY,industrialgoods,Cathay Pacific Airways,6108902989,Medium,StrongBuy,1286084839.7894738
+524,BCVVF,financial,BOC Aviation,6107288000,Medium,,694010000.0
+525,AGLNF,utilities,AGL Energy,6105731151,Medium,,595681087.902439
+526,FUTU,technology,Futu Holdings,6100591649,Medium,,135328119.98669034
+527,MANH,technology,Manhattan Associates,6098534208,Medium,ModerateBuy,63526398.0
+528,TIMB,technology,TIM,6096159520,Medium,ModerateBuy,484206474.98014295
+529,CACI,technology,Caci International,6088323178,Medium,ModerateBuy,25218801.996520586
+530,WTCHF,technology,Wisetech Global,6085334554,Medium,,275603920.01811594
+531,FROG,technology,JFrog,6081673174,Medium,ModerateBuy,91193179.99700105
+532,IPOAF,basicmaterials,Industrias Penoles SAB de CV,6081378929,Medium,,397475746.99346405
+533,WRTBY,industrialgoods,Waertsilae Oyj Abp,6079957832,Medium,,3102019302.0408163
+534,MNSO,consumergoods,MINISO Group Holding,6079508020,Medium,ModerateBuy,303975401.0
+535,AKCPF,technology,Asustek Computer,6059958296,Medium,ModerateBuy,
+536,PAC,industrialgoods,Grupo Aeroportuario del Pacifico,6051507000,Medium,ModerateBuy,56100000.0
+537,CLGX,technology,Corelogic,6044959631,Medium,ModerateBuy,77778687.99536799
+538,JEF,financial,Jefferies,6033423309,Medium,ModerateBuy,254145884.96208933
+539,ICL,basicmaterials,ICL-Israel Chemicals,6031395902,Medium,Hold,1280551146.9214437
+540,SID,basicmaterials,Companhia Siderúrgica Nacional,6031100570,Medium,ModerateSell,1380114546.9107552
+541,KSANF,basicmaterials,Kansai Paint Co,6027964583,Medium,,198418847.3666886
+542,BTLCY,financial,The British Land Company,6023559620,Medium,Hold,926701480.0
+543,ARRY,technology,Array Technologies,6023347569,Medium,Hold,126994466.9829222
+544,PVH,consumergoods,PVH,6022999637,Medium,ModerateBuy,71093007.99102928
+545,PIKQF,basicmaterials,PT Indah Kiat Pulp & Paper Tbk,6018081235,Medium,,
+546,GGNPF,consumergoods,PT Gudang Garam Tbk,6012775000,Medium,,1945881877.0226538
+547,BKEAY,financial,Bank of East Asia,6011087791,Medium,Hold,2835418769.3396225
+548,SPKKY,technology,Spark New Zealand,6010216596,Medium,,366476621.7073171
+549,REXR,financial,Rexford Realty,6010010520,Medium,StrongBuy,123790123.99588054
+550,TDHOF,financial,T&D Holdings,6006885590,Medium,,
+551,UTHR,healthcare,United Therapeutics,6002582927,Medium,ModerateBuy,44440533.997186646
+552,TOL,consumergoods,Toll Brothers,6000001650,Medium,Hold,126183000.00000001
+553,WKCMF,basicmaterials,Wacker Chemie AG,5998616447,Medium,ModerateBuy,49677982.99792961
+554,DXC,technology,DXC Technology Company,5993950442,Medium,ModerateBuy,254412157.9796265
+555,FSR,financial,Fisker,5991547605,Medium,ModerateBuy,277258102.96159184
+556,KHOLY,utilities,Koç Holding Anonim Sirketi,5984719398,Medium,ModerateBuy,508904710.71428573
+557,PB,financial,Prosperity Bancshares,5976506090,Medium,ModerateBuy,92558557.99907078
+558,PHI,technology,PLDT,5973942178,Medium,ModerateBuy,216055774.97287524
+559,BC,consumergoods,Brunswick,5959522038,Medium,StrongBuy,78342605.99447878
+560,BPPPF,consumergoods,Bid,5956337084,Medium,ModerateBuy,334250116.94725025
+561,HLF,healthcare,Herbalife,5950672152,Medium,,121616025.99632128
+562,LEG,consumergoods,Leggett & Platt,5943473337,Medium,ModerateBuy,132518914.98327759
+563,BBIO,healthcare,BridgeBio Pharma,5940881429,Medium,StrongBuy,122568215.98927172
+564,FOLD,healthcare,Amicus,5930974003,Medium,StrongBuy,260587609.97363794
+565,KKKUF,services,Kakaku,5927107911,Medium,,208554113.68754396
+566,JMPLY,basicmaterials,Johnson Matthey,5925993626,Medium,,96766714.99020247
+567,SITE,industrialgoods,SiteOne Landscape Supply,5925182080,Medium,Hold,44230979.99402807
+568,KOD,healthcare,Kodiak Sciences,5923015693,Medium,ModerateBuy,44803446.99697428
+569,OISHY,utilities,Oil Search,5921874381,Medium,,421785924.5726496
+570,HTCMY,industrialgoods,Hitachi Construction Machinery Co,5919200986,Medium,ModerateBuy,105436426.54079089
+571,AZRGF,financial,Azrieli Group,5915612469,Medium,,
+572,SON,basicmaterials,Sonoco Products,5913534280,Medium,ModerateBuy,100416611.98845305
+573,CWEN,utilities,Clearway Energy,5911967226,Medium,ModerateBuy,201635989.97271487
+574,PFGC,consumergoods,Performance Food Group,5907196389,Medium,StrongBuy,133526138.99186257
+575,PII,consumergoods,Polaris,5902229748,Medium,StrongBuy,61700080.995191306
+576,GMED,healthcare,Globus Medical,5900827311,Medium,ModerateBuy,98676041.98996656
+577,OLLI,consumergoods,Ollie's Bargain Outlet Holding,5900819166,Medium,ModerateBuy,65375793.99512519
+578,CAKFF,healthcare,McKesson Europe AG,5879242529,Medium,,189959370.8885299
+579,BPMC,healthcare,Blueprint Medicines,5869568277,Medium,ModerateBuy,55730803.99734144
+580,WES,utilities,Western Midstream Partners,5868368379,Medium,Hold,416196338.9361702
+581,MSA,consumergoods,MSA Safety,5864419315,Medium,,38953300.0
+582,GTMEF,technology,Globe Telecom,5864368351,Medium,,141106071.96823868
+583,ARWR,healthcare,Arrowhead Pharmaceuticals,5859191082,Medium,StrongBuy,102756770.99263416
+584,CRPJF,utilities,China Resources Power Holdings Co,5859120792,Medium,Hold,
+585,JBL,technology,Jabil Circuit,5845923572,Medium,ModerateBuy,149550359.9897672
+586,BLD,industrialgoods,TopBuild,5844995812,Medium,StrongBuy,33024440.996666476
+587,LFUS,industrialgoods,Littelfuse,5842942995,Medium,ModerateBuy,24375048.99670435
+588,IBIDF,technology,IBIDEN CO,5840949919,Medium,,129167402.01238391
+589,SMGBF,consumergoods,San Miguel,5840546640,Medium,,2272586241.2451363
+590,NLSN,services,Nielsen Holdings,5836930412,Medium,ModerateBuy,356998801.9571865
+591,HTA,financial,Healthcare,5833734481,Medium,StrongBuy,218573790.9704009
+592,BLSFF,basicmaterials,Bluescope Steel,5828760516,Medium,,
+593,OISHF,utilities,Oil Search,5817981859,Medium,Hold,2077850663.9285715
+594,NVRO,healthcare,Nevro Crop,5817429604,Medium,StrongBuy,34428771.995028704
+595,EXEL,healthcare,Exelixis,5810869389,Medium,ModerateBuy,310243960.9717032
+596,AMWL,technology,American Well,5805764835,Medium,ModerateBuy,234956083.97409955
+597,VEDL,basicmaterials,Vedanta,5798826752,Medium,,929299158.9743589
+598,CPCAF,industrialgoods,Cathay Pacific Airways,5793480182,Medium,,6437200202.222222
+599,DVN,utilities,Devon Energy,5783609487,Medium,StrongBuy,382513854.9603175
+600,MAPGF,financial,Mapletree Logistics,5782086247,Medium,,
+601,SAUNF,utilities,AusNet Services,5779694956,Medium,Hold,4158053925.1798563
+602,BJ,consumergoods,Bj's Wholesale Club Holdings,5771530726,Medium,ModerateBuy,137942894.98087952
+603,FSV,financial,FirstService,5753874537,Medium,Hold,43570153.99818265
+604,CDK,services,CDK Global,5752376349,Medium,ModerateBuy,121691904.99259572
+605,OSK,industrialgoods,Oshkosh,5750443810,Medium,ModerateBuy,68189775.99905135
+606,BKEAF,financial,Bank of East Asia,5745678287,Medium,,2710225607.0754714
+607,CMSQF,technology,Computershare,5744141277,Medium,ModerateSell,540879592.9378531
+608,CNRAF,financial,Vicinity Centres,5735866951,Medium,ModerateBuy,4552275357.936508
+609,HAE,healthcare,Haemonetics,5727679214,Medium,StrongBuy,50777297.9964539
+610,TRGP,utilities,Targa Resources,5720749011,Medium,ModerateBuy,229013170.97678143
+611,NMMRF,financial,Nomura Real Estate Master,5718390315,Medium,,
+612,HTCMF,industrialgoods,Hitachi Construction Machinery Co,5716117236,Medium,,
+613,CHH,services,Choice Hotels,5708854961,Medium,Hold,55458081.99922285
+614,PE,utilities,Parsley Energy,5693401827,Medium,ModerateBuy,412864526.9760696
+615,NGCRF,services,NagaCorp,5686720533,Medium,,4341008040.458015
+616,FELTF,industrialgoods,Fuji Electric Co,5685151041,Medium,,
+617,REECF,industrialgoods,Reece,5684660792,Medium,,
+618,ORI,financial,Old Republic International,5682934423,Medium,ModerateBuy,304062836.97164255
+619,DEI,financial,Douglas Emmett,5676885059,Medium,Hold,175374885.9746679
+620,TNDM,healthcare,Tandem Diabetes Care,5672148340,Medium,StrongBuy,62194608.99122807
+621,TKGZY,financial,Turkiye Garanti Bankasi Anonim Sirketi 144A,5670000000,Medium,,4973684210.526317
+622,CLCMF,technology,Sinch AB,5668670763,Medium,,
+623,VNT,industrialgoods,Vontier,5667627883,Medium,StrongBuy,168378724.9851456
+624,HUN,basicmaterials,Huntsman,5661093624,Medium,StrongBuy,220791482.9953198
+625,KAJMF,industrialgoods,Kajima,5658872281,Medium,,424840261.3363363
+626,ACC,financial,American Campus,5648421014,Medium,Hold,137632090.98440546
+627,PFPT,technology,Proofpoint,5646752458,Medium,ModerateBuy,57708251.99795606
+628,LIOPF,consumergoods,Lion,5638791312,Medium,,
+629,VLPNY,basicmaterials,voestalpine AG,5623399404,Medium,Hold,874556672.4727839
+630,GNGBY,healthcare,Getinge AB,5618993100,Medium,,271711465.1837524
+631,TKR,industrialgoods,Timken Company,5614789567,Medium,StrongBuy,75356187.9881895
+632,PBCT,financial,People's United Financial,5612487323,Medium,ModerateBuy,424866564.9507948
+633,CPRI,consumergoods,Capri Holdings,5596546934,Medium,ModerateBuy,150647292.974428
+634,COLM,consumergoods,Columbia Sportswear,5596236634,Medium,ModerateBuy,66211980.99858022
+635,CCOEY,consumergoods,Capcom Co,5594845486,Medium,,215186364.84615386
+636,LSCC,technology,Lattice Semicon,5586475346,Medium,StrongBuy,136155869.99756277
+637,BTG,basicmaterials,B2Gold,5578644465,Medium,StrongBuy,1050592177.9661018
+638,NTNX,technology,Nutanix,5578233365,Medium,ModerateBuy,206066987.9940894
+639,SBS,utilities,Companhia De Saneamento,5577440531,Medium,,683509868.995098
+640,AN,consumergoods,AutoNation,5565370493,Medium,ModerateBuy,87865021.99242185
+641,IOVA,healthcare,Iovance Biotherapeutics,5565317451,Medium,StrongBuy,146687333.9746969
+642,WAL,financial,Western Alliance,5563753269,Medium,StrongBuy,100829163.9905763
+643,HALO,healthcare,Halozyme,5561430265,Medium,StrongBuy,135183039.98541564
+644,COTY,consumergoods,Coty,5560455024,Medium,Hold,765902895.8677686
+645,SASOF,basicmaterials,Sasol,5552348750,Medium,,633829765.9817352
+646,LNXSF,basicmaterials,LANXESS,5541273995,Medium,ModerateBuy,79937593.69590306
+647,OMF,financial,OneMain Holdings,5539597847,Medium,StrongBuy,134325844.98060134
+648,BWXT,utilities,BWX Technologies,5538438589,Medium,ModerateBuy,95309560.9877818
+649,YETI,industrialgoods,Yeti Holdings,5536691108,Medium,StrongBuy,87082275.99874175
+650,DIISY,financial,Direct Line Insurance Group,5534997000,Medium,,343788633.54037267
+651,GTMEY,technology,Globe Telecom,5528785043,Medium,,133031401.41963425
+652,ESLT,technology,Elbit Systems,5527443149,Medium,Hold,44198329.99360307
+653,CFR,financial,Cullen/Frost Bankers,5519889303,Medium,ModerateSell,62854580.995217495
+654,FAF,financial,First American Financial,5516381821,Medium,ModerateBuy,111645047.98623762
+655,GPAEF,industrialgoods,Grupo Aeroportuario del Pacifico SAB de CV,5515303200,Medium,,
+656,CWEN.A,utilities,Clearway Energy,5508695246,Medium,Hold,201635989.97071743
+657,HQY,financial,Healthequity,5498047156,Medium,ModerateBuy,76863513.99412833
+658,SAIC,technology,Science Applications,5491891617,Medium,StrongBuy,58164494.99046812
+659,TCF,financial,TCF Financial,5488017387,Medium,ModerateBuy,152487284.99583218
+660,MCHVY,services,MGM China,5487833321,Medium,,310925400.6232295
+661,RYKKF,consumergoods,Ryohin Keikaku Co,5483925300,Medium,,
+662,FR,financial,First Industrial Realty,5478185744,Medium,ModerateBuy,129050311.99057715
+663,TABCF,services,Tabcorp Holdings,5476334303,Medium,ModerateBuy,1862698742.5170069
+664,GULRF,financial,Guoco Group,5475408640,Medium,,439438895.6661316
+665,MCHVF,services,MGM China Holdings,5472000001,Medium,ModerateBuy,3722448980.272109
+666,MAT,consumergoods,Mattel,5467713175,Medium,ModerateBuy,348040303.9465309
+667,EGP,financial,Eastgroup Properties,5458856340,Medium,Hold,39556930.0
+668,LUNMF,basicmaterials,Lundin Mining,5458797675,Medium,StrongBuy,733709364.9193548
+669,TMXXF,financial,TMX Group,5450192398,Medium,ModerateBuy,56233928.9929839
+670,KLKBF,basicmaterials,Kuala Lumpur Kepong Bhd,5446317864,Medium,,
+671,ALLK,healthcare,Allakos,5446172080,Medium,ModerateBuy,52503345.994408555
+672,TSRYF,consumergoods,Treasury Wine Estates,5445432320,Medium,Hold,698132348.7179487
+673,FCNCA,financial,First Citizens BancShares,5438484698,Medium,,9816404.999819502
+674,SSL,basicmaterials,Sasol,5438259392,Medium,,633829765.967366
+675,WH,services,Wyndham Hotels & Resorts,5437227403,Medium,StrongBuy,93167021.98423578
+676,SKX,consumergoods,Skechers USA,5413979036,Medium,ModerateBuy,157154688.9985486
+677,CUCSF,industrialgoods,China Communications Services,5411505956,Medium,,
+678,ACDVF,industrialgoods,Air Canada,5411379285,Medium,StrongBuy,296351549.0142388
+679,INGR,basicmaterials,Ingredion,5408125950,Medium,Hold,66990287.99702712
+680,KNSL,financial,Kinsale Capital Group,5406443358,Medium,ModerateBuy,22677082.999874167
+681,GPOVY,consumergoods,Grupo Carso,5400256437,Medium,,1153900948.0769231
+682,DNPCF,services,Dai Nippon Printing Co,5398746431,Medium,,
+683,PHPYF,technology,Pushpay Holdings,5397277105,Medium,Hold,1101485123.4693878
+684,KGHPF,basicmaterials,KGHM Polska Miedz SA,5391866600,Medium,,
+685,CCOEF,consumergoods,Capcom Co,5390950144,Medium,,103255126.29764412
+686,BIGC,technology,BigCommerce Holdings,5387923639,Medium,Hold,67806740.98917694
+687,MITUY,basicmaterials,Mitsui Chemicals,5386461239,Medium,Hold,373800224.77446216
+688,VAC,services,Marriot Vacations,5386203016,Medium,StrongBuy,41062765.99832279
+689,ASAN,technology,Asana,5383770338,Medium,ModerateBuy,208511631.99070486
+690,BHVN,healthcare,Biohaven Pharmaceutical Holding Co,5371748056,Medium,StrongBuy,59939165.98973443
+691,GPTGF,financial,GPT Group,5366545265,Medium,Hold,1944400458.3333335
+692,PNADF,industrialgoods,Petronas Dagangan Bhd,5364651600,Medium,,
+693,TOSCF,basicmaterials,Tosoh,5361455448,Medium,,
+694,ITTOF,technology,Itochu Techno-Solutions,5359988800,Medium,Hold,
+695,HSHIF,industrialgoods,HOSHIZAKI,5359120552,Medium,,
+696,DCYHF,financial,Discovery,5352105000,Medium,Hold,
+697,DKS,consumergoods,Dick's Sporting Goods,5352080173,Medium,ModerateBuy,89112223.992674
+698,JEXYF,industrialgoods,Jiangsu Expressway Co,5340012350,Medium,,4643489000.0
+699,APA,utilities,Apache,5329991929,Medium,ModerateBuy,377478181.9405099
+700,FRPT,consumergoods,Freshpet,5328718111,Medium,ModerateBuy,40640009.99847468
+701,ORCC,financial,Owl Rock Capital,5326486390,Medium,StrongBuy,388227870.9912536
+702,ALTCY,services,Altice Europe,5325289706,Medium,,203799835.6678148
+703,LSI,financial,Life Storage,5322882312,Medium,StrongBuy,48597482.99096138
+704,AZEK,industrialgoods,AZEK Company,5322555286,Medium,ModerateBuy,154635539.9767577
+705,BSDGF,consumergoods,Bosideng International Holdings,5317608970,Medium,,12969777975.609756
+706,COR,financial,Coresite Realty,5316312938,Medium,Hold,42766574.997988895
+707,TX,basicmaterials,Ternium SA,5314048816,Medium,ModerateBuy,196307676.9855929
+708,IENVF,utilities,Infraestructura Energetica Nova SAB de CV,5313401715,Medium,,1471856430.7479224
+709,KT,technology,KT,5309850621,Medium,,490744050.0
+710,IVPAF,basicmaterials,Ivanhoe Mines,5308952979,Medium,StrongBuy,1203844212.92517
+711,JHG,financial,Janus Henderson Group,5307931747,Medium,Hold,181405732.9801777
+712,ANTOF,consumergoods,Iida Group Holdings Co,5306205616,Medium,,
+713,HKUOF,services,Hakuhodo Dy Holdings,5304060407,Medium,,
+714,STWD,financial,Starwood Property,5298036868,Medium,StrongBuy,284687633.96023643
+715,PRI,financial,Primerica,5295722599,Medium,ModerateBuy,39303269.99406264
+716,BLDP,industrialgoods,Ballard Power Systems,5290334920,Medium,ModerateBuy,260993335.96447954
+717,GIL,consumergoods,Gildan Activewear,5286872831,Medium,StrongBuy,198307307.98949736
+718,QRNNF,industrialgoods,Aurizon Holdings,5285107106,Medium,ModerateBuy,1631205896.9135802
+719,NOV,industrialgoods,National-Oilwell,5280391107,Medium,Hold,388264051.9852941
+720,KSS,consumergoods,Kohl's,5277575924,Medium,Hold,157775064.99252614
+721,AER,financial,Aercap Holdings,5272011186,Medium,StrongBuy,129756612.99532364
+722,HELE,consumergoods,Helen Of Troy,5270435896,Medium,ModerateBuy,25353260.996728882
+723,THO,consumergoods,Thor Industries,5267544168,Medium,StrongBuy,55366240.99222199
+724,CACC,financial,Credit Acceptance,5265515432,Medium,ModerateSell,17649377.998257022
+725,TXRH,services,Texas Roadhouse,5263301041,Medium,Hold,69482521.99339934
+726,TPX,consumergoods,Tempur Sealy,5262026592,Medium,StrongBuy,206353984.0
+727,TCHBF,healthcare,Tecan Group AG,5261918746,Medium,Hold,
+728,OROVF,industrialgoods,Orient Overseas (International),5250405761,Medium,Hold,689029627.4278215
+729,FLIR,technology,Flir Systems,5241845864,Medium,StrongBuy,131144504.97873406
+730,CHNG,technology,Change Healthcare,5239623394,Medium,StrongBuy,304452259.9651365
+731,WYGPF,industrialgoods,Worley,5230773530,Medium,ModerateBuy,523077353.0
+732,MAPIF,financial,Mapletree Industrial,5218547315,Medium,,2350696988.7387385
+733,BLHWF,industrialgoods,BELIMO Holding AG,5216689930,Medium,,
+734,MAN,services,ManpowerGroup,5213084882,Medium,ModerateBuy,57533217.98918442
+735,MPLN,financial,MultiPlan,5212209540,Medium,ModerateBuy,694961272.0
+736,GPOVF,consumergoods,Grupo Carso SAB de CV 1,5206984103,Medium,,173566136766.6667
+737,DCT,technology,"Duck Creek Technologies, Inc.",5201922068,Medium,ModerateBuy,130833050.0
+738,BRKS,technology,Brooks Automation,5197761606,Medium,ModerateBuy,73831840.99431817
+739,SEKEY,technology,Seiko Epson,5195887480,Medium,,691862513.9813582
+740,MZTFF,financial,Mizrahi Tefahot Bank,5194164036,Medium,,
+741,JIAXF,basicmaterials,Jiangxi Copper Company,5194094107,Medium,ModerateBuy,3417167175.6578946
+742,MDU,utilities,Mdu Resources Group,5191521751,Medium,Hold,200522276.97952878
+743,SEKEF,technology,Seiko Epson,5188968855,Medium,,345931257.0
+744,KCDMY,consumergoods,Kimberly-Clark de Mexico SAB de CV,5182518608,Medium,,619177850.4181602
+745,TYIBF,financial,Turkiye Is Bankasi Anonim Sirketi,5182403700,Medium,,
+746,TYOYY,technology,Taiyo Yuden,5176986540,Medium,,30299581.76284677
+747,FLGZY,industrialgoods,Flughafen Zurich,5172738027,Medium,,752945855.4585153
+748,SIELF,industrialgoods,Shanghai Electric Group Company,5167807917,Medium,,
+749,DNPUF,healthcare,Sumitomo Dainippon Pharma Co,5164837002,Medium,,397295154.0
+750,TONPF,services,Toppan Printing Co,5162697711,Medium,,
+751,LPL,technology,LG Display,5159702394,Medium,,715631400.0
+752,CTXAF,utilities,Ampol,5156448455,Medium,Hold,
+753,PGENY,consumergoods,Pigeon,5153052662,Medium,,460917053.84615386
+754,ESNT,financial,Essent Group,5146738857,Medium,StrongBuy,112423303.99737877
+755,RETA,healthcare,Reata Pharmaceuticals,5146238707,Medium,StrongBuy,33881352.998880774
+756,TSUKF,consumergoods,Toyo Suisan Kaisha,5137090913,Medium,ModerateBuy,
+757,GBXPY,consumergoods,Via Varejo,5132252866,Medium,,1470559560.4584527
+758,DPZUF,services,Domino's Pizza Enterprises,5130835544,Medium,,94490525.67219153
+759,EMLZF,consumergoods,Emmi AG,5129098238,Medium,ModerateBuy,
+760,APPF,technology,AppFolio,5128631287,Medium,Hold,34328187.99866131
+761,TNET,services,TriNet Group,5120133200,Medium,ModerateBuy,66633695.991671
+762,SHPMF,healthcare,Shanghai Pharmaceuticals Holding Co,5115760779,Medium,,2842089321.6666665
+763,TPTX,healthcare,Turning Point Therapeutics,5108688004,Medium,StrongBuy,48172446.99669967
+764,EJTTF,industrialgoods,EasyJet,5106460874,Medium,ModerateBuy,456749630.94812167
+765,FOUR,services,Shift4 Payments,5092805532,Medium,ModerateBuy,80037804.99764262
+766,PTKFY,healthcare,PT Kalbe Farma Tbk,5092745691,Medium,ModerateBuy,245079195.90952837
+767,AGPYF,financial,Agile Group Holdings,5092161750,Medium,,3611462234.0425534
+768,KBYPF,healthcare,Kobayashi Pharmaceutical Co,5080605595,Medium,,
+769,MDLA,technology,Medallia,5075822734,Medium,StrongBuy,147082663.98145467
+770,MRO,utilities,Marathon Oil,5075787473,Medium,Hold,789391519.9066874
+771,NEO,healthcare,NeoGenomics,5075165027,Medium,StrongBuy,111029643.9947495
+772,TFSL,financial,TFS Financial,5073516608,Medium,,280150005.96355605
+773,NPEXF,industrialgoods,NIPPON EXPRESS CO,5071805910,Medium,ModerateSell,
+774,CUZ,financial,Cousins Properties,5070501470,Medium,ModerateBuy,148564355.99179608
+775,CDEVF,financial,City Developments,5069578434,Medium,,860709411.5449916
+776,KMPR,financial,Kemper,5067844071,Medium,ModerateBuy,65408415.99122354
+777,HUYA,technology,Huya,5056543296,Medium,ModerateBuy,235297500.97719872
+778,SSB,financial,South State,5052330771,Medium,ModerateBuy,70949736.98918691
+779,SOMMF,basicmaterials,Sumitomo Chemical Co,5052151127,Medium,,
+780,HBI,consumergoods,Hanesbrands,5050699334,Medium,StrongBuy,348324092.0
+781,KCDMF,consumergoods,Kimberly-Clark de Mexico SAB de CV,5028276986,Medium,,2957809991.764706
+782,BLI,technology,Berkeley Lights,5019461010,Medium,ModerateBuy,64368568.99204924
+783,ENIC,utilities,Enel Chile SA,5007658741,Medium,,1383331143.922652
+784,LSTR,industrialgoods,Landstar System,5003709430,Medium,Hold,38383778.99662473
+785,CW,technology,Curtiss-Wright,5001409153,Medium,,41502025.9978425
+786,HWGG,technology,Ho Wah Genting Group,5000277740,Medium,,476216927.61904764
+787,WMS,industrialgoods,Advanced Drainage Systems,4996803276,Medium,ModerateBuy,70476773.99153738
+788,RHCGF,healthcare,Ryman Healthcare,4995000000,Medium,,500000000.0
+789,FATE,healthcare,Fate Therapeutics,4984251548,Medium,StrongBuy,87244031.99719937
+790,GAILF,utilities,GAIL (India),4983706761,Medium,,600446597.7108433
+791,SF,financial,Stifel Financial,4982646367,Medium,Hold,68669326.9983462
+792,BNCDY,financial,Banca Mediolanum,4976239560,Medium,,267396000.0
+793,BOKF,financial,Bok Financial,4975543801,Medium,Hold,70305832.99420659
+794,SLAB,technology,Silicon Laboratories,4969592287,Medium,ModerateBuy,43827429.99382661
+795,BCAUF,consumergoods,Brilliance China Automotive Holdings,4969589965,Medium,,5401728222.826087
+796,WEN,services,Wendy's,4968712953,Medium,ModerateBuy,224118761.97564274
+797,VRM,consumergoods,Vroom,4959590265,Medium,StrongBuy,130241340.99264707
+798,RBC,industrialgoods,Regal Beloit,4950188687,Medium,StrongBuy,40595281.99934394
+799,MDBPF,financial,Medibank Private,4944537417,Medium,Hold,
+800,HCXLF,financial,Hiscox,4938310326,Medium,Hold,346305071.94950914
+801,WSC,financial,WillScot Mobile Mini Holdings,4935574810,Medium,ModerateBuy,228076469.9630314
+802,SNV,financial,Synovus,4929339104,Medium,StrongBuy,147806269.9850075
+803,FFIN,financial,First Financial Bankshares,4910035210,Medium,ModerateSell,142113898.9869754
+804,NGKIF,industrialgoods,NGK Insulators,4906431938,Medium,,316543996.0
+805,INSP,healthcare,Inspire Medical Systems,4901662600,Medium,StrongBuy,26935171.99692274
+806,TAISF,healthcare,Taisho Pharmaceutical Holdings Co,4897051828,Medium,,
+807,DSGX,technology,Descartes,4894421705,Medium,ModerateBuy,84473967.9841215
+808,NATI,technology,National Instruments,4894149915,Medium,Hold,131245639.9839099
+809,MAQAF,industrialgoods,Atlas Arteria,4890992952,Medium,ModerateBuy,980158908.2164328
+810,BRX,financial,Brixmor Property,4888991659,Medium,ModerateSell,296482210.97634935
+811,AUY,basicmaterials,Yamana Gold,4886945730,Medium,ModerateBuy,952621000.0
+812,AIBRF,financial,AIB Group,4885920000,Medium,ModerateBuy,2714400000.0
+813,HINOF,industrialgoods,Hino Motors,4879253725,Medium,,
+814,TKGBF,financial,Turkiye Garanti Bankasi Anonim Sirketi,4872000000,Medium,,4469724770.642201
+815,PSTH,financial,Pershing Square Tontine Holdings,4870002435,Medium,,200000100.0
+816,PSTG,technology,Pure Storage,4862710120,Medium,ModerateBuy,268213464.97517928
+817,RLAY,healthcare,Relay Therapeutics,4861877393,Medium,ModerateBuy,89984774.99537294
+818,EVTCY,healthcare,Evotec AG,4859248193,Medium,,81190445.99832915
+819,GMYTF,financial,GMO Payment Gateway,4855073454,Medium,,
+820,QRTEB,consumergoods,Qurate Retail,4848113702,Medium,,417221488.98450947
+821,SKLTF,services,Seek,4842920394,Medium,ModerateBuy,
+822,QRTEA,consumergoods,Qurate Retail Group,4835597057,Medium,ModerateBuy,417221488.9559966
+823,EME,industrialgoods,Emcor Group,4834443602,Medium,Hold,54930616.9980684
+824,JOBS,technology,51Job,4833966513,Medium,,67400536.99107641
+825,NXST,services,Nexstar Media Group,4816322390,Medium,StrongBuy,44045014.99771377
+826,GTAT,technology,GT Advanced Technologies,4813892055,Medium,,209299654.5652174
+827,MITUF,basicmaterials,Mitsui Chemicals,4806275166,Medium,,
+828,RDFN,financial,Redfin,4793793475,Medium,ModerateBuy,102344010.99487616
+829,GZUHF,financial,Guangzhou R&F Properties Co,4789480401,Medium,,
+830,TPL,unknownsector,Texas Pacific Land,4785315567,Medium,,7756155.999481336
+831,EKTAY,healthcare,Elekta AB,4768397337,Medium,,382389521.8123496
+832,BLSFY,basicmaterials,BlueScope Steel,4759734603,Medium,,74815067.63596353
+833,TFII,industrialgoods,TFI International,4755884476,Medium,StrongBuy,93362474.99018453
+834,LWSOF,consumergoods,Lawson,4752992500,Medium,ModerateSell,
+835,THOGF,utilities,TOHO GAS Co,4752171900,Medium,,
+836,DOOO,consumergoods,BRP,4751836374,Medium,StrongBuy,87899303.99556048
+837,MSM,industrialgoods,MSC Industrial,4746667296,Medium,Hold,55607629.99062793
+838,PAG,consumergoods,Penske Automotive Group,4739004771,Medium,StrongBuy,80335730.9883031
+839,IPSBF,financial,Impulsora del Desarrollo y el Empleo en America Latina SAB,4728930904,Medium,,
+840,UNM,financial,Unum Group,4720886179,Medium,Hold,203662043.9603106
+841,LANC,consumergoods,Lancaster Colony,4717155310,Medium,ModerateBuy,27539000.0
+842,IDA,utilities,IdaCorp,4708598489,Medium,ModerateBuy,50461884.99624906
+843,TV,services,"Grupo Televisa, S.A.B.",4703771400,Medium,ModerateSell,564001366.9064748
+844,SRGHY,consumergoods,Shoprite Holdings,4703532332,Medium,ModerateBuy,548197241.4918414
+845,PPC,consumergoods,Pilgrim's Pride,4695702572,Medium,ModerateBuy,243553037.96680495
+846,TKAGY,technology,Telekom Austria,4695079818,Medium,,326047209.5833333
+847,NEP,utilities,Nextera Energy Partners,4691791751,Medium,ModerateBuy,73001271.99315389
+848,RHBAF,financial,RHB Bank Bhd,4691753376,Medium,,
+849,AIV,financial,Apartment Investment & Management,4689277330,Medium,Hold,148865946.98412699
+850,PTKFF,healthcare,PT Kalbe Farma Tbk,4687294711,Medium,,46872947110.0
+851,FLO,consumergoods,Flowers Foods,4687013626,Medium,Hold,211603323.97291198
+852,MAURF,consumergoods,Marui Group Co,4674180837,Medium,,
+853,JRFIF,financial,Japan Retail Investment,4673845375,Medium,Hold,
+854,SDC,healthcare,SmileDirectClub,4671315218,Medium,ModerateBuy,386059108.92561984
+855,TLGHY,services,Telenet Group Holding,4667514579,Medium,ModerateBuy,226468441.48471618
+856,ALSN,industrialgoods,Allison Transmission Holdings,4666824618,Medium,ModerateBuy,112670801.97971994
+857,LGTHF,industrialgoods,CIMIC Group,4653879475,Medium,ModerateBuy,
+858,INDOY,basicmaterials,Indorama Ventures,4651207167,Medium,,486527946.3389121
+859,NVST,healthcare,Envista Holdings,4648760887,Medium,Hold,159641513.97664836
+860,SVNWF,industrialgoods,Seven Group Holdings,4642412734,Medium,,
+861,XRX,technology,Xerox,4638239710,Medium,ModerateBuy,198384931.99315655
+862,SUOPY,technology,Sumco,4629443942,Medium,,128774518.55354658
+863,EKIVF,industrialgoods,Enka Insaat ve Sanayi AS,4616319692,Medium,,
+864,PCCWY,technology,PCCW,4614594029,Medium,,772963823.9530989
+865,RXN,industrialgoods,Rexnord,4613935007,Medium,ModerateBuy,120279848.98331596
+866,JFEEF,basicmaterials,JFE Holdings,4606699192,Medium,,490074382.12765956
+867,CBPO,healthcare,China Biologic,4606086400,Medium,,38788096.0
+868,NOMD,consumergoods,Nomad Foods,4603462718,Medium,StrongBuy,196729175.98290598
+869,ASH,basicmaterials,Ashland,4602757925,Medium,ModerateBuy,60578545.99894709
+870,ASR,industrialgoods,Grupo Aeroportuario del Sureste,4592100000,Medium,ModerateBuy,30000000.0
+871,FLS,industrialgoods,Flowserve,4585272806,Medium,Hold,130263431.98863636
+872,IART,healthcare,Integra Lifesciences,4584433302,Medium,ModerateBuy,84272670.99264707
+873,STAEF,industrialgoods,Stanley Electric Co,4581297525,Medium,,156465079.4057377
+874,TKGBY,financial,Turkiye Garanti Bankasi AS,4578000000,Medium,ModerateBuy,4015789473.684211
+875,ESGR,financial,Enstar Group,4574037879,Medium,,22983959.996985078
+876,CGKEF,utilities,Chugoku Electric Power Co,4571467745,Medium,,
+877,ASMVF,technology,ASM Pacific Technology,4571446100,Medium,,408895000.0
+878,ADZZF,financial,Advance Residence Investment,4570500000,Medium,,
+879,BOALY,basicmaterials,Boral,4568624524,Medium,ModerateBuy,298798203.0085023
+880,RLI,financial,RLI,4568143077,Medium,ModerateBuy,45055163.99053161
+881,PIFMF,consumergoods,PT Indofood Sukses Makmur Tbk,4565821780,Medium,Hold,9131643560.0
+882,BE,industrialgoods,Bloom Energy,4563807514,Medium,ModerateBuy,166198379.9708667
+883,BRTHF,technology,Brother Industries,4557457138,Medium,,
+884,SRHGF,consumergoods,Shoprite Holdings,4554301576,Medium,,529569950.69767445
+885,OJIPF,basicmaterials,Oji Holdings,4554062808,Medium,,
+886,ALGM,technology,Allegro MicroSystems,4546362384,Medium,StrongBuy,189431766.0
+887,AYI,industrialgoods,Acuity Brands,4546001843,Medium,ModerateBuy,37421812.99802437
+888,MMS,services,Maximus,4539497652,Medium,ModerateBuy,61452519.994585074
+889,TKECF,utilities,Tokyo Electric Power Company Holdings,4534258632,Medium,,1602211530.7420495
+890,STAG,financial,Stag Industrial,4521676393,Medium,ModerateBuy,149230243.99339932
+891,TEPCF,utilities,Tohoku Electric Power Company,4519115228,Medium,,499349748.9502762
+892,OMCL,technology,Omnicell,4517983538,Medium,ModerateBuy,42307177.99419421
+893,OCLDF,basicmaterials,Orica,4517431210,Medium,,354308330.1960784
+894,HLI,financial,Houlihan Lokey,4506720465,Medium,Hold,69334161.0
+895,SAIA,industrialgoods,Saia,4505147332,Medium,ModerateBuy,26156219.995355316
+896,CFX,industrialgoods,Colfax,4495449943,Medium,ModerateBuy,118457178.99868247
+897,DOYU,technology,DouYu International Holdings,4490042234,Medium,Hold,320946549.96426016
+898,ELEEF,financial,Element Financial,4487347541,Medium,StrongBuy,440367766.5358195
+899,JBFCF,services,Jollibee Foods,4486177993,Medium,,1107698269.8765433
+900,MRPRF,financial,MERLIN Properties SOCIMI SA,4485289978,Medium,ModerateBuy,456750506.9246436
+901,NYCB,financial,NY Community,4476669354,Medium,ModerateBuy,463903560.0
+902,IPPLF,industrialgoods,Inter Pipeline,4476556000,Medium,Hold,429200000.0
+903,MPCMF,financial,Mapletree Commercial,4475397174,Medium,,
+904,RIDE,financial,Lordstown Motors,4473414791,Medium,Hold,164948922.9719764
+905,GWWTF,financial,Growthpoint Properties,4473133145,Medium,,
+906,ROLL,industrialgoods,RBC Bearings,4470527994,Medium,,25101223.99775407
+907,CWLDF,services,Crown Resorts,4469244588,Medium,,1387964157.7639751
+908,CLF,basicmaterials,Cleveland-Cliffs,4463522060,Medium,ModerateBuy,399241686.940966
+909,CHOLF,industrialgoods,China Oilfield Services,4462392838,Medium,Hold,4747226423.404256
+910,ALLO,healthcare,Allogene Therapeutics,4462311635,Medium,StrongBuy,140280151.9962276
+911,PSGTF,basicmaterials,PT Semen Indonesia (Persero) Tbk,4459316736,Medium,,5308710400.0
+912,TWST,healthcare,Twist Bioscience,4450218330,Medium,ModerateBuy,44662969.9919711
+913,KWR,basicmaterials,Quaker Chemical,4444876949,Medium,,17831575.99791391
+914,HUSKF,utilities,Husky Energy,4442638081,Medium,Hold,1005121737.7828054
+915,RIOCF,financial,RioCan Real Estate Investment,4441865400,Medium,ModerateBuy,317730000.0
+916,GSHD,financial,GooseHead Insurance,4441520409,Medium,ModerateBuy,36966461.99750312
+917,AXS,financial,Axis Capital,4440351021,Medium,Hold,84321135.9855678
+918,MXCHF,basicmaterials,Orbia Advance SAB de CV,4436950612,Medium,,2016795732.7272725
+919,FIZZ,consumergoods,National Beverage,4432850087,Medium,Hold,46632127.99284662
+920,SMTC,technology,Semtech,4427117761,Medium,StrongBuy,65162168.98734178
+921,CRUS,technology,Cirrus Logic,4425620649,Medium,ModerateBuy,57964906.99410609
+922,SDGR,technology,Schrodinger,4419380895,Medium,StrongBuy,69487120.99056603
+923,HCM,healthcare,Hutchison China MediTech,4416890685,Medium,ModerateBuy,142205108.9826143
+924,SDGCF,consumergoods,Sundrug Co,4412981946,Medium,Hold,107555007.21423349
+925,KMERF,financial,Komercní banka as,4409785265,Medium,Hold,167037320.6439394
+926,VIRT,financial,Virtu Financial,4405486204,Medium,ModerateBuy,193477654.98462892
+927,CCMP,technology,CMC Materials,4404120078,Medium,ModerateBuy,29081616.99683043
+928,SLG,financial,SL Green Realty,4403520961,Medium,Hold,72569560.99208964
+929,CNCN,technology,Chun Can Capital Group,4400660220,Medium,,76201908.57142857
+930,SHLX,industrialgoods,Shell Midstream,4396977023,Medium,ModerateBuy,393289536.940966
+931,AL,financial,Air Lease,4395279138,Medium,StrongBuy,113778905.97980843
+932,BYD,services,Boyd Gaming,4394680058,Medium,StrongBuy,111540102.99492386
+933,TKC,technology,Turkcell Iletisim,4392409659,Medium,ModerateBuy,873242476.9383698
+934,AMKYF,industrialgoods,ABC-MART,4391084163,Medium,Hold,
+935,GPAGF,consumergoods,Gruma SAB de CV,4390772624,Medium,Hold,398798603.4514078
+936,BOALF,basicmaterials,Boral,4387840596,Medium,,1649564133.8345864
+937,NAV,industrialgoods,Navistar,4382346185,Medium,Hold,99576145.98954783
+938,NCTKF,industrialgoods,Nabtesco,4381451426,Medium,,
+939,DUFRY,consumergoods,Dufry AG,4367941514,Medium,Hold,791293752.536232
+940,MSP,technology,Datto Holding,4364100098,Medium,ModerateBuy,157548740.0
+941,BLDR,industrialgoods,Builders Firstsource,4360934985,Medium,StrongBuy,116821188.9900884
+942,OGS,utilities,ONE Gas,4360847822,Medium,ModerateBuy,53096892.998904176
+943,TKAMY,basicmaterials,thyssenkrupp AG,4357722187,Medium,,627010386.618705
+944,CMEIF,consumergoods,China MeiDong Auto Holdings,4354948899,Medium,,
+945,MEDP,services,Medpace Holdings,4353413821,Medium,ModerateBuy,35771682.999178305
+946,AAN,financial,Aaron's,4353374239,Medium,StrongBuy,67557017.98572315
+947,PNFP,financial,Pinnacle Financial Partners,4346897765,Medium,StrongBuy,75848852.99249694
+948,GTBIF,basicmaterials,Green Thumb Industries,4345700228,Medium,StrongBuy,213024520.98039216
+949,BHOOY,consumergoods,boohoo group,4345097404,Medium,,55928657.53636247
+950,WPX,utilities,WPX Energy,4342454127,Medium,ModerateBuy,561040584.8837209
+951,ARD,basicmaterials,Ardagh Group SA,4341933200,Medium,ModerateBuy,236360000.0
+952,FOVSF,consumergoods,Ford Otomotiv Sanayi AS,4341824870,Medium,,
+953,EVBG,technology,Everbridge,4340479690,Medium,StrongBuy,34955944.994765244
+954,BPOP,financial,Popular,4339806869,Medium,ModerateBuy,84251734.98349835
+955,HXL,technology,Hexcel,4339680654,Medium,Hold,83535720.0
+956,VTSYF,consumergoods,Vitasoy International Holdings,4336336477,Medium,ModerateBuy,1065438937.8378378
+957,PTCT,healthcare,PTC Therapeutics,4335016498,Medium,ModerateBuy,68235738.98945381
+958,HRENF,utilities,Huaneng Renewables,4332278198,Medium,,
+959,HSYDF,industrialgoods,Harmonic Drive Systems,4331842875,Medium,ModerateBuy,
+960,IRDM,technology,Iridium Communications,4330972947,Medium,StrongBuy,133301721.9759926
+961,CYBR,technology,CyberArk Software,4322033020,Medium,ModerateBuy,38731364.996863514
+962,ONEM,healthcare,1Life Healthcare,4321581258,Medium,ModerateBuy,133012657.98707294
+963,ASGN,services,ASGN,4312937000,Medium,ModerateBuy,52900000.0
+964,NPSKY,industrialgoods,NSK,4312362529,Medium,Hold,248981670.2655889
+965,JBLU,industrialgoods,JetBlue Airways,4310691327,Medium,Hold,272483648.988622
+966,JWN,consumergoods,Nordstrom,4307489174,Medium,Hold,157150279.97081357
+967,SAGE,healthcare,SAGE Therapeutics,4304093630,Medium,ModerateBuy,52044662.99879081
+968,EXPO,industrialgoods,Exponent,4301771523,Medium,,51629518.99903985
+969,MBGCF,basicmaterials,Mitsubishi Gas Chemical Company,4300037069,Medium,,
+970,ICTEF,industrialgoods,International Container Terminal Services,4285929317,Medium,,2040918722.3809524
+971,PBNNF,financial,PT Bank Negara Indonesia (Persero) Tbk,4284687654,Medium,Hold,
+972,ZHAOF,basicmaterials,Zhaojin Mining Industry Co,4284215097,Medium,,3427372077.6
+973,ENV,technology,Envestnet,4283613802,Medium,ModerateBuy,53949795.994962215
+974,PINC,healthcare,Premier,4282064114,Medium,ModerateBuy,122100487.9954377
+975,ARHCF,healthcare,Alfresa Holdings,4280040192,Medium,,
+976,AMLTF,financial,AMP,4278566055,Medium,Hold,3342629730.46875
+977,MTZ,industrialgoods,MasTec,4271725545,Medium,StrongBuy,73866946.99982709
+978,NXDCF,technology,Nextdc,4269816553,Medium,StrongBuy,
+979,THG,financial,Hanover Insurance,4265996680,Medium,Hold,36383766.99360341
+980,EBS,healthcare,Emergent Biosolutions,4261660766,Medium,ModerateBuy,52999138.9876881
+981,JBGS,financial,JBG Smith Properties,4261389463,Medium,,132464701.98943114
+982,VVV,basicmaterials,Valvoline,4255811578,Medium,ModerateBuy,185035286.0
+983,USSJF,services,USS Co,4254537650,Medium,,
+984,EQT,utilities,EQT,4244221935,Medium,StrongBuy,275598826.9480519
+985,ROOT,financial,Root,4241452940,Medium,ModerateBuy,249350554.96766606
+986,UGP,utilities,Ultrapar Participacoes SA,4221568428,Medium,ModerateBuy,1088033100.0
+987,FINMY,technology,Leonardo SpA,4220557971,Medium,Hold,1140691343.5135136
+988,PITPF,basicmaterials,PT Indocement Tunggal Prakarsa Tbk,4216850911,Medium,,
+989,CTOUF,financial,Charter Hall Group,4215283035,Medium,ModerateBuy,
+990,UZAPF,industrialgoods,Flughafen Zurich AG,4205257963,Medium,ModerateBuy,
+991,GPK,basicmaterials,Graphic Packaging,4199846656,Medium,ModerateBuy,270783149.9677627
+992,BMEXF,financial,Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero Santander Mexico,4199615646,Medium,,
+993,UPWK,technology,Upwork,4190785074,Medium,StrongBuy,122073552.98572677
+994,SLM,financial,SLM,4187654015,Medium,ModerateBuy,375237814.9641577
+995,ABCM,healthcare,Abcam,4186678243,Medium,,226551852.97619048
+996,CR,industrialgoods,Crane Company,4180873909,Medium,StrongBuy,58108045.99027102
+997,VVNT,financial,Vivint Smart Home,4175811156,Medium,ModerateBuy,198470111.97718632
+998,HR,financial,Healthcare Realty,4175497996,Medium,StrongBuy,136054023.98175302
+999,POWI,technology,Power Integrations,4168716209,Medium,ModerateBuy,59860944.98851235
+1000,HASI,financial,Hannon Armstrong,4166083363,Medium,StrongBuy,75376937.99529582
+1001,KWGPF,financial,KWG Group Holdings,4163246824,Medium,ModerateBuy,3178051010.6870227
+1002,BJWTF,services,Beijing Enterprises Water Group,4158796286,Medium,ModerateSell,9901895919.047619
+1003,CLH,services,Clean Harbors,4158388850,Medium,StrongBuy,55246297.99388867
+1004,MTG,financial,MGIC Investment,4157682494,Medium,StrongBuy,338573492.99674267
+1005,MSGS,services,Madison Square Garden Sports,4157549048,Medium,ModerateBuy,24111517.995708402
+1006,UOLGF,financial,UOL Group,4155803802,Medium,,
+1007,CRI,consumergoods,Carter's,4155249235,Medium,ModerateBuy,43647575.99789916
+1008,NOVT,technology,Novanta,4154227016,Medium,Hold,35160617.99407533
+1009,GBCI,financial,Glacier Bancorp,4144821084,Medium,Hold,95414850.0
+1010,TATYY,consumergoods,Tate & Lyle,4139669385,Medium,,118683181.90940367
+1011,ABZPF,utilities,Aboitiz Power,4139214922,Medium,,7136577451.724138
+1012,CNXCV,services,Concentrix,4136000000,Medium,,45701657.45856354
+1013,PFSI,financial,PennyMac Financial,4135115678,Medium,StrongBuy,72444212.99929923
+1014,YZCAY,basicmaterials,Yanzhou Coal,4131000000,Medium,ModerateBuy,486572438.16254413
+1015,CZZ,utilities,Cosan,4122022137,Medium,Hold,223415833.98373985
+1016,AMG,financial,Affiliated Managers,4118330546,Medium,Hold,45361058.99328119
+1017,VEMLF,technology,Venture,4116673393,Medium,,
+1018,CC,basicmaterials,Chemours Company,4112395825,Medium,ModerateBuy,164495833.0
+1019,HPP,financial,Hudson Pacific Properties,4109435099,Medium,ModerateBuy,152144949.98148832
+1020,SRC,financial,Spirit Realty Capital,4105329045,Medium,ModerateBuy,108779253.9745628
+1021,EQUEY,utilities,Equatorial Energia SA,4104696027,Medium,,1011008873.6453203
+1022,UPCHY,consumergoods,Uni-President China Holdings,4103367300,Medium,,43643557.75366943
+1023,NEU,basicmaterials,Newmarket,4101199997,Medium,,10921388.999254368
+1024,NPTVF,services,Nippon Television Holdings,4095189723,Medium,,
+1025,HE,utilities,Hawaiian Electric Industries,4089924905,Medium,ModerateSell,109181123.9989322
+1026,HFC,utilities,Hollyfrontier,4089315617,Medium,Hold,162017258.99366087
+1027,YOKEF,technology,Yokogawa Electric,4086752038,Medium,,226664006.54464778
+1028,HHC,financial,Howard Hughes,4082961026,Medium,ModerateBuy,54922800.99542642
+1029,SMEBF,industrialgoods,Sime Darby Bhd,4079481664,Medium,,7033589075.862069
+1030,FTI,industrialgoods,TechnipFMC,4071638590,Medium,StrongBuy,449408232.89183223
+1031,HIW,financial,Highwoods Properties,4065929000,Medium,ModerateBuy,103908228.980322
+1032,ATGFF,utilities,AltaGas,4061594558,Medium,StrongBuy,279531628.2174811
+1033,LAZ,financial,Lazard,4054233771,Medium,Hold,105031962.9792746
+1034,CROX,consumergoods,Crocs,4049162367,Medium,ModerateBuy,67497288.99816635
+1035,BKH,utilities,Black Hills,4049044034,Medium,StrongBuy,62746691.98822253
+1036,TIGO,technology,Millicom International Cellular SA,4047511149,Medium,,101213081.99549887
+1037,RNMBY,technology,Rheinmetall,4036899775,Medium,,217505375.80818966
+1038,NRZ,financial,New Residential Inv,4036879269,Medium,StrongBuy,415744517.9196704
+1039,YMDAF,consumergoods,Yamada Denki Co,4036174502,Medium,,839121518.0873182
+1040,SSD,industrialgoods,Simpson Manufacturing Co,4031249181,Medium,ModerateBuy,43421468.98965963
+1041,KBR,technology,KBR,4030665058,Medium,StrongBuy,142527052.97029704
+1042,NVT,technology,nVent Electric,4026700587,Medium,ModerateBuy,170118317.99746513
+1043,MRCY,technology,Mercury Systems,4023881795,Medium,StrongBuy,56003921.99025749
+1044,SFIX,consumergoods,Stitch Fix,4019677234,Medium,ModerateBuy,104271782.98313878
+1045,CCJ,basicmaterials,Cameco,4017838990,Medium,StrongBuy,395846205.91133004
+1046,GZPHF,healthcare,Guangzhou Baiyunshan Pharmaceutical Holdings Company,4015703644,Medium,,1580985686.6141732
+1047,TRNO,financial,Terreno Realty,4006632484,Medium,ModerateBuy,68372567.98634812
+1048,LOPE,services,Grand Canyon Education,4004404176,Medium,StrongBuy,46857057.99204306
+1049,FL,consumergoods,Foot Locker,4003405012,Medium,ModerateBuy,104391264.98044328
+1050,IMVT,financial,Immunovant,3999775333,Medium,StrongBuy,81811726.99938637
+1051,KZMYY,basicmaterials,KAZ Minerals,3997032707,Medium,,933886146.495327
+1052,FTDR,consumergoods,frontdoor,3991220028,Medium,ModerateBuy,85446800.0
+1053,WTS,industrialgoods,Watts Water Technologies,3989749459,Medium,ModerateBuy,33643219.993254066
+1054,NOVA,industrialgoods,Sunnova Energy International,3983079658,Medium,StrongBuy,93587397.9793233
+1055,JCOM,technology,J2 Global,3983066301,Medium,StrongBuy,44758582.99808968
+1056,VNET,technology,21Vianet Group,3982370443,Medium,StrongBuy,132922911.98264351
+1057,PK,financial,Park Hotels & Resorts,3981856100,Medium,Hold,235612786.98224854
+1058,MZDAY,consumergoods,Mazda Motor,3980127749,Medium,Hold,1243789921.5625
+1059,HOFJF,consumergoods,House Foods Group,3979649490,Medium,,
+1060,GWPH,healthcare,GW Pharma,3979099799,Medium,StrongBuy,31181723.99498472
+1061,HRSEF,technology,HIROSE ELECTRIC CO,3975754686,Medium,,
+1062,MYTEF,technology,Telekom Malaysia Bhd,3974401802,Medium,,
+1063,SPWR,industrialgoods,SunPower,3973224301,Medium,Hold,170159498.97216272
+1064,BXMT,financial,Blackstone Mortgage,3970730645,Medium,ModerateBuy,146197740.97938144
+1065,RGEDF,healthcare,Chemical Works of Gedeon Richter,3970126003,Medium,,
+1066,UBSI,financial,United Bankshares,3969430225,Medium,Hold,129762347.98953907
+1067,ISDAF,financial,Israel Discount Bank,3969297946,Medium,,1164016992.9618769
+1068,MZDAF,consumergoods,Mazda Motor,3967657967,Medium,,629786978.888889
+1069,KRYPF,financial,Kerry Properties,3961683340,Medium,,1489354639.0977442
+1070,PORBF,consumergoods,Pola Orbis Holdings,3956517965,Medium,ModerateSell,199020018.36016098
+1071,CMHHF,industrialgoods,China Merchants Port Holdings Co,3953975489,Medium,,
+1072,APYRF,financial,Allied Properties Real Estate Investment Trust,3953712221,Medium,StrongBuy,127251761.21660766
+1073,EXP,basicmaterials,Eagle Materials,3943013751,Medium,StrongBuy,41817941.99809099
+1074,CRSR,technology,Corsair Gaming,3934355289,Medium,StrongBuy,91924188.99532712
+1075,SAIL,technology,SailPoint Technologies Holdings,3930145602,Medium,StrongBuy,90912458.98681472
+1076,INSM,healthcare,Insmed,3930056136,Medium,StrongBuy,101867706.9984448
+1077,ENSG,healthcare,The Ensign Group,3929275122,Medium,StrongBuy,54241787.99006074
+1078,GOOS,consumergoods,Canada Goose Holdings,3921221594,Medium,ModerateBuy,110146673.98876405
+1079,NEOG,healthcare,Neogen,3916554971,Medium,,53041101.990790896
+1080,PNM,utilities,Pnm Resources,3911789474,Medium,Hold,79653623.98696803
+1081,SMNUF,technology,PT Sarana Menara Nusantara Tbk,3907830880,Medium,,48847886000.0
+1082,MEPDF,healthcare,Medipal Holdings,3905329414,Medium,,203190916.44120708
+1083,SZKBF,financial,Shizuoka Bank,3903499669,Medium,,
+1084,VLY,financial,Valley National Bancorp,3903464526,Medium,ModerateBuy,404085354.6583851
+1085,GTES,industrialgoods,Gates Industrial,3899493913,Medium,ModerateBuy,290790000.9694258
+1086,SSRM,basicmaterials,SSR Mining,3893693250,Medium,StrongBuy,219363000.0
+1087,BJINF,industrialgoods,Beijing Enterprises Holdings,3887124065,Medium,,
+1088,WFTBF,basicmaterials,West Fraser Timber Co,3886425601,Medium,StrongBuy,68676896.99593568
+1089,ICUI,healthcare,ICU Medical,3879830189,Medium,ModerateBuy,20981127.995890114
+1090,TGTX,healthcare,TG Therapeutics,3877645850,Medium,StrongBuy,131490194.98134962
+1091,CBCFF,consumergoods,CALBEE,3876583671,Medium,,133675299.0
+1092,FBASF,financial,Fibra Uno Administracion SA de CV,3874466823,Medium,ModerateBuy,3874466823.0
+1093,AWCMY,basicmaterials,Alumina,3873744690,Medium,,720026894.0520446
+1094,XEC,utilities,Cimarex Energy,3873586184,Medium,StrongBuy,101963310.97657278
+1095,ACIW,technology,ACI Worldwide,3873563790,Medium,StrongBuy,116743935.80470163
+1096,NFG,utilities,National Fuel Gas Company,3872404570,Medium,ModerateBuy,90965575.99248298
+1097,NGHC,financial,National General Holdings,3868368749,Medium,,113475175.97535934
+1098,GTLS,industrialgoods,Chart Industries,3865327138,Medium,StrongBuy,36060519.99253662
+1099,NGKSF,industrialgoods,NGK SPARK PLUG CO,3864993699,Medium,,203420721.0
+1100,ORA,utilities,Ormat Technologies,3860785404,Medium,ModerateBuy,51068590.00000001
+1101,LMND,financial,Lemonade,3860605888,Medium,Hold,56590528.99442979
+1102,SIGI,financial,Selective Insurance Group,3859338279,Medium,ModerateBuy,59834702.0
+1103,GEBHY,services,Genting Berhad,3858277247,Medium,,773201853.1062124
+1104,ACHC,healthcare,Acadia Healthcare,3852431299,Medium,ModerateBuy,88991251.998152
+1105,QTS,financial,QTS Realty,3850021364,Medium,StrongBuy,64435504.0
+1106,SWX,utilities,Southwest Gas,3841870435,Medium,Hold,56464879.997060545
+1107,RYN,financial,Rayonier,3841623526,Medium,ModerateBuy,136518248.96943852
+1108,PTXAF,technology,PT XL Axiata Tbk,3833828902,Medium,,
+1109,OZK,financial,Bank OZK,3831987691,Medium,ModerateBuy,129327967.97165036
+1110,POR,utilities,Portland GE,3828368618,Medium,ModerateBuy,89510605.98550385
+1111,AUOTY,technology,AU Optronics,3828177600,Medium,ModerateBuy,933701853.6585367
+1112,RPD,technology,Rapid7,3827268792,Medium,StrongBuy,51838937.9926859
+1113,RDN,financial,Radian Group,3825384662,Medium,StrongBuy,191556567.9519279
+1114,SPR,technology,Spirit AeroSystems,3825125582,Medium,ModerateBuy,105637270.97486882
+1115,SEB,consumergoods,Seaboard,3824000690,Medium,,1160778.999738946
+1116,LPX,basicmaterials,Louisiana-Pacific,3821960782,Medium,ModerateBuy,109323820.99542333
+1117,JSGCF,industrialgoods,LIXIL Group,3814853253,Medium,,
+1118,ALTR,technology,Altair Engineering,3813239818,Medium,Hold,73657326.9847402
+1119,ARNA,healthcare,Arena Pharma,3809743441,Medium,StrongBuy,58164022.0
+1120,WYND,services,Wyndham Destinations,3809666147,Medium,StrongBuy,85861305.9950417
+1121,BKPKF,financial,BANK POLSKA KASA OPIEKI SA,3805815493,Medium,,
+1122,BJCHF,industrialgoods,Beijing Capital International Airport Co,3800718550,Medium,Hold,4935998116.883117
+1123,ROSYY,technology,Rostelecom,3800303589,Medium,,505359519.81382984
+1124,VERX,technology,Vertex,3798717078,Medium,ModerateBuy,146104503.0
+1125,GWPRF,healthcare,GW Pharmaceuticals,3797934064,Medium,,374180695.96059114
+1126,VRNT,technology,Verint Systems,3791248028,Medium,StrongBuy,65400172.986027256
+1127,DAVA,technology,Endava,3788236833,Medium,ModerateBuy,60602092.9931211
+1128,AA,basicmaterials,Alcoa,3787385666,Medium,Hold,185929585.95974472
+1129,VRNS,technology,Varonis Systems,3786606231,Medium,StrongBuy,31726905.99916213
+1130,HLNE,financial,Hamilton Lane,3784417934,Medium,ModerateBuy,52751852.99693337
+1131,KYSEF,utilities,Kyushu Electric Power Company,3783917728,Medium,,
+1132,MGMB,services,MGM Holdings,3782604137,Medium,,
+1133,SNDR,industrialgoods,Schneider National,3779139970,Medium,ModerateBuy,177341152.97982168
+1134,OLMIF,consumergoods,Olam International,3770835870,Medium,,3195623618.644068
+1135,ODMUF,financial,Old Mutual Ltd.,3767200000,Medium,Hold,4709000000.0
+1136,KRNT,industrialgoods,Kornit Digital,3766218051,Medium,StrongBuy,45277927.99951911
+1137,HYPMY,consumergoods,Hypera SA,3762265005,Medium,ModerateBuy,636593063.4517766
+1138,SLGN,basicmaterials,Silgan Holdings,3759959836,Medium,ModerateBuy,110587054.0
+1139,LEGN,healthcare,Legend Biotech,3759665866,Medium,ModerateBuy,129242552.97353043
+1140,EVR,financial,Evercore Partners,3754782142,Medium,StrongBuy,40631772.98993616
+1141,AIMC,industrialgoods,Altra Industrial Motion,3754060416,Medium,StrongBuy,64714021.99620755
+1142,RAMP,technology,LiveRamp Holdings,3751964248,Medium,StrongBuy,66312552.98692118
+1143,HAIN,consumergoods,Hain Celestial,3750758059,Medium,ModerateBuy,100637457.98229139
+1144,MUSA,consumergoods,Murphy USA,3749325583,Medium,Hold,29177630.99610895
+1145,SCEXF,basicmaterials,Saracen Mineral Holdings,3743812782,Medium,ModerateBuy,1107636917.7514794
+1146,CNNE,financial,Cannae Holdings,3740491358,Medium,ModerateBuy,91656244.98897329
+1147,TRUP,financial,Trupanion,3738360611,Medium,ModerateBuy,39214943.994545266
+1148,ZHUZF,industrialgoods,Zhuzhou CRRC Times Electric Co,3738015705,Medium,,
+1149,CCXI,healthcare,ChemoCentryx,3737254356,Medium,StrongBuy,69208414.0
+1150,GEBHF,services,Genting Bhd,3735058816,Medium,,3735058816.0
+1151,SWCH,technology,Switch,3734475602,Medium,StrongBuy,240623427.96391752
+1152,LESL,consumergoods,Leslie's,3730258497,Medium,ModerateBuy,186606227.96398202
+1153,PRSP,technology,Perspecta,3727919245,Medium,Hold,160963697.97063902
+1154,CSSSF,services,Carsales,3727453335,Medium,Hold,
+1155,HYLN,financial,Hyliion Holdings,3722885243,Medium,Hold,153901828.9789169
+1156,AWI,industrialgoods,Armstrong Ind,3722531432,Medium,ModerateBuy,47859750.98997171
+1157,LPSN,technology,Liveperson,3722160378,Medium,StrongBuy,66885181.99460917
+1158,APNHY,healthcare,Aspen Pharmacare,3717057781,Medium,,449462851.3905683
+1159,LTCN,financial,Grayscale Litecoin Trust (LTC),3716540000,Medium,,8744800.0
+1160,FQVTF,consumergoods,Fevertree Drinks,3715644853,Medium,ModerateBuy,114857646.1514683
+1161,BDVSY,consumergoods,The Bidvest Group,3713663733,Medium,Hold,172889373.04469272
+1162,PSB,financial,PS Business Parks,3713152928,Medium,ModerateSell,27488546.9943737
+1163,KURRF,basicmaterials,Kuraray Co,3712313905,Medium,,
+1164,ADC,financial,Agree Realty,3712039996,Medium,StrongBuy,55370524.99999999
+1165,FOXF,consumergoods,Fox Factory Holding,3710988017,Medium,ModerateBuy,41715242.996852525
+1166,CRYYF,technology,China Railway Signal & Communication,3706436650,Medium,,17649698333.333336
+1167,MALRF,basicmaterials,Mineral Resources,3705940894,Medium,Hold,463242611.75
+1168,OZMLF,basicmaterials,OZ Minerals,3700546820,Medium,StrongBuy,315208417.37649065
+1169,DOC,financial,Physicians Realty,3700242693,Medium,ModerateBuy,208229751.99774903
+1170,FCN,services,FTI Consulting,3696336137,Medium,,35661708.991799325
+1171,SGMS,services,Scientific Games,3695442440,Medium,ModerateBuy,95169776.97656451
+1172,ETRN,industrialgoods,Equitrans Midstream,3693293800,Medium,Hold,432470000.00000006
+1173,ALFFF,basicmaterials,Alfa SAB de CV,3686858265,Medium,,4915811020.0
+1174,CHBAF,financial,Chiba Bank,3684347951,Medium,ModerateBuy,
+1175,GRA,basicmaterials,WR Grace,3680841470,Medium,StrongBuy,66190279.9856141
+1176,RHP,financial,Ryman,3677700026,Medium,StrongBuy,54981312.99147855
+1177,NCR,technology,NCR,3676228000,Medium,StrongBuy,128900000.0
+1178,TRIP,services,TripAdvisor,3669854248,Medium,ModerateBuy,134525448.97360703
+1179,WK,technology,Workiva,3668218185,Medium,ModerateBuy,48196270.98935751
+1180,SABR,technology,Sabre,3667628530,Medium,Hold,317268903.97923875
+1181,NGKSY,industrialgoods,NGK Spark Plug Co,3661572978,Medium,,399299125.1908397
+1182,CCOJF,consumergoods,Coca-Cola Bottlers Japan Holdings,3653732717,Medium,Hold,
+1183,BDVSF,consumergoods,Bidvest Group,3652522221,Medium,,339769508.9302326
+1184,OLN,basicmaterials,Olin,3649770619,Medium,ModerateBuy,157862050.9948097
+1185,UUICF,financial,United Urban Investment,3648454290,Medium,,
+1186,CNJG,services,Jufeel International Group,3643901300,Medium,,41407969.31818182
+1187,FGEN,healthcare,FibroGen,3642248934,Medium,ModerateBuy,91010717.9910045
+1188,PRLB,industrialgoods,Proto Labs,3639017190,Medium,ModerateBuy,26753544.993383326
+1189,TPDKY,financial,Topdanmark,3638825400,Medium,Hold,854184366.1971831
+1190,JAMF,technology,Jamf Holding,3636641248,Medium,StrongBuy,116596384.99519075
+1191,EXPI,financial,eXp World Holdings,3636110937,Medium,ModerateBuy,69952114.98653328
+1192,UNF,services,UniFirst,3633206049,Medium,ModerateBuy,18897357.999583896
+1193,BMBGF,industrialgoods,BBMG,3630442185,Medium,ModerateBuy,
+1194,TRSBF,healthcare,3SBio,3630092368,Medium,,
+1195,BAK,basicmaterials,Braskem SA,3624611915,Medium,ModerateBuy,397871779.9121844
+1196,MIMTF,industrialgoods,Mitsubishi Materials,3620473718,Medium,,
+1197,TENB,technology,Tenable Holdings,3620380675,Medium,StrongBuy,103115370.97692965
+1198,VIR,healthcare,Vir Biotechnology,3619110694,Medium,ModerateBuy,127388619.99296023
+1199,CIGI,financial,Colliers International Group,3618410073,Medium,StrongBuy,40048810.990592144
+1200,CLDR,technology,Cloudera,3616382001,Medium,Hold,312565427.91702676
+1201,WBS,financial,Webster Financial,3615262051,Medium,StrongBuy,90201148.97704591
+1202,AEIS,technology,Advanced Energy Industries,3612944296,Medium,StrongBuy,38272715.0
+1203,CVET,technology,Covetrus,3609931894,Medium,ModerateBuy,135762763.9714178
+1204,KURRY,basicmaterials,Kuraray Co,3606902501,Medium,,115494796.7018892
+1205,CPYYY,utilities,Centrica,3606635922,Medium,,1431204730.952381
+1206,WING,services,Wingstop,3605650493,Medium,ModerateBuy,29683464.995472133
+1207,HRB,services,H&R Block,3601414453,Medium,Hold,192898470.96946973
+1208,JBT,industrialgoods,John Bean Technologies,3600629729,Medium,,31729200.99577018
+1209,SBRA,financial,Sabra Healthcare REIT,3600552855,Medium,Hold,206928325.00000003
+1210,NJR,utilities,New Jersey Resources,3594504256,Medium,Hold,95930190.97945023
+1211,APLS,healthcare,Apellis Pharmaceuticals,3594474413,Medium,StrongBuy,75736923.99915719
+1212,APAM,financial,Artisan Partners,3589310568,Medium,ModerateBuy,78575100.0
+1213,EYE,consumergoods,National Vision Holdings,3587580345,Medium,StrongBuy,81020332.99457994
+1214,ALRM,technology,Alarm,3587145665,Medium,StrongBuy,49112070.98849945
+1215,UNPSF,consumergoods,Uni-President China Holdings,3585047220,Medium,,
+1216,QLYS,technology,Qualys,3584844381,Medium,ModerateBuy,39016590.9991293
+1217,DCP,industrialgoods,Dcp Midstream Partners,3581562766,Medium,Hold,208351527.98138452
+1218,YZCHF,basicmaterials,Yanzhou Coal Mining Co,3573558000,Medium,,4204185882.3529415
+1219,AY,utilities,Atlantica Yield,3568250369,Medium,Hold,101601661.98747154
+1220,OVV,utilities,Ovintiv,3567888481,Medium,Hold,259860777.93153676
+1221,NEWR,technology,New Relic,3567677265,Medium,Hold,60975512.989232615
+1222,ELP,utilities,Companhia Paranaense de Energia Pfd,3560264560,Medium,Hold,273656000.0
+1223,BKRIY,financial,Bank of Ireland Group,3559040000,Medium,Hold,1062400000.0
+1224,ADS,technology,Alliance Data Systems,3558613432,Medium,StrongBuy,47721783.98819901
+1225,RELOF,financial,Relo Group,3558481308,Medium,,
+1226,BESIY,technology,BE Semiconductor Industries,3548793734,Medium,,70134263.51778656
+1227,VICR,technology,Vicor,3548571484,Medium,ModerateBuy,43275262.0
+1228,EBRPY,basicmaterials,Ebro Foods,3546597285,Medium,ModerateBuy,161282277.62619373
+1229,FEYE,technology,FireEye,3546124535,Medium,ModerateBuy,234532045.96560848
+1230,ENS,industrialgoods,EnerSys,3543281657,Medium,ModerateBuy,42577284.99158856
+1231,GOCO,financial,GoHealth,3542616172,Medium,StrongBuy,321180069.99093384
+1232,NLLSF,industrialgoods,NEL ASA,3539613882,Medium,ModerateBuy,1404608683.3333333
+1233,CBD,consumergoods,Companhia Brasileira De Distribuicao,3539085092,Medium,,268112506.969697
+1234,CPA,industrialgoods,Copa Holdings,3535865439,Medium,Hold,42355838.99137518
+1235,SAFE,financial,Safehold,3535504290,Medium,ModerateBuy,53085650.00000001
+1236,SPSC,technology,SPS Commerce,3523821633,Medium,StrongBuy,35308833.997995995
+1237,ALMFF,technology,Altium,3522979347,Medium,,135603516.0508083
+1238,KBH,consumergoods,KB Home,3520441871,Medium,ModerateBuy,97844409.97776544
+1239,CBU,financial,Community Bank System,3520364736,Medium,Hold,53541668.98859315
+1240,DLGNF,technology,Dialog Semiconductor,3519890988,Medium,ModerateBuy,72545156.38911788
+1241,CSIOF,consumergoods,Casio Computer Co,3519660432,Medium,,
+1242,DCPH,healthcare,Deciphera Pharmaceuticals,3518485603,Medium,ModerateBuy,56933423.99676376
+1243,BYDGF,unknownsector,Boyd Group Services,3518314538,Medium,StrongBuy,21472777.16203845
+1244,MOR,healthcare,Morphosys Ag,3516203719,Medium,ModerateBuy,130957307.97020483
+1245,MAKSY,consumergoods,Marks & Spencer,3516096661,Medium,Hold,971297420.1657459
+1246,GO,consumergoods,Grocery Outlet Holding,3508066818,Medium,StrongBuy,94151014.97584541
+1247,HGMCF,basicmaterials,Harmony Gold Mining Co,3507434259,Medium,,
+1248,VMI,industrialgoods,Valmont,3507138706,Medium,ModerateBuy,21252809.998788025
+1249,BAND,services,Bandwidth,3506861449,Medium,ModerateBuy,24222001.99613206
+1250,SULZF,industrialgoods,Sulzer AG,3500031979,Medium,ModerateBuy,33980893.0
+1251,ROYMF,industrialgoods,Royal Mail,3500000000,Medium,Hold,862068965.5172415
+1252,NMEHF,financial,Nomura Real Estate Holdings,3496291260,Medium,,
+1253,LVZPF,healthcare,Livzon Pharmaceutical Group,3492228623,Medium,,
+1254,MCOIF,services,Multichoice Group,3491858000,Medium,,395902267.57369614
+1255,ASRMF,industrialgoods,Grupo Aeroportuario del Sureste SA de CV,3487560000,Medium,,
+1256,WNS,services,WNS,3484845562,Medium,StrongBuy,49990611.99254053
+1257,MINOF,services,Minor International Public Co,3472164174,Medium,,4286622437.037037
+1258,SPASF,industrialgoods,SATS,3471049292,Medium,ModerateBuy,1119693320.0
+1259,SHALY,services,Shangri-La Asia,3470788200,Medium,,179368899.2248062
+1260,CWK,financial,Cushman & Wakefield,3470718862,Medium,StrongBuy,221629556.9604087
+1261,APNHF,healthcare,Aspen Pharmacare Holdings,3466520799,Medium,,417653108.313253
+1262,IIPR,financial,Innovative Industrial Properties,3465419607,Medium,StrongBuy,22174427.994625032
+1263,CNS,financial,Cohen & Steers,3464942919,Medium,ModerateBuy,47785724.9896566
+1264,GOFPY,services,Greek Organization of Football Prognostics SA,3462063696,Medium,,677507572.6027397
+1265,CGEAF,services,Cogeco Communications,3460045220,Medium,ModerateBuy,47923063.98891967
+1266,SLQT,financial,SelectQuote,3459176344,Medium,ModerateBuy,162631703.99623883
+1267,INREF,consumergoods,InRetail Peru,3456160138,Medium,,
+1268,AMKR,technology,Amkor,3456069854,Medium,ModerateBuy,242361139.83169705
+1269,APPS,technology,Digital Turbine,3455639132,Medium,StrongBuy,88697102.97741273
+1270,BCO,services,Brink's Company,3455373340,Medium,,49433094.99284692
+1271,MTH,consumergoods,Meritage,3452793258,Medium,ModerateBuy,37612126.99346405
+1272,WDFC,basicmaterials,WD-40 Company,3449005111,Medium,ModerateBuy,13664837.999207607
+1273,CIT,financial,CIT Group,3447441430,Medium,Hold,98526476.99342668
+1274,MGHTF,utilities,Mercury NZ,3446621360,Medium,,
+1275,BMCLF,consumergoods,BAIC Motor,3446595340,Medium,,8015338000.0
+1276,ESI,basicmaterials,Element Solutions,3446151757,Medium,ModerateBuy,247213181.99426112
+1277,SGLJF,consumergoods,Strauss,3444244353,Medium,,
+1278,AAON,industrialgoods,Aaon,3441186797,Medium,,52242094.99013207
+1279,CBRL,services,Cracker Barrel,3435648327,Medium,ModerateBuy,23697394.99931025
+1280,THC,healthcare,Tenet Healthcare,3435635017,Medium,ModerateBuy,105517045.97665846
+1281,HTSUF,healthcare,Hisamitsu Pharmaceutical Co,3433953749,Medium,,
+1282,SOGO,technology,Sogou,3430179606,Medium,,387590915.9322034
+1283,EIDX,healthcare,Eidos Therapeutics,3429811141,Medium,Hold,38663184.99605456
+1284,SR,utilities,Spire,3427443500,Medium,ModerateBuy,51618124.99999999
+1285,UMBF,financial,UMB Financial,3424120009,Medium,ModerateBuy,48030859.99438911
+1286,NWSZF,industrialgoods,NWS Holdings,3422245617,Medium,ModerateBuy,
+1287,RXT,technology,Rackspace Technology,3421015969,Medium,StrongBuy,200293675.00000003
+1288,HUABF,technology,Huabao International Holdings,3418620563,Medium,,2407479269.71831
+1289,UNEGF,utilities,United Energy Group,3416900553,Medium,,18982780850.0
+1290,TSSLF,technology,Telesites SAB de CV,3415500000,Medium,,3284134615.3846154
+1291,TREE,financial,Lendingtree,3414243824,Medium,StrongBuy,13127162.99742397
+1292,M,consumergoods,Macy's,3412701534,Medium,ModerateSell,310245594.0
+1293,DIOD,technology,Diodes,3411350674,Medium,ModerateBuy,52041962.99008391
+1294,ANSLF,industrialgoods,Ansell,3407259862,Medium,Hold,
+1295,AMDWF,industrialgoods,AMADA HOLDINGS CO,3407122919,Medium,ModerateBuy,347665603.9795918
+1296,CCOHF,industrialgoods,China State Construction International Holdings,3406413546,Medium,,5161232645.454545
+1297,AVNT,basicmaterials,Avient,3402892171,Medium,StrongBuy,91475595.99462365
+1298,PUTKF,consumergoods,PT United Tractors Tbk,3402603160,Medium,,
+1299,NSP,services,Insperity,3399328048,Medium,ModerateBuy,38354146.99311746
+1300,SHAK,services,Shake Shack,3398380905,Medium,Hold,41611128.994734906
+1301,TMHC,consumergoods,Taylor Morrison,3398011908,Medium,ModerateBuy,129943093.99617592
+1302,KPDCF,financial,Keppel DC REIT,3396890860,Medium,,
+1303,KTWIF,industrialgoods,Kurita Water Industries,3395833973,Medium,,93963308.60542335
+1304,BRFS,consumergoods,BRF SA,3392370080,Medium,,807707161.9047619
+1305,ELPQF,consumergoods,El Puerto de Liverpool SAB de CV,3391997983,Medium,,
+1306,STN,industrialgoods,Stantec,3391160852,Medium,ModerateBuy,112104490.97520661
+1307,SGAMY,technology,Sega Sammy Holdings,3385304956,Medium,,940362487.7777778
+1308,WTFC,financial,Wintrust Financial,3383227799,Medium,ModerateBuy,57635907.98977853
+1309,THYCF,basicmaterials,Taiheiyo Cement,3382508777,Medium,,118601289.51612903
+1310,CDLX,technology,Cardlytics,3381416804,Medium,ModerateBuy,27464398.9928525
+1311,AKAAF,financial,Aker ASA,3379410625,Medium,ModerateBuy,
+1312,AM,industrialgoods,Antero Midstream,3379370524,Medium,Hold,476639001.9746121
+1313,CHFFF,utilities,China Everbright,3378636410,Medium,Hold,6142975290.90909
+1314,IFS,financial,Intercorp Financial Services,3369903913,Medium,ModerateBuy,115447204.9674546
+1315,BHF,financial,Brighthouse Financial,3366257625,Medium,ModerateSell,89504323.98298325
+1316,KYYHF,industrialgoods,Kyushu Railway Company,3365414010,Medium,,
+1317,ICPVF,basicmaterials,Incitec Pivot,3360049300,Medium,,1942225028.901734
+1318,WKHS,industrialgoods,Workhorse Group,3356737022,Medium,ModerateBuy,120529156.983842
+1319,HAIIF,industrialgoods,Haitian International Holdings,3351600000,Medium,,
+1320,DAO,technology,Youdao,3350797324,Medium,ModerateBuy,111767755.9706471
+1321,ITJTY,services,Intrum AB,3348124428,Medium,,122328258.23894775
+1322,VDAHF,consumergoods,Vinda International Holdings,3345222200,Medium,,
+1323,CMSYF,industrialgoods,COMSYS Holdings,3345153524,Medium,,
+1324,NARI,healthcare,Inari Medical,3343997861,Medium,StrongBuy,48710820.990531676
+1325,SEM,healthcare,Select Medical,3342119672,Medium,ModerateBuy,134762890.0
+1326,AWTRF,basicmaterials,Air Water,3341052923,Medium,,
+1327,AITUF,technology,Anritsu,3339969535,Medium,,
+1328,SZIHF,industrialgoods,Shenzhen International Holdings,3335225929,Medium,,
+1329,PPRQF,financial,Choice Properties Real Estate Investment,3335164598,Medium,Hold,326976921.37254906
+1330,VZHGF,financial,VZ Holding AG,3334540198,Medium,ModerateSell,38513977.8008778
+1331,SWAV,healthcare,Shockwave Medical,3327995417,Medium,ModerateBuy,34259783.99217624
+1332,BCPC,basicmaterials,Balchem,3327958891,Medium,ModerateBuy,32351111.995722756
+1333,WCC,industrialgoods,Wesco International,3324845425,Medium,StrongBuy,50042826.98675497
+1334,VC,industrialgoods,Visteon,3318783906,Medium,ModerateBuy,27832806.994297218
+1335,MNTHF,industrialgoods,Minth Group,3317359815,Medium,ModerateBuy,
+1336,DRTGF,industrialgoods,Dart Group,3307466593,Medium,ModerateBuy,178781978.0
+1337,UFPI,basicmaterials,UFP Industries,3307137675,Medium,ModerateBuy,61186635.98519889
+1338,TEMPF,services,PERSOL HOLDINGS CO,3306309200,Medium,,
+1339,STMP,services,Stamps,3305621955,Medium,ModerateBuy,18235901.997021016
+1340,LPRO,financial,Open Lending,3305274399,Medium,StrongBuy,115649908.99230231
+1341,PSN,technology,Parsons,3303849503,Medium,ModerateBuy,100727118.99390244
+1342,TCNNF,basicmaterials,Trulieve Cannabis,3295569240,Medium,StrongBuy,117783032.16583274
+1343,PBSFY,services,ProSiebenSat.1 Media SE,3292610339,Medium,,889894686.2162162
+1344,BMCH,industrialgoods,BMC Stock Holdings,3290857016,Medium,ModerateBuy,67283929.9938663
+1345,WSTTF,industrialgoods,Westports Holdings Bhd,3290650000,Medium,,
+1346,BB,technology,BlackBerry,3288993951,Medium,Hold,556513358.8832487
+1347,STL,financial,Sterling Bancorp,3288581182,Medium,StrongBuy,194360589.95271865
+1348,WBRBY,industrialgoods,Wienerberger,3283032900,Medium,,566040155.1724138
+1349,HNLGF,financial,Hang Lung Group,3282420000,Medium,,1292291338.5826771
+1350,NG,basicmaterials,Novagold Resources New,3279330041,Medium,,329912478.9738431
+1351,R,financial,Ryder System,3270530874,Medium,ModerateBuy,53889122.98566486
+1352,JSCPF,basicmaterials,JSR,3268288141,Medium,ModerateBuy,
+1353,SWTX,healthcare,Springworks Therapeutics,3267399385,Medium,ModerateBuy,48767155.0
+1354,WWE,services,World Wrestling,3265013088,Medium,ModerateBuy,77793973.9814153
+1355,ITRI,technology,Itron,3257202772,Medium,StrongBuy,40396908.99169044
+1356,YUEIF,consumergoods,Yue Yuen Industrial (Holdings),3256611651,Medium,,2171074434.0
+1357,UMPQ,financial,Umpqua Holdings,3254931160,Medium,Hold,220225382.94993234
+1358,SSAAY,basicmaterials,SSAB,3254279630,Medium,Hold,1996490570.5521474
+1359,ADV,financial,Advantage Solutions,3243950633,Medium,ModerateBuy,313425181.93236715
+1360,CRNC,technology,Cerence,3241537919,Medium,StrongBuy,37426831.99399608
+1361,HOMB,financial,Home Bancshares,3238935439,Medium,ModerateBuy,165167538.95971444
+1362,WSOUF,basicmaterials,Washington H Soul Pattinson and Co,3231836820,Medium,,
+1363,STWRY,technology,Software AG,3222563964,Medium,,301174202.2429907
+1364,BRLPF,financial,BR Malls Participacoes SA,3222517929,Medium,,
+1365,STAA,healthcare,Staar Surgical Company,3221689280,Medium,ModerateBuy,46109764.99212824
+1366,TGNA,services,TEGNA,3220658442,Medium,ModerateBuy,219241554.93533015
+1367,PTNDF,basicmaterials,PT Vale Indonesia Tbk,3219373745,Medium,,10060542953.125
+1368,MDC,consumergoods,M.D.C. Holdings,3213521732,Medium,ModerateBuy,64867212.99959629
+1369,EQC,financial,Equity Commonwealth,3209462309,Medium,,121524509.99621356
+1370,HYSNF,financial,Hysan Development Co,3207685188,Medium,,
+1371,VG,technology,Vonage Holdings,3205976138,Medium,StrongBuy,248332775.9876065
+1372,KBDCF,basicmaterials,Kingboard Holdings,3203507434,Medium,,
+1373,MANT,technology,ManTech,3203072546,Medium,,40356211.99445634
+1374,LCII,industrialgoods,LCI Industries,3201121328,Medium,ModerateBuy,25154182.9954424
+1375,SNCAF,industrialgoods,SNC-Lavalin Group,3195082800,Medium,StrongBuy,175554000.0
+1376,ARNC,basicmaterials,Arconic,3192497538,Medium,StrongBuy,109145214.97435898
+1377,AGI,basicmaterials,Alamos Gold,3188705080,Medium,ModerateBuy,392697669.95073897
+1378,RINIF,industrialgoods,Rinnai,3186713138,Medium,,
+1379,MEOH,basicmaterials,Methanex,3178900457,Medium,ModerateBuy,76196079.98561841
+1380,VIAV,technology,Viavi Solutions,3178433111,Medium,StrongBuy,228993739.98559076
+1381,BOH,financial,Bank Of Hawaii,3176828973,Medium,Hold,40060894.993694834
+1382,TTEC,services,TTEC Holdings,3170983184,Medium,ModerateBuy,46735197.99557848
+1383,FORM,technology,Formfactor,3170586237,Medium,StrongBuy,77387996.99780327
+1384,INCPY,consumergoods,Inchcape,3169791607,Medium,,386559952.0731708
+1385,X,basicmaterials,United States Steel,3169412626,Medium,Hold,220404215.9944367
+1386,CCOZF,basicmaterials,China Coal Energy Co,3168820552,Medium,Hold,10926967420.689655
+1387,MFGHF,industrialgoods,Mainfreight,3166969334,Medium,,
+1388,AGIO,healthcare,Agios Pharma,3162403244,Medium,StrongBuy,69259816.99518178
+1389,KEX,industrialgoods,Kirby,3161053350,Medium,ModerateBuy,60039000.0
+1390,AQUA,services,Evoqua Water Technologies,3156797596,Medium,ModerateBuy,118276417.98426376
+1391,FELE,industrialgoods,Franklin Electric Co,3151457859,Medium,ModerateBuy,46202284.98753849
+1392,MTPOF,financial,Metropolitan Bank & Co,3147331899,Medium,,
+1393,HLFBF,financial,Hong Leong Financial Group Bhd,3144446222,Medium,,
+1394,THKLF,industrialgoods,THK Co,3138872561,Medium,,
+1395,NWE,utilities,Northwestern,3137599785,Medium,ModerateBuy,50581972.99693696
+1396,APPEF,technology,Appen,3132642077,Medium,StrongBuy,
+1397,SURVF,financial,Suntec Real Estate Investment,3126121630,Medium,ModerateBuy,2816325792.7927923
+1398,AMN,services,AMN Healthcare Services,3124728478,Medium,StrongBuy,47030831.998795904
+1399,CNO,financial,CNO Financial,3124382912,Medium,ModerateBuy,138985004.9822064
+1400,MOMO,technology,Momo,3123364183,Medium,ModerateBuy,209060520.95046854
+1401,TRTN,financial,Triton International,3120938161,Medium,ModerateBuy,68607125.98373269
+1402,TINLF,basicmaterials,Teijin,3119031873,Medium,,
+1403,AIT,industrialgoods,Applied Tech,3115528317,Medium,ModerateBuy,38759993.99104255
+1404,BIPC,utilities,Brookfield Infrastructure,3114697762,Medium,,44971090.990470685
+1405,LAUR,services,Laureate Education,3106972615,Medium,Hold,210072522.98850575
+1406,RAZFF,technology,Razer,3106673861,Medium,,8876211031.428572
+1407,MDEVF,services,Melco International,3105062747,Medium,ModerateBuy,1552531373.5
+1408,GLAPF,consumergoods,Glanbia,3102605908,Medium,StrongBuy,
+1409,WTM,financial,White Mountains Insurance Group,3095589837,Medium,,3102010.9997695233
+1410,UNVR,industrialgoods,Univar,3094536716,Medium,Hold,169100366.9945355
+1411,DNERF,industrialgoods,Downer EDI,3092453062,Medium,,
+1412,FCREY,basicmaterials,Fletcher Building,3090961560,Medium,ModerateBuy,375572486.02673143
+1413,SXT,industrialgoods,Sensient Technologies,3089943441,Medium,,42357003.98903358
+1414,PXBBF,financial,PT Bank Permata Tbk,3084701312,Medium,,
+1415,TFAOF,technology,O2 Czech Republic as,3084042017,Medium,,
+1416,CPBLF,consumergoods,ALS,3083665515,Medium,Hold,416149192.3076923
+1417,AEO,consumergoods,American Eagle,3071447545,Medium,ModerateBuy,166113982.96376422
+1418,LIMAF,industrialgoods,Linamar,3071253056,Medium,StrongBuy,64958820.98138747
+1419,PCH,financial,PotlatchDeltic,3067466849,Medium,ModerateBuy,66873050.991933726
+1420,AB,financial,AllianceBernstein,3067006973,Medium,ModerateBuy,96174567.98369394
+1421,OFC,financial,Corporate Office Properties,3064627775,Medium,ModerateBuy,112175247.98682284
+1422,OSB,basicmaterials,Norbord,3061758000,Medium,ModerateBuy,80700000.0
+1423,SAFM,consumergoods,Sanderson Farms,3061332283,Medium,ModerateBuy,22239972.996730838
+1424,NSKFF,technology,Kongsberg Gruppen ASA,3056174047,Medium,,239699925.25490198
+1425,PRXXF,technology,Paradox Interactive AB,3055567680,Medium,ModerateBuy,105582850.03455424
+1426,SFRGY,consumergoods,Salvatore Ferragamo,3052384000,Medium,Hold,333229694.3231441
+1427,COENF,utilities,Contact Energy,3051829791,Medium,,
+1428,MMSI,healthcare,Merit Medical Systems,3050666667,Medium,StrongBuy,55547462.98252003
+1429,USNZY,basicmaterials,Usiminas,3049742666,Medium,ModerateBuy,1215036918.7250998
+1430,JMIA,technology,Jumia Technologies AG,3049455056,Medium,ModerateBuy,81080963.99893646
+1431,ALE,utilities,Allete,3049366502,Medium,,51974884.983807735
+1432,JKS,industrialgoods,JinkoSolar,3046702318,Medium,Hold,44470913.9979565
+1433,GDOT,financial,Green Dot,3046208553,Medium,ModerateBuy,53479784.989466295
+1434,BEPTF,utilities,Beach Energy,3045580430,Medium,ModerateBuy,2272821216.41791
+1435,CWST,services,Casella Waste,3045386885,Medium,StrongBuy,50722632.99467022
+1436,PACW,financial,Pacwest Bancorp,3039120781,Medium,ModerateBuy,118484240.97465888
+1437,HSKCF,consumergoods,Haseko,3038893733,Medium,,
+1438,QUILF,financial,Quilter,3035816913,Medium,Hold,1785774654.7058823
+1439,PBDIF,financial,PT Bank Danamon Indonesia Tbk,3029801389,Medium,,
+1440,DNLMY,consumergoods,Dunelm Group,3026891673,Medium,,184679174.67968273
+1441,FHB,financial,First Hawaiian,3026428882,Medium,ModerateSell,130787764.99567847
+1442,RPHCF,consumergoods,Rohto Pharmaceutical Co,3022859425,Medium,,
+1443,GTWCF,financial,Greentown China Holdings,3019393953,Medium,,
+1444,YUEXF,financial,Yuexiu Property Co,3019044600,Medium,,
+1445,NDBKF,financial,Nedbank Group,3018734437,Medium,,
+1446,TSPCF,services,Cleanaway Waste Management,3015584357,Medium,ModerateBuy,
+1447,AVT,technology,Avnet,3013306454,Medium,ModerateBuy,98829335.97900951
+1448,CYYHF,consumergoods,China Yongda Automobiles Services,3012990616,Medium,,1969274912.4183006
+1449,IBP,industrialgoods,Installed Building Products,3012536083,Medium,StrongBuy,29800534.998516172
+1450,PGNY,services,Progyny,3007053887,Medium,ModerateBuy,86633646.98934025
+1451,KMT,industrialgoods,Kennametal,3003766474,Medium,Hold,83276031.99334627
+1452,FNB,financial,F.N.B.,3003730136,Medium,ModerateBuy,322634815.89688504
+1453,APEMY,basicmaterials,Aperam SA,2999860500,Medium,Hold,76390641.71122994
+1454,APLE,financial,Apple Hospitality REIT,2996229813,Medium,ModerateBuy,223266006.9299553
+1455,GMALF,services,Genting Malaysia Bhd,2996214913,Medium,,4832604698.387096
+1456,PTVE,basicmaterials,Pactiv Evergreen,2995736876,Medium,StrongBuy,177157709.99408633
+1457,SZNTF,financial,Shenzhen Investment,2994814033,Medium,,8808276567.647058
+1458,DQ,basicmaterials,Daqo New Energy,2994058234,Medium,ModerateBuy,69483829.98375493
+1459,BCHEY,utilities,Beach Energy,2989687735,Medium,ModerateBuy,111722262.14499252
+1460,FSKR,financial,FS KKR Capital Corp. II,2989218642,Medium,ModerateBuy,170131965.9647126
+1461,CNMD,healthcare,Conmed,2987150999,Medium,Hold,28601598.99463807
+1462,SVMK,technology,SVMK,2979372489,Medium,StrongBuy,142213483.96181384
+1463,OIBRQ,technology,Oi SA,2976181325,Medium,,5411238772.727272
+1464,NYUKF,industrialgoods,Nippon Yusen Kabushiki Kaisha,2973115635,Medium,ModerateBuy,135820723.38967565
+1465,SKLYF,services,Skylark Holdings Co,2972408110,Medium,,
+1466,GKOS,healthcare,Glaukos,2971949663,Medium,Hold,44961416.98940999
+1467,DORM,consumergoods,Dorman Products,2965533119,Medium,Hold,32286696.99510071
+1468,FNMA,financial,Federal National Mortgage Association,2964704171,Medium,Hold,1158087566.796875
+1469,GEF,basicmaterials,Greif Class A,2961977006,Medium,ModerateBuy,59453572.982737854
+1470,FRTIF,financial,Fortress REIT,2961605521,Medium,,
+1471,NHI,financial,National Health Investors,2961070193,Medium,Hold,44729156.9939577
+1472,IHICF,industrialgoods,IHI,2960866805,Medium,,
+1473,BZUN,consumergoods,Baozun,2958769978,Medium,Hold,77760051.98423128
+1474,AMLLF,financial,AEON Mall Co,2957959446,Medium,,
+1475,NKTR,healthcare,Nektar Therapeutics,2956490015,Medium,ModerateBuy,179398665.95873785
+1476,OPCH,healthcare,Option Care Health,2952658825,Medium,ModerateBuy,186758938.96268183
+1477,AJRD,technology,Aerojet Rocketdyne Holdings,2950568000,Medium,StrongBuy,76400000.0
+1478,MTSI,technology,MACOM Technology Solutions Holdings,2949536174,Medium,StrongBuy,67961662.99539171
+1479,VCYT,healthcare,Veracyte,2946973638,Medium,ModerateBuy,57897320.982318275
+1480,MMTOF,consumergoods,Mitsubishi Motors,2946860722,Medium,,1488313495.959596
+1481,TTUUF,financial,Tokyu Fudosan Holdings,2945080691,Medium,ModerateBuy,
+1482,ACIA,technology,Acacia Communications,2939543302,Medium,,42143989.99283154
+1483,SPB,consumergoods,Spectrum Brands Holdings,2939510719,Medium,StrongBuy,43082378.99750842
+1484,GMOYF,technology,GMO Internet,2935821762,Medium,,109260206.99665053
+1485,HI,industrialgoods,Hillenbrand,2934340713,Medium,StrongBuy,74779325.0
+1486,ALKS,healthcare,Alkermes,2933130537,Medium,Hold,159149784.97015736
+1487,ATCO,industrialgoods,Atlas,2932701308,Medium,ModerateBuy,246031988.9261745
+1488,TXHPF,services,TechnoPro Holdings,2931586839,Medium,ModerateBuy,35397088.130886264
+1489,MIC,financial,Macquarie Infrastructure Company,2929849641,Medium,ModerateBuy,87197905.98214285
+1490,OSTK,consumergoods,Overstock,2926416956,Medium,StrongBuy,42765116.995469816
+1491,LXP,financial,Lexington Realty,2924618547,Medium,ModerateBuy,276952513.92045456
+1492,SAOGF,consumergoods,Seria Co,2919827911,Medium,,
+1493,BZQIF,technology,Bezeq The Israel Telecommunication,2917587469,Medium,ModerateBuy,2604988811.6071424
+1494,COHR,technology,Coherent,2912941228,Medium,ModerateBuy,24256317.994837206
+1495,SZUKF,healthcare,Suzuken Co,2912502272,Medium,,
+1496,URBN,consumergoods,Urban Outfitters,2910122698,Medium,Hold,97786380.98118278
+1497,JJSF,consumergoods,J & J Snack Foods,2907046350,Medium,Hold,18915000.0
+1498,WRI,financial,Weingarten,2901162908,Medium,ModerateBuy,128143237.98586573
+1499,VETTF,utilities,Vector,2900000000,Medium,,
+1500,TCBI,financial,Texas Capital Bancshares,2898895804,Medium,Hold,50459456.98868581
+1501,SUBCY,industrialgoods,Subsea 7,2896361374,Medium,,297673316.95786226
+1502,ADNT,industrialgoods,Adient,2891638934,Medium,ModerateBuy,93884380.97402596
+1503,NMPNF,basicmaterials,Northam Platinum,2886475011,Medium,Hold,
+1504,WOR,basicmaterials,Worthington Industries,2885720946,Medium,,54375747.99321651
+1505,PPBI,financial,Pacific Premier Bancorp,2882538117,Medium,StrongBuy,94385661.98428291
+1506,SOHVF,industrialgoods,Sumitomo Heavy Industries,2879137303,Medium,,
+1507,ENR,consumergoods,Energizer Holdings,2878471805,Medium,StrongBuy,68518728.99309689
+1508,YTLCF,utilities,YTL Bhd,2875461314,Medium,,
+1509,INOV,technology,Inovalon,2873341451,Medium,Hold,155399753.9751217
+1510,EPR,financial,EPR Properties,2872686355,Medium,Hold,74615230.0
+1511,TRKNF,technology,Turk Telekomunikasyo,2870000000,Medium,,
+1512,BLUE,healthcare,Bluebird Bio,2869318623,Medium,ModerateBuy,66373319.98612075
+1513,HMSY,services,Hms Holdings,2857561229,Medium,StrongBuy,88551633.99442205
+1514,BTVCY,consumergoods,Britvic,2857548873,Medium,,131744991.8395574
+1515,FRZCF,financial,Frasers Centrepoint,2855509956,Medium,ModerateBuy,1660180206.9767442
+1516,ATVXF,financial,Activia Properties,2854300024,Medium,,
+1517,JTEKY,industrialgoods,JTEKT,2852359723,Medium,,113594572.79968141
+1518,YFGSF,financial,Yamaguchi Financial Group,2851520100,Medium,,
+1519,BNR,healthcare,Burning Rock Biotech,2849826952,Medium,,101779534.0
+1520,RMGOF,consumergoods,Remgro,2847482976,Medium,,
+1521,GATX,financial,GATX,2844100000,Medium,Hold,35000000.0
+1522,BOX,technology,Box,2841287865,Medium,ModerateBuy,156544785.95041323
+1523,JAZTF,technology,Jazztel,2841090073,Medium,,
+1524,CRON,basicmaterials,Cronos Group,2838808931,Medium,Hold,356186816.9385195
+1525,EXLS,technology,Exlservice Holdings,2838311722,Medium,Hold,33809549.99404407
+1526,NGVT,basicmaterials,Ingevity,2834662852,Medium,StrongBuy,41279493.985728845
+1527,SKLKF,financial,Shinsei Bank,2833569164,Medium,,220511218.98832685
+1528,AKBLF,healthcare,ALK-abello,2832787375,Medium,,
+1529,CSOD,technology,Cornerstone Ondemand,2832193591,Medium,ModerateBuy,64602955.99908759
+1530,ELSSF,services,Elis SA,2831277350,Medium,StrongBuy,
+1531,FOCS,financial,Focus Financial Partners,2828776173,Medium,StrongBuy,71505969.99494438
+1532,CARG,technology,CarGurus,2827532459,Medium,ModerateBuy,113237182.9795755
+1533,ALGT,industrialgoods,Allegiant Travel Company,2825054839,Medium,StrongBuy,16389480.99437257
+1534,AATP,healthcare,Agape ATP,2823390352,Medium,,387828345.05494505
+1535,ANGGF,basicmaterials,Angang Steel Co,2821575060,Medium,,
+1536,TDBOF,industrialgoods,Toyota Boshoku,2821000712,Medium,,
+1537,HRMY,healthcare,Harmony Biosciences Holdings,2819424341,Medium,ModerateBuy,56889110.99677159
+1538,GOLF,consumergoods,Acushnet Holdings,2817990650,Medium,ModerateBuy,74294506.98655418
+1539,ROG,basicmaterials,Rogers,2817804402,Medium,ModerateBuy,18675797.99840933
+1540,SHALF,services,Shangri-La Asia,2817146992,Medium,,2934528116.666667
+1541,LILA,services,Liberty Global LiLAC,2816557853,Medium,StrongBuy,232006412.93245468
+1542,NNOKF,basicmaterials,NOK,2810789020,Medium,,
+1543,CMPNF,financial,Champion Real Estate Investment,2807780240,Medium,,4841000413.793104
+1544,BKU,financial,BankUnited,2803954312,Medium,ModerateBuy,92387291.99341021
+1545,AWR,utilities,American States Water Company,2803937526,Medium,ModerateBuy,36889060.99197474
+1546,KRRYF,industrialgoods,Kerry Logistics Network,2803491665,Medium,,
+1547,BBU,services,Brookfield Business Partners,2793766485,Medium,StrongBuy,79913228.97597253
+1548,AVIR,healthcare,Atea Pharmaceuticals,2792452470,Medium,StrongBuy,82616936.98224853
+1549,BLKB,technology,Blackbaud,2790698893,Medium,ModerateBuy,49568363.99644761
+1550,NIFCY,industrialgoods,Nifco,2790370461,Medium,,157915702.37691
+1551,VSH,technology,Vishay Intertechnology,2784669541,Medium,ModerateBuy,144658157.97402596
+1552,FHI,financial,Federated Hermes,2782302404,Medium,Hold,99367943.0
+1553,LILAK,services,Liberty LiLAC Group,2781756891,Medium,Hold,232006412.92743954
+1554,ACCD,technology,Accolade,2781679348,Medium,StrongBuy,55039163.98891967
+1555,SGAMF,technology,Sega Sammy Holdings,2781122058,Medium,,193941566.1087866
+1556,WERN,industrialgoods,Werner Enterprises,2778427604,Medium,ModerateBuy,69097925.98856007
+1557,OSSFF,healthcare,Ossur hf,2776580517,Medium,,
+1558,FCFS,financial,FirstCash,2776098961,Medium,ModerateBuy,41440497.99970145
+1559,RVMD,healthcare,Revolution Medicines,2776019545,Medium,ModerateBuy,66380189.980870396
+1560,ONB,financial,Old National Bancorp Capital,2775941070,Medium,Hold,165333000.0
+1561,ESRT,financial,Empire State Realty,2772879713,Medium,Hold,287345047.97927463
+1562,CIFAF,financial,CI Financial,2771868395,Medium,ModerateBuy,205933758.9153046
+1563,BXS,financial,BancorpSouth,2768557629,Medium,ModerateBuy,102577162.98629123
+1564,USM,technology,United States Cellular,2767762035,Medium,StrongBuy,86035500.0
+1565,FUL,basicmaterials,HB Fuller,2767335104,Medium,Hold,51735559.992521964
+1566,CAGDF,basicmaterials,Centerra Gold,2765555285,Medium,StrongBuy,295781313.9037433
+1567,SIX,services,Six Flags,2762604838,Medium,ModerateBuy,84977078.99107967
+1568,CDNA,healthcare,CareDx,2762344673,Medium,StrongBuy,49257215.995007135
+1569,EGHSF,technology,Enghouse Systems,2760111440,Medium,ModerateBuy,69002786.0
+1570,BVN,basicmaterials,Compania de Minas Buenaventura SAA,2755757506,Medium,,253986866.91244242
+1571,SYNA,technology,Synaptics,2754555711,Medium,StrongBuy,34518241.9924812
+1572,SHOO,consumergoods,Steven Madden,2753228550,Medium,ModerateBuy,83179110.27190332
+1573,PCRX,healthcare,Pacira Pharmaceuticals,2752592768,Medium,StrongBuy,43443698.98989899
+1574,CVBF,financial,Cvb Financial,2750763781,Medium,ModerateBuy,135505604.97536945
+1575,LGIH,consumergoods,LGI Homes,2750755685,Medium,Hold,25100425.996897526
+1576,EBC,financial,Eastern Bankshares,2747212445,Medium,StrongBuy,186758153.97688645
+1577,PJT,financial,PJT Partners,2745236553,Medium,ModerateBuy,38384179.99161074
+1578,AXSM,healthcare,Axsome Therapeutics,2741811237,Medium,ModerateBuy,37344200.99427949
+1579,MIME,technology,Mimecast,2740979155,Medium,StrongBuy,63892287.995338
+1580,ADCT,healthcare,ADC Therapeutics,2738088547,Medium,ModerateBuy,76718647.99663772
+1581,JPRRF,financial,Japan Prime Realty Investment,2737720250,Medium,ModerateBuy,
+1582,BBBY,consumergoods,Bed Bath & Beyond,2736898516,Medium,ModerateBuy,126008218.96869245
+1583,SEOTF,industrialgoods,Seino Holdings Co,2735311170,Medium,,182354078.0
+1584,OUT,financial,Outfront Media,2734043885,Medium,StrongBuy,144429153.98837823
+1585,NKNIF,healthcare,Nakanishi,2731208500,Medium,,
+1586,ETHE,unknownsector,Grayscale Ethereum Trust (ETH),2730260210,Medium,,28278200.0
+1587,GNNSF,healthcare,Genscript Biotech,2723450356,Medium,,1917922785.915493
+1588,PACB,healthcare,Pacific Biosciences,2722224339,Medium,ModerateBuy,187223131.98074278
+1589,EVTC,technology,Evertec,2721679306,Medium,ModerateBuy,71906982.98546895
+1590,SHWDF,basicmaterials,Showa Denko KK,2719109310,Medium,,141472908.94901145
+1591,MPCFF,financial,Metro Pacific Investments,2714464708,Medium,,
+1592,CCU,consumergoods,Compania Cervecerias Unidas SA,2712151080,Medium,Hold,184751435.96730244
+1593,PYOIF,industrialgoods,Promotora y Operadora de Infraestructura SA,2710953157,Medium,,
+1594,GBT,healthcare,Global Blood Therapeutics,2709774025,Medium,ModerateBuy,61796442.98745724
+1595,TRN,industrialgoods,Trinity Industries,2707912108,Medium,ModerateBuy,114161555.98650928
+1596,CWH,consumergoods,Camping World Holdings,2702634024,Medium,ModerateBuy,88756453.99014778
+1597,NENTF,services,Nordic Entertainment Group AB,2700635792,Medium,ModerateBuy,
+1598,TCMFF,technology,Telecom Argentina SA,2692110013,Medium,,
+1599,APG,financial,APi Group,2691237673,Medium,ModerateBuy,169794174.9526814
+1600,AVA,utilities,Avista,2691012364,Medium,Hold,68735947.99489145
+1601,CAIAF,financial,CA Immobilien Anlagen AG,2690406315,Medium,,
+1602,NNI,financial,Nelnet,2686204439,Medium,ModerateBuy,38341484.99857265
+1603,ABM,services,ABM Industries,2684822766,Medium,ModerateBuy,66687102.980625935
+1604,CCOI,technology,Cogent Comms,2684347489,Medium,Hold,47251319.99647949
+1605,MCRB,healthcare,Seres Therapeutics,2681785714,Medium,StrongBuy,91248237.97209935
+1606,SNOTF,industrialgoods,Sinotrans,2681681284,Medium,,7057056010.526316
+1607,MSLOF,industrialgoods,Mitsui OSKLines,2678919286,Medium,ModerateBuy,
+1608,MGAWY,financial,Megaworld,2676043143,Medium,,166007639.14392057
+1609,AHCO,financial,AdaptHealth,2674675874,Medium,StrongBuy,89633909.98659517
+1610,BTSDF,consumergoods,Health and Happiness (H&H) International Holdings,2673170766,Medium,,
+1611,NOFCF,basicmaterials,NOF,2667805576,Medium,,
+1612,AMMHF,financial,AMMB Holdings Bhd,2666381067,Medium,,
+1613,BICEY,consumergoods,Societe BIC,2665613349,Medium,ModerateBuy,89061588.67357166
+1614,MMYT,services,Makemytrip,2663974201,Medium,ModerateBuy,103254813.99224806
+1615,SCL,basicmaterials,Stepan Company,2661905017,Medium,ModerateBuy,22461437.99679352
+1616,JTEKF,industrialgoods,JTEKT,2661440270,Medium,,
+1617,NUS,consumergoods,Nu Skin,2657182243,Medium,ModerateBuy,51030962.99212598
+1618,MBUMY,industrialgoods,Mabuchi Motor Co,2654875753,Medium,,236831021.67707402
+1619,PDCO,healthcare,Patterson Companies,2653589160,Medium,Hold,96354000.0
+1620,CORT,healthcare,Corcept Therapeutics,2652227923,Medium,ModerateBuy,116172926.98204118
+1621,SZHFF,industrialgoods,Sojitz,2649743223,Medium,,1172452753.539823
+1622,UNPA,financial,UNB,2649584356,Medium,,22170398.761609904
+1623,EUTLF,services,Eutelsat Communications,2646733107,Medium,StrongBuy,230150704.95652175
+1624,KTOS,technology,Kratos Defense,2646622119,Medium,ModerateBuy,122756127.96846011
+1625,OPK,healthcare,Opko Health,2646500094,Medium,ModerateBuy,670000023.7974683
+1626,SPT,technology,Sprout Social,2644605271,Medium,StrongBuy,52934452.98238591
+1627,CHSYF,healthcare,China Medical System Holdings,2643714270,Medium,,
+1628,PZZA,services,Papa John's International,2643094678,Medium,StrongBuy,32952183.992020946
+1629,TCO,financial,Taubman Centers,2639993219,Medium,Hold,61725349.988309555
+1630,MANU,services,Manchester,2639614926,Medium,Hold,162939192.96296296
+1631,IGT,services,International Game Technology,2634455413,Medium,ModerateBuy,204856563.9968896
+1632,NTXVF,industrialgoods,Nexteer Automotive Group,2632922074,Medium,Hold,2437890809.259259
+1633,AMBA,technology,Ambarella,2628954338,Medium,ModerateBuy,34614276.998025015
+1634,CLALF,financial,Clal Insurance Enterprises Holdings,2628143230,Medium,,
+1635,JAIRF,industrialgoods,Japan Airport Terminal Co,2627731493,Medium,,
+1636,SMTUF,consumergoods,Sumitomo Rubber Industries,2627405544,Medium,,263003557.95795795
+1637,KRTX,healthcare,Karuna Therapeutics,2626775402,Medium,StrongBuy,26806565.99653026
+1638,CHX,industrialgoods,ChampionX,2623811636,Medium,StrongBuy,199833330.99771515
+1639,VEON,technology,VEON,2623691106,Medium,StrongBuy,1749127404.0
+1640,TARO,healthcare,Taro Pharmaceutical Industries,2623356339,Medium,ModerateBuy,38258076.98702057
+1641,HWC,financial,Hancock Whitney,2622624504,Medium,StrongBuy,86412668.99505766
+1642,TMPPF,financial,Times China Holdings,2621452950,Medium,,1941816999.9999998
+1643,BBAVY,industrialgoods,Signature Aviation,2621190598,Medium,,206718501.41955838
+1644,PD,technology,PagerDuty,2620528920,Medium,ModerateBuy,79530467.98179059
+1645,BNL,financial,Broadstone Net Lease,2619186916,Medium,StrongBuy,144786451.96241018
+1646,VLDR,financial,Velodyne Lidar,2618430353,Medium,StrongBuy,168713295.94072166
+1647,CAR,financial,Avis Budget,2618003872,Medium,Hold,69683360.97950493
+1648,BECN,industrialgoods,Beacon Roofing Supply,2616715943,Medium,ModerateBuy,69390504.98541501
+1649,TYTMF,financial,Tokyo Tatemono Co,2615876835,Medium,,193768654.44444445
+1650,PEB,financial,Pebblebrook Hotel,2615725356,Medium,Hold,130917184.98498498
+1651,AGO,financial,Assured Guaranty,2614079923,Medium,,80806180.0
+1652,MGEE,utilities,MGE Energy,2612803482,Medium,Hold,36163369.99307959
+1653,PGCMF,consumergoods,Puregold Price Club,2611410079,Medium,,2967511453.409091
+1654,IMAB,healthcare,I-MAB,2608341455,Medium,ModerateBuy,70495715.0
+1655,APELF,industrialgoods,Alps Alpine Co,2606655173,Medium,,
+1656,MOG.A,technology,Moog,2605721438,Medium,ModerateBuy,32019186.99926272
+1657,FCEL,technology,Fuelcell Energy,2605139522,Medium,Hold,294699040.95022625
+1658,ESE,technology,Esco Technologies,2605073285,Medium,ModerateBuy,26037713.9930035
+1659,LIVN,healthcare,LivaNova,2603310058,Medium,StrongBuy,48596416.98711966
+1660,RRR,services,Red Rock Resorts,2595908883,Medium,ModerateBuy,117302705.96475373
+1661,ACA,industrialgoods,Arcosa,2592440174,Medium,ModerateBuy,48267364.997207224
+1662,HP,industrialgoods,Helmerich & Payne,2592373363,Medium,ModerateBuy,107478165.96185738
+1663,BEAM,healthcare,Beam Therapeutics,2590500137,Medium,ModerateBuy,57965990.98232267
+1664,KWHIF,industrialgoods,Kawasaki Heavy Industries,2589170902,Medium,Hold,167151123.43447384
+1665,NSIT,technology,Insight Enterprises,2588461643,Medium,StrongBuy,35097784.98983051
+1666,SINA,technology,Sina,2587665096,Medium,,59733727.977839336
+1667,TSEM,technology,Tower Semiconductor,2587169570,Medium,StrongBuy,107262419.98341624
+1668,NSSXF,technology,NS Solutions,2581226594,Medium,Hold,
+1669,OM,healthcare,Outset Medical,2578689898,Medium,StrongBuy,42700610.99519788
+1670,IBTX,financial,Independent Bank Group,2578030984,Medium,ModerateBuy,43248296.99714813
+1671,MATX,industrialgoods,Matson,2576107157,Medium,StrongBuy,43078715.0
+1672,DAN,industrialgoods,Dana Holding,2570498661,Medium,StrongBuy,144491211.97301856
+1673,MBUMF,industrialgoods,Mabuchi Motor Co,2569426907,Medium,,
+1674,GT,consumergoods,GoodYear Tire,2569137594,Medium,ModerateBuy,233134082.9401089
+1675,AFLYY,industrialgoods,Air France KLM,2568869108,Medium,ModerateSell,427432463.8935108
+1676,BYRSF,basicmaterials,PT Bayan Resources Tbk,2566666795,Medium,,
+1677,SAPMY,industrialgoods,Saipem SpA,2564719692,Medium,,498972702.72373545
+1678,HMY,basicmaterials,Harmony Gold Mining,2562566223,Medium,,597334783.9160839
+1679,WD,financial,Walker & Dunlop,2562525367,Medium,StrongBuy,31227459.992688276
+1680,FIBK,financial,First Interstate Bancsystem,2561203899,Medium,ModerateBuy,63114930.97585017
+1681,TKCBY,industrialgoods,Tokai Carbon,2559968779,Medium,,52870069.78521272
+1682,HL,basicmaterials,Hecla Mining Company,2559527495,Medium,ModerateBuy,531022301.86721987
+1683,MCY,financial,Mercury General,2558632478,Medium,ModerateSell,55357690.999567285
+1684,BVILF,consumergoods,Breville Group,2556510793,Medium,,
+1685,KREVF,financial,Keppel REIT,2555868576,Medium,ModerateBuy,3194835720.0
+1686,HPIFF,industrialgoods,Huadian Power International,2544647976,Medium,,9787107600.0
+1687,AFYA,services,Afya,2544437067,Medium,ModerateBuy,93202822.96703297
+1688,FN,technology,Fabrinet,2543581735,Medium,StrongBuy,36938450.98751089
+1689,CWT,utilities,California Water Service,2540843200,Medium,Hold,49840000.0
+1690,REZI,services,Resideo Technologies,2540148135,Medium,ModerateBuy,140494918.97123894
+1691,YSHLF,industrialgoods,Yangzijiang Shipbuilding (Holdings),2535967200,Medium,,
+1692,YORUF,consumergoods,Yokohama Rubber Co,2533490988,Medium,,164512401.8181818
+1693,LCCTF,consumergoods,L'Occitane International SA,2532890112,Medium,Hold,1167230466.359447
+1694,CSIQ,industrialgoods,Canadian Solar,2532888372,Medium,ModerateBuy,59041686.993007
+1695,CGJTF,industrialgoods,Cargojet,2529844429,Medium,StrongBuy,
+1696,CCIV,financial,Churchill Capital IV,2525400000,Medium,,258750000.0
+1697,SLCJF,basicmaterials,SLC Agricola SA,2524749325,Medium,,
+1698,JGCCF,industrialgoods,JGC,2524659970,Medium,,268866876.46432376
+1699,RMRHF,financial,Rand Merchant Investment Holdings,2522733348,Medium,,
+1700,AEL,financial,American Equity Investment Life,2521266704,Medium,ModerateBuy,92017032.99270074
+1701,ASB,financial,Associated Banc-Corp,2520410488,Medium,ModerateBuy,153589913.95490554
+1702,ALXO,services,ALX Oncology Holdings,2518487518,Medium,StrongBuy,37107521.99793723
+1703,TJBH,services,Tengjun Biotechnology,2518090245,Medium,,48894956.21359223
+1704,CEVIF,financial,China Everbright,2511028460,Medium,,1685254000.0
+1705,AUB,financial,Atlantic Union Bankshares,2510339183,Medium,Hold,78718694.98275322
+1706,YELP,technology,Yelp,2508467451,Medium,Hold,73996090.0
+1707,CMC,basicmaterials,Commercial Metals Company,2507600128,Medium,Hold,119580358.98903196
+1708,TBLMF,consumergoods,Tiger Brands,2505710665,Medium,,179492167.97994268
+1709,MSTR,technology,Microstrategy,2504635451,Medium,ModerateBuy,9266817.563267723
+1710,ISBC,financial,Investors Bancorp,2504179993,Medium,ModerateBuy,249918162.9740519
+1711,NINOY,consumergoods,Nikon,2503756074,Medium,ModerateSell,368199422.64705884
+1712,WWW,consumergoods,Wolverine World Wide,2503189320,Medium,ModerateBuy,82071780.98360656
+1713,BYLOF,financial,Big Yellow Group,2503113892,Medium,ModerateBuy,
+1714,CMPR,financial,Cimpress,2501551033,Medium,ModerateBuy,26003648.99168399
+1715,UNIT,financial,Uniti Group,2497396866,Medium,Hold,232749008.9468779
+1716,EPWDF,utilities,Electric Power Development Co,2496269263,Medium,,178050589.37232524
+1717,SMFRF,industrialgoods,Sumitomo Forestry Co,2494957272,Medium,,
+1718,PSMT,consumergoods,Pricesmart,2490456211,Medium,,30670642.992610835
+1719,COKE,consumergoods,Coca-Cola Bottling Co Consolidated,2487120902,Medium,,9373688.99860551
+1720,DOOR,industrialgoods,Masonite International,2485580972,Medium,StrongBuy,24502966.99526814
+1721,DQWS,consumergoods,Dswiss,2484924246,Medium,,292344028.9411765
+1722,SGIPF,consumergoods,Sugi Holdings Co,2483601868,Medium,,
+1723,ABCB,financial,Ameris Bancorp,2482897208,Medium,StrongBuy,69490545.98376715
+1724,KTB,consumergoods,Kontoor Brands,2482713058,Medium,StrongBuy,57205370.0
+1725,FLR,industrialgoods,Fluor,2481957861,Medium,Hold,140620841.98300284
+1726,JELD,basicmaterials,JELD-WEN,2481514346,Medium,Hold,100751698.98497768
+1727,SJI,utilities,South Jersey Industries,2480556970,Medium,Hold,100590306.97485808
+1728,B,industrialgoods,Barnes Group,2475695713,Medium,ModerateBuy,50617372.991208345
+1729,CMD,healthcare,Cantel Medical,2475108946,Medium,ModerateBuy,42244562.997098476
+1730,EOCCY,utilities,Enel Generación Chile SA,2474195961,Medium,,264903207.81584582
+1731,CIM,financial,Chimera Investment,2470532748,Medium,ModerateBuy,233730628.94985807
+1732,COOP,financial,Mr Cooper Group,2470308541,Medium,StrongBuy,90853568.9959544
+1733,CBT,basicmaterials,Cabot,2461158659,Medium,ModerateBuy,56461542.99151181
+1734,COLB,financial,Columbia Banking System,2458221518,Medium,ModerateBuy,71605636.99388291
+1735,TDC,technology,Teradata,2458157000,Medium,Hold,109300000.00000001
+1736,BCNAY,technology,Barco,2453693087,Medium,,214483661.45104897
+1737,BRP,financial,BRP Group,2450765613,Medium,StrongBuy,79235874.9757517
+1738,CATY,financial,Cathay General Bancorp,2450365192,Medium,Hold,79660766.97009103
+1739,NTNTY,technology,NetEnt AS,2448443889,Medium,,123658782.27272727
+1740,CDGLF,industrialgoods,Comfortdelgro,2448410451,Medium,,1943182897.6190476
+1741,HKBNF,services,HKBN,2441997974,Medium,ModerateBuy,
+1742,COMM,technology,CommScope Holding,2441342514,Medium,ModerateBuy,198644630.9194467
+1743,ITCFY,financial,Investec,2439228062,Medium,,459364983.4274953
+1744,NUVA,healthcare,NuVasive,2439048729,Medium,ModerateBuy,51283614.99158957
+1745,NRDXF,industrialgoods,Nordex,2438720596,Medium,ModerateBuy,107527363.1393298
+1746,ZEOOF,basicmaterials,Zeon,2436950199,Medium,Hold,
+1747,SSTK,technology,Shutterstock,2435979668,Medium,StrongBuy,36222745.99256506
+1748,FJTNY,services,Fuji Media Holdings,2435678880,Medium,,463938834.28571427
+1749,ANIOY,basicmaterials,Acerinox SA,2434075857,Medium,,442559246.72727275
+1750,FSRPF,financial,Frasers Property,2428298542,Medium,,2556103728.421053
+1751,PPAAF,industrialgoods,PT Perusahaan Gas Negara Tbk,2424150819,Medium,,24241508190.0
+1752,SUN,industrialgoods,Sunoco,2422046186,Medium,StrongBuy,83089062.9845626
+1753,VSAT,technology,ViaSat,2421054070,Medium,ModerateBuy,67532888.9818689
+1754,GBNXF,industrialgoods,Gibson Energy,2420131359,Medium,ModerateBuy,146319912.87787184
+1755,BAFYY,industrialgoods,Balfour Beatty,2418450000,Medium,,341107193.22990125
+1756,ACKAY,consumergoods,Arcelik,2417971016,Medium,ModerateBuy,133885438.31672205
+1757,UTF,financial,Cohen & Steers Infrastructure Fund,2417564612,Medium,,93522808.97485493
+1758,LYSCF,basicmaterials,Lynas,2414890591,Medium,ModerateBuy,901078578.7313433
+1759,MRGIF,financial,Mori Sogo Reit,2414148000,Medium,,
+1760,ARCE,technology,Arco Platform,2407031138,Medium,ModerateBuy,57584476.985645935
+1761,KAR,services,Kar Auction Services,2406663898,Medium,StrongBuy,129251551.98711063
+1762,STAY,services,Extended Stay America,2405946604,Medium,StrongBuy,177560634.9815498
+1763,PRMW,consumergoods,Primo Water,2402955840,Medium,StrongBuy,160197056.0
+1764,TSMRF,healthcare,Tsumura & Co,2400832399,Medium,,78509888.78351864
+1765,TOKCF,technology,Tokyo Ohka Kogyo Co,2400507654,Medium,,
+1766,ENBL,industrialgoods,Enable Midstream,2399467062,Medium,ModerateSell,435474965.8802178
+1767,TWOU,technology,2U,2396289528,Medium,ModerateBuy,72068857.9849624
+1768,SFM,consumergoods,Sprouts Farmers,2394390602,Medium,Hold,117950275.96059112
+1769,UTZ,financial,UTZ Brands,2394310473,Medium,StrongBuy,120620174.96221662
+1770,RLLWF,industrialgoods,Reliance Worldwide,2393987137,Medium,ModerateSell,
+1771,CFTLF,technology,Chinasoft International,2391820421,Medium,,2544489809.574468
+1772,HGV,financial,Hilton Grand Vacations,2390641107,Medium,ModerateBuy,85106482.98326807
+1773,ARPTF,financial,Airport City,2390178835,Medium,,
+1774,MTLS,technology,Materialise,2388299760,Medium,ModerateSell,54082875.00000001
+1775,WLWHY,consumergoods,Woolworths Holdings,2385811580,Medium,Hold,981815465.0205761
+1776,FJTNF,services,Fuji Media Holdings,2383630523,Medium,,230302465.99033818
+1777,ITGR,industrialgoods,Integer Holdings,2380819521,Medium,ModerateBuy,32875165.990057994
+1778,SATS,technology,Echostar,2380029830,Medium,ModerateBuy,98145560.0
+1779,KSHDF,services,Koshidaka Holdings Co,2378559807,Medium,,
+1780,BMI,industrialgoods,Badger Meter,2376526111,Medium,Hold,29116957.988238174
+1781,BRC,industrialgoods,Brady,2371848796,Medium,ModerateBuy,52014227.98245614
+1782,DNGFF,industrialgoods,Dongfang Electric,2370282018,Medium,,
+1783,SPXC,industrialgoods,SPX,2368139582,Medium,StrongBuy,44783275.0
+1784,EQX,basicmaterials,Equinox Gold,2367909003,Medium,StrongBuy,241870173.9530133
+1785,EAT,services,Brinker International,2367732184,Medium,ModerateBuy,45289444.988523334
+1786,DICCF,basicmaterials,DIC,2363292691,Medium,,
+1787,SONO,technology,Sonos,2362853025,Medium,StrongBuy,110620459.97191012
+1788,NSA,financial,National Storage Affiliates,2359638944,Medium,ModerateBuy,69197622.99120234
+1789,RCM,services,R1 RCM,2357747548,Medium,StrongBuy,116662421.96932212
+1790,OMAB,industrialgoods,Grupo Aeroportuario Del Centro,2356273774,Medium,StrongBuy,48763943.99834437
+1791,GBDC,financial,Golub Capital Bdc,2355013914,Medium,ModerateBuy,167259510.9375
+1792,SHO,financial,Sunstone Hotel,2354740206,Medium,Hold,215635550.0
+1793,XNCR,healthcare,Xencor,2353939707,Medium,ModerateBuy,57455203.97852087
+1794,KW,financial,Kennedy-Wilson,2351294030,Medium,ModerateBuy,141729597.95057264
+1795,SHI,basicmaterials,Sinopec,2349850019,Medium,,108238139.98157531
+1796,INDB,financial,Independent Bank,2343820103,Medium,ModerateBuy,32965120.99859353
+1797,ASCCF,consumergoods,Asics,2342811904,Medium,,184473378.26771656
+1798,MSGN,services,MSG Networks,2340080855,Medium,Hold,188716197.98387095
+1799,KFY,services,Korn Ferry,2339702361,Medium,ModerateBuy,54781136.993678294
+1800,GAERF,industrialgoods,Grupo Aeroportuario del Centro Norte SAB de CV,2338562733,Medium,,390411140.73455757
+1801,FLOW,industrialgoods,SPX Flow,2337817079,Medium,ModerateSell,42214103.990610324
+1802,REGI,basicmaterials,Renewable Energy Group,2335576854,Medium,StrongBuy,39332718.99629505
+1803,ISFFF,services,ISS,2332735740,Medium,ModerateSell,
+1804,NLTBF,basicmaterials,Nolato AB,2332544312,Medium,,26734032.229226362
+1805,ABG,consumergoods,Asbury,2330079909,Medium,ModerateBuy,19285547.997020364
+1806,ANAT,financial,American National Insurance,2327356032,Medium,,26887200.0
+1807,SUMO,technology,Sumo Logic,2326120754,Medium,ModerateBuy,98689891.9813322
+1808,AZUL,industrialgoods,Azul SA,2325773420,Medium,ModerateBuy,114008500.98039216
+1809,CSPKF,industrialgoods,COSCO SHIPPING Ports,2320707461,Medium,,3315296372.857143
+1810,NIU,consumergoods,Niu Technologies,2317142244,Medium,StrongBuy,74746524.0
+1811,EHGRF,services,Star Entertainment Group,2313394530,Medium,Hold,
+1812,DIPGY,utilities,Datang INTL PWR,2313338812,Medium,,925335524.8
+1813,GHC,services,Graham Holdings,2312840331,Medium,,5006472.998246639
+1814,PTAUF,industrialgoods,Port of Tauranga,2312216034,Medium,,
+1815,AIN,basicmaterials,Albany International,2304928000,Medium,Hold,32300000.0
+1816,LMPMF,basicmaterials,Lee & Man Paper Manufacturing,2303720260,Medium,,
+1817,LTHM,basicmaterials,Livent,2302801617,Medium,Hold,146302516.96315122
+1818,REPL,healthcare,Replimune Group,2299039948,Medium,StrongBuy,45962413.99440224
+1819,AVIJF,technology,AviChina Industry & Technology Co,2297945249,Medium,,
+1820,PMCUF,healthcare,Pro Medicus,2297865206,Medium,ModerateBuy,104211573.96825397
+1821,PS,technology,Pluralsight,2297604236,Medium,ModerateBuy,145694624.98414713
+1822,TSSCF,consumergoods,Turkiye Sise ve Cam Fabrikalari AS,2296494641,Medium,,
+1823,HRIBF,technology,Horiba,2294386803,Medium,,
+1824,AINPF,consumergoods,Ain Holdings,2292205316,Medium,,
+1825,HISEF,consumergoods,Hisense Home Appliances Group Co,2289378621,Medium,,1362725369.642857
+1826,MED,services,Medifast,2287466460,Medium,ModerateBuy,11769829.997427322
+1827,THS,consumergoods,TreeHouse Foods,2286928538,Medium,ModerateBuy,56509229.99752904
+1828,CPKPF,basicmaterials,CP Pokphand Co,2286824537,Medium,,25409161522.22222
+1829,TNLIF,services,Trainline,2283232413,Medium,ModerateBuy,
+1830,GPI,consumergoods,Group 1 Automotive,2282133334,Medium,StrongBuy,18314206.99783324
+1831,YUMSF,technology,DEMAE-CAN,2281704114,Medium,,83917032.51195292
+1832,VNE,industrialgoods,Veoneer,2281001472,Medium,Hold,111594983.95303327
+1833,SEAS,services,SeaWorld,2276207675,Medium,StrongBuy,78381806.99035813
+1834,SHEN,technology,Shenandoah Telecommunications Co,2271273567,Medium,Hold,49852360.99648815
+1835,BKQNF,financial,Bank of Queensland,2267782410,Medium,,
+1836,FSK,financial,FS KKR Capital,2267209278,Medium,Hold,123755964.95633188
+1837,NIPOF,financial,Japan Hotel Reit Investment,2262409929,Medium,Hold,
+1838,TCP,industrialgoods,TC Pipelines,2261125817,Medium,ModerateBuy,71306395.99495427
+1839,AG,basicmaterials,First Majestic Silver,2261049161,Medium,ModerateBuy,221237686.98630136
+1840,TPH,consumergoods,Tri Pointe,2258756705,Medium,StrongBuy,126825193.99213925
+1841,MXL,technology,Maxlinear,2258430398,Medium,ModerateBuy,74168485.9770115
+1842,MMLTF,basicmaterials,MMG,2257820040,Medium,Hold,
+1843,SFNC,financial,Simmons 1st Nat'l,2257463779,Medium,ModerateBuy,108845890.98360656
+1844,CVLT,technology,CommVault Systems,2256128944,Medium,StrongBuy,47130330.97973679
+1845,SMSEY,consumergoods,Samsonite International SA,2255332907,Medium,,284405158.5119798
+1846,MAX,technology,MediaAlpha,2251343806,Medium,ModerateBuy,58705183.98956975
+1847,YEXT,technology,Yext,2247497604,Medium,ModerateBuy,119611367.96168175
+1848,EPRT,financial,Essential Properties Realty,2247298629,Medium,ModerateBuy,104671570.98276666
+1849,HTH,financial,Hilltop Holdings,2246937031,Medium,ModerateBuy,90238434.97991969
+1850,SAVE,industrialgoods,Spirit Airlines,2244646529,Medium,ModerateBuy,97678264.96953873
+1851,HDUGF,consumergoods,Hunter Douglas,2240476000,Medium,,34790000.0
+1852,MDRX,technology,Allscripts,2240180236,Medium,ModerateBuy,157981680.95909733
+1853,NINOF,consumergoods,Nikon,2239429919,Medium,,366518808.34697217
+1854,TDS,technology,Telephone & Data Systems,2237342207,Medium,ModerateBuy,114325100.0
+1855,PKCOF,services,Park24 Co,2236988643,Medium,,151250077.28194728
+1856,MLHR,industrialgoods,Herman Miller,2233519890,Medium,StrongBuy,58900840.98101266
+1857,SUM,basicmaterials,Summit Materials,2232338105,Medium,ModerateBuy,114127714.97955011
+1858,UCBI,financial,United Community Banks,2231336841,Medium,ModerateBuy,86620218.98291925
+1859,STRA,services,Strategic Education,2230160925,Medium,ModerateBuy,24402679.99781158
+1860,ZYME,healthcare,Zymeworks,2225016496,Medium,ModerateBuy,45829381.99794027
+1861,UILCF,financial,United Industrial,2220634411,Medium,,1254595712.4293785
+1862,FBOHF,consumergoods,Forbo Holding AG,2217821275,Medium,,
+1863,BPOSY,services,bpost SA,2217010464,Medium,ModerateBuy,184137081.72757477
+1864,STLJF,basicmaterials,Stella-Jones,2216805096,Medium,StrongBuy,67175912.0
+1865,PLXS,technology,Plexus,2216518691,Medium,ModerateBuy,28823389.999999996
+1866,MC,financial,Moelis,2214182919,Medium,Hold,55465503.98296593
+1867,EBCOF,industrialgoods,Ebara,2212873280,Medium,,
+1868,FUN,services,Cedar Fair,2211547182,Medium,StrongBuy,56706338.0
+1869,LGF.A,services,Lions Gate Entertainment Class A,2205638963,Medium,ModerateBuy,220784680.98098096
+1870,IRBT,consumergoods,iRobot,2202933112,Medium,ModerateBuy,28127337.997957103
+1871,SHZNF,industrialgoods,Shenzhen Expressway Co,2202578029,Medium,,
+1872,CENT,consumergoods,Central Garden Pet,2201573650,Medium,,54697481.98757764
+1873,TEX,industrialgoods,Terex,2199582000,Medium,Hold,69300000.0
+1874,SWN,utilities,Southwestern Energy,2198612600,Medium,Hold,674421042.9447854
+1875,CMP,basicmaterials,Compass Minerals International,2195878774,Medium,ModerateBuy,33955137.99288696
+1876,SGPPF,industrialgoods,Spar Group,2194235930,Medium,,170095808.52713177
+1877,MRVI,services,Maravai Lifesciences Holdings,2193999893,Medium,,81379817.98961423
+1878,CNX,utilities,CNX Resources,2193644255,Medium,StrongBuy,224528582.90685773
+1879,JELCF,industrialgoods,Johnson Electric Holdings,2191697042,Medium,,849494977.5193799
+1880,DACHF,basicmaterials,Daicel,2189565510,Medium,,
+1881,SMSOF,consumergoods,Samsonite International SA,2187902471,Medium,,1367439044.375
+1882,RRETY,consumergoods,Robinsons Retail,2183519019,Medium,,154530716.1358811
+1883,CELH,consumergoods,Celsius Holdings,2181073364,Medium,StrongBuy,71651555.97897503
+1884,PGRE,financial,Paramount Group,2179601275,Medium,Hold,220161744.94949493
+1885,CBGPF,financial,Close Brothers Group,2176227135,Medium,ModerateBuy,
+1886,UBEOF,basicmaterials,UBE Industries,2174694942,Medium,,
+1887,IBOC,financial,International Bancshares,2173509165,Medium,,63275375.98253275
+1888,PTJSF,industrialgoods,PT Jasa Marga (Persero) Tbk,2169747853,Medium,,
+1889,IPGDF,basicmaterials,IGO,2169406708,Medium,StrongBuy,604291562.1169916
+1890,ALVR,healthcare,AlloVir,2166480224,Medium,,62669372.98235464
+1891,PTTWF,technology,Orange Polska SA,2165389840,Medium,,
+1892,SPTJF,basicmaterials,Sinopec Shanghai Petrochemical Co,2164762800,Medium,,
+1893,MGAAF,consumergoods,Morinaga & Co,2163999467,Medium,,
+1894,SKYW,industrialgoods,SkyWest,2159537208,Medium,StrongBuy,50140171.99907128
+1895,BSEFY,services,Benesse Holdings,2158994656,Medium,,98359665.4214123
+1896,EAF,industrialgoods,GrafTech International,2158883459,Medium,ModerateBuy,267188546.9059406
+1897,EGHT,technology,8X8,2158325191,Medium,ModerateBuy,106321437.98029557
+1898,AEOJF,financial,AEON Financial Service Co,2158016760,Medium,Hold,
+1899,RUSHA,industrialgoods,Rush Enterprises A,2157731633,Medium,ModerateBuy,54736976.99137493
+1900,AFBOF,basicmaterials,African Rainbow Minerals,2157670548,Medium,,
+1901,MEIUF,technology,Meitu,2154560398,Medium,,
+1902,MAIN,financial,Main Street Capital,2154519690,Medium,ModerateBuy,66272521.99323285
+1903,ROCK,industrialgoods,Gibraltar Industries,2151664650,Medium,ModerateBuy,32522137.99879081
+1904,IOSP,basicmaterials,Innospec,2149761027,Medium,ModerateBuy,24579933.99268237
+1905,BKTOF,financial,Berner Kantonalbank AG,2149557592,Medium,,
+1906,SMPL,consumergoods,The Simply Good Foods Company,2149538746,Medium,StrongBuy,95705197.9519145
+1907,ADPPF,financial,ADO Properties SA,2145401031,Medium,ModerateSell,
+1908,SFBS,financial,ServisFirst Bancshares,2137200311,Medium,Hold,53915244.97981837
+1909,SANM,technology,Sanmina-Sci,2134152303,Medium,Hold,65065618.993902445
+1910,ONTO,technology,Onto Innovation,2133439846,Medium,StrongBuy,48831307.988097966
+1911,MTX,basicmaterials,Minerals Technologies,2132785316,Medium,ModerateBuy,33994027.988524064
+1912,NPEGF,technology,Nippon Electric Glass Co,2132372943,Medium,,
+1913,UEHPY,technology,Ultra Electronics Holdings,2130559063,Medium,,150039370.63380283
+1914,FULT,financial,Fulton Financial,2128720000,Medium,ModerateBuy,162250000.0
+1915,IIJIY,technology,Internet Initiative Japan,2125243261,Medium,,89295935.33613445
+1916,MGNI,services,Magnite,2124981155,Medium,StrongBuy,111958964.96311907
+1917,CSDXF,industrialgoods,COSCO SHIPPING Energy Transportation Co,2124160580,Medium,,4720356844.444445
+1918,AMRC,industrialgoods,Ameresco,2123817747,Medium,StrongBuy,47866074.98309669
+1919,BXRBF,financial,Bendigo & Adelaide Bank,2119963460,Medium,Hold,
+1920,TOTTF,consumergoods,Toyo Tire,2119517052,Medium,,
+1921,NTLA,healthcare,Intellia Therapeutics,2118636878,Medium,ModerateBuy,59080782.98940323
+1922,GNW,financial,Genworth Financial,2118442186,Medium,Hold,505594793.7947494
+1923,KMGIF,industrialgoods,Kamigumi Co,2117581870,Medium,,
+1924,AX,financial,Axos Financial,2114410796,Medium,StrongBuy,59045260.98855068
+1925,CLNY,financial,Colony Capital,2112745012,Medium,ModerateBuy,482361874.88584477
+1926,VRRM,industrialgoods,Verra Mobility,2112740622,Medium,ModerateBuy,162268864.97695854
+1927,SGFEF,healthcare,Siegfried Holding AG,2109492867,Medium,,
+1928,FCPT,financial,Four Corners Property,2107140521,Medium,ModerateBuy,73445120.98292087
+1929,SITC,financial,SITE Centers,2106095612,Medium,Hold,193219780.91743118
+1930,PSEC,financial,Prospect Capital,2104676762,Medium,ModerateSell,380592542.85714287
+1931,NNOX,healthcare,Nano-X Imaging,2099310757,Medium,ModerateBuy,45567847.9921858
+1932,KYMR,healthcare,Kymera Therapeutics,2098462015,Medium,ModerateBuy,44458940.995762706
+1933,EGO,basicmaterials,Eldorado Gold,2097586464,Medium,ModerateBuy,174798872.0
+1934,IMMZF,financial,IMMOFINANZ AG,2095994515,Medium,ModerateBuy,
+1935,SBGI,services,Sinclair Broadcast,2094390219,Medium,Hold,73980579.97174144
+1936,TR,consumergoods,Tootsie Roll Industries,2093684691,Medium,,66360845.99049128
+1937,EPAY,technology,Bottomline Technologies,2091466125,Medium,StrongBuy,45113591.997411564
+1938,PDM,financial,Piedmont Office,2087036298,Medium,,126028761.95652175
+1939,PVG,basicmaterials,Pretium Resources,2086006697,Medium,Hold,187253742.99820465
+1940,FRCEF,basicmaterials,Fletcher Building,2085368732,Medium,Hold,824256415.8102767
+1941,TCLHF,consumergoods,TCL Electronics Holdings,2083274111,Medium,,2604092638.75
+1942,SNYYF,industrialgoods,Sany Heavy Equipment International Holdings Co,2083132659,Medium,,4734392406.818182
+1943,IIJIF,technology,Internet Initiative Japan,2081962957,Medium,,
+1944,NNCHF,basicmaterials,Nissan Chemical,2076621409,Medium,,
+1945,EGFEY,financial,Eurobank Ergasias SA,2076408226,Medium,,7415743664.285713
+1946,CVTV,services,China VTV,2076110000,Medium,,307571851.8518519
+1947,VIE,healthcare,Viela Bio,2072859049,Medium,ModerateBuy,54837540.978835985
+1948,JACK,services,Jack In The Box,2070968842,Medium,ModerateBuy,22722940.99188062
+1949,CTB,consumergoods,Cooper Tire Rubber,2070368235,Medium,ModerateBuy,50373922.992700726
+1950,FWRD,industrialgoods,Forward Air,2069683110,Medium,ModerateBuy,27507750.000000004
+1951,FACYF,consumergoods,Fancl,2069273913,Medium,,
+1952,QURE,healthcare,uniQure,2069070556,Medium,StrongBuy,44496140.989247315
+1953,AVAV,technology,AeroVironment,2066002180,Medium,StrongBuy,24104563.994866412
+1954,RLJ,financial,RLJ Lodging,2062773050,Medium,Hold,165021844.0
+1955,MGLN,healthcare,Magellan Health,2062663262,Medium,ModerateBuy,25607240.993171945
+1956,MIXIF,technology,Mixi,2062317183,Medium,,77385260.15009381
+1957,CRLBF,basicmaterials,Cresco Labs,2061730175,Medium,StrongBuy,207835703.125
+1958,ONDSD,technology,Ondas Holdings,2058786912,Medium,,195702177.94676808
+1959,AVNS,healthcare,Avanos Medical,2056823945,Medium,Hold,47833115.0
+1960,GMUAF,industrialgoods,Gamuda Bhd,2053552093,Medium,,
+1961,ITCI,healthcare,Intra-Cellular Therapies,2051231806,Medium,StrongBuy,80157553.96639313
+1962,WSFS,financial,Wsfs Financial,2050871662,Medium,ModerateBuy,50402350.99533055
+1963,GCPEF,basicmaterials,GCL-Poly Energy Holdings,2050681753,Medium,,20506817530.0
+1964,CBWBF,financial,Canadian Western Bank,2048588025,Medium,ModerateBuy,87099830.99489796
+1965,NSTG,healthcare,NanoString Tech,2048156445,Medium,ModerateBuy,44065327.99053357
+1966,BIG,consumergoods,Big Lots,2043328879,Medium,ModerateBuy,39257038.98174832
+1967,IBA,basicmaterials,Industrias Bachoco SA De CV,2043000000,Medium,,50000000.0
+1968,YPF,utilities,YPF Sociedad Anonima,2041293395,Medium,ModerateBuy,393312792.8709056
+1969,MAANF,basicmaterials,Maanshan Iron & Steel Co,2040680514,Medium,,6802268380.0
+1970,SVC,financial,Service Properties,2039694933,Medium,ModerateBuy,164757264.37802908
+1971,IUSDF,industrialgoods,AS ONE,2034742131,Medium,,
+1972,RRC,utilities,Range Resources,2032723267,Medium,Hold,256333324.96847415
+1973,LGF.B,services,Lions Gate Entertainment Class B,2031219065,Medium,,220784680.97826087
+1974,APHA,basicmaterials,Aphria,2028281622,Medium,StrongBuy,289341172.89586306
+1975,EXXAF,basicmaterials,Exxaro Resources,2027567000,Medium,,
+1976,SNWAF,industrialgoods,Sanwa Holdings,2025656269,Medium,,
+1977,DY,industrialgoods,Dycom,2024976109,Medium,StrongBuy,31839246.996855345
+1978,WSBC,financial,WesBanco,2024631340,Medium,ModerateBuy,67218835.98937583
+1979,NOAH,financial,Noah Holdings,2023486242,Medium,,61635279.98781603
+1980,SWPIF,healthcare,Sawai Pharmaceutical Co,2018342814,Medium,,43753366.87621938
+1981,KURA,healthcare,Kura Oncology,2017106725,Medium,StrongBuy,56708088.979477085
+1982,TKCBF,industrialgoods,Tokai Carbon Co,2014296832,Medium,,
+1983,XPER,technology,Xperi,2011616198,Medium,StrongBuy,105707629.95270625
+1984,ARGKF,utilities,Aggreko,2010606377,Medium,Hold,253224984.50881612
+1985,WW,services,WW International,2008760433,Medium,ModerateBuy,68093574.0
+1986,FRHC,financial,Freedom Holding,2008689657,Medium,,58358211.99883788
+1987,WRE,financial,Washington Real Estate Investment,2008238697,Medium,ModerateBuy,82372382.9778507
+1988,EHTH,financial,Ehealth,2007041835,Medium,StrongBuy,25897314.0
+1989,QFIN,financial,360 Finance,2004064064,Medium,,146710400.0
+1990,CRRLF,technology,Chorus,2003901299,Medium,,
+1991,SPMYY,technology,Spirent,2003454683,Medium,,152935471.98473284
+1992,SHEKF,utilities,Shikoku Electric Power Company,2001524923,Medium,,
