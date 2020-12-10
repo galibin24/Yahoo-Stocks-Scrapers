@@ -1,13 +1,25 @@
 import psycopg2
 import pandas
 
+from dotenv import load_dotenv
+import os
+
+
+load_dotenv()
+
+user = os.getenv("PRODUSER")
+password = os.getenv("PRODPASSWORD")
+host = os.getenv("PRODHOST")
+
+# print(user, password, host)
 connection = psycopg2.connect(
-    user="galibin24",
-    password="Nn240494",
-    host="127.0.0.1",
+    user=user,
+    password=password,
+    host=host,
     port="5432",
-    database="local_stocks",
+    database="stocks",
 )
+
 
 cursor = connection.cursor()
 
@@ -16,10 +28,9 @@ def execute_many(df):
     """
     Using cursor.executemany() to insert the dataframe
     """
-
+    print("started writting")
     # Create a list of tupples from the dataframe values
     tuples = [tuple(x) for x in df.to_numpy()]
-    # print(tuples)
     # Comma-separated dataframe columns
     cols = ",".join(list(df.columns))
     # SQL quert to execute
@@ -29,6 +40,7 @@ def execute_many(df):
     cursor = connection.cursor()
 
     try:
+        print("writting more")
         cursor.executemany(query, tuples)
         connection.commit()
     except (Exception, psycopg2.DatabaseError) as error:

@@ -148,14 +148,16 @@ class CapScraper(object):
         dataFrame["market_cap"] = dataFrame["adj_close"] * float(sharesOut)
 
         main_db = main_db.append(dataFrame, ignore_index=True)
+        print("done")
         # saveData(dataFrame, stock)
 
 
 if __name__ == "__main__":
-    stocks = pd.read_csv(f"./stocks_info/Mega.csv", index_col=0)
-    Cap_Scraper = CapScraper(stocks, "Mega")
-    asyncio.run(Cap_Scraper.start())
+    for market in market_caps:
+        stocks = pd.read_csv(f"./stocks_info/{market}.csv", index_col=0)
+        Cap_Scraper = CapScraper(stocks, market)
+        asyncio.run(Cap_Scraper.start())
 
-    execute_many(main_db)
+        execute_many(main_db)
 
     # 1.5429834e+09
